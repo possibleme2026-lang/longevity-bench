@@ -63,11 +63,26 @@ def main() -> int:
     args = ap.parse_args()
 
     root = args.root.resolve()
+    if not root.exists():
+        raise SystemExit(f"no such path: {root}")
+
     offenders: list[Path] = []
     skipped_binary = 0
     scanned = 0
 
-    for dirpath, dirnames, filenames in os.walk(root):
+    if root.is_file():
+        # A bare file argument must actually be inspected. os.walk() yields
+        # nothing for a file, so without this branch the tool would print
+        # "all 0 text file(s) ... already use LF" and exit 0 having done
+        # nothing at all.
+        candidates = [root] if is_candidate(root) or root.suffix else [root]
+        walk = [(str(root.parent), [], [root.name])]
+        base = root.parent
+    else:
+        walk = os.walk(root)
+        base = root
+
+    for dirpath, dirnames, filenames in walk:
         dirnames[:] = [d for d in dirnames if d not in SKIP_DIRS]
         for name in filenames:
             path = Path(dirpath) / name
@@ -92,12 +107,11 @@ def main() -> int:
                 # Binary write: no newline translation, so LF stays LF.
                 path.write_bytes(data.replace(b"\r\n", b"\n"))
 
-    rel = lambda p: p.relative_to(root).as_posix() if root in p.parents or root == p.parent else str(p)
     if offenders:
         verb = "would convert" if args.check else "converted"
         print(f"{verb} {len(offenders)} file(s) from CRLF to LF:")
         for path in sorted(offenders):
-            print("   ", path.relative_to(root).as_posix())
+            print("   ", path.relative_to(base).as_posix())
     else:
         print(f"all {scanned} text file(s) under {root} already use LF")
     if skipped_binary:
