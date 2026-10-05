@@ -267,8 +267,11 @@ def migrate(task_dir: Path, dry_run: bool = False) -> list:
         kept.append(line)
 
     if not dry_run:
-        readme.write_text(body, encoding="utf-8")
-        toml_path.write_text("\n".join(kept), encoding="utf-8")
+        # newline="\n": both targets are tracked task files. The default
+        # newline=None would translate "\n" to os.linesep and convert the task's
+        # README.md and task.toml to CRLF on Windows.
+        readme.write_text(body, encoding="utf-8", newline="\n")
+        toml_path.write_text("\n".join(kept), encoding="utf-8", newline="\n")
     return moved, notes
 
 
@@ -364,7 +367,7 @@ def main(argv=None) -> int:
             skipped.append(d.name)
             continue
         if not args.dry_run:
-            readme.write_text(body, encoding="utf-8")
+            readme.write_text(body, encoding="utf-8", newline="\n")
         wrote.append(d.name)
 
     if args.check:

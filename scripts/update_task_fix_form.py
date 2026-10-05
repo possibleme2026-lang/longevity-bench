@@ -77,7 +77,10 @@ def main() -> int:
         print(f"{FORM}: dropdown already lists {len(paths)} tasks")
         return 0
     updated = text[: m.start("body")] + new_body + text[m.end("body") :]
-    FORM.write_text(updated, encoding="utf-8")
+    # newline="\n": this rewrites a tracked YAML file (.github/ISSUE_TEMPLATE/
+    # task-fix.yml). The default newline=None translates "\n" to os.linesep and
+    # would convert it to CRLF on Windows.
+    FORM.write_text(updated, encoding="utf-8", newline="\n")
     print(f"{FORM}: dropdown now lists {len(paths)} tasks")
     return 0
 

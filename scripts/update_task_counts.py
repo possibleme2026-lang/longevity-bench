@@ -214,10 +214,15 @@ def main():
     badge_pattern = r'(\[!\[Tasks\]\(https://img\.shields\.io/badge/tasks-)\d+(-white\.svg\)\])'
     content = re.sub(badge_pattern, rf'\g<1>{total}\2', content)
 
-    readme_path.write_text(content, encoding="utf-8")
+    # newline="\n" is load-bearing: this script rewrites README.md and
+    # assets/task-coverage.svg, which are tracked files. Path.write_text defaults
+    # to newline=None, which translates "\n" to os.linesep -- on Windows that
+    # silently converts both files to CRLF on every run.
+    readme_path.write_text(content, encoding="utf-8", newline="\n")
     coverage_path = Path('assets/task-coverage.svg')
     coverage_path.parent.mkdir(parents=True, exist_ok=True)
-    coverage_path.write_text(render_coverage_svg(domain_counts, counts, total), encoding="utf-8")
+    coverage_path.write_text(render_coverage_svg(domain_counts, counts, total),
+                             encoding="utf-8", newline="\n")
 
     print("Updated task counts and assets/task-coverage.svg")
     print(f"  Total tasks: {total}")
