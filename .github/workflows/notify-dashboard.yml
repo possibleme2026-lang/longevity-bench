@@ -1,0 +1,90 @@
+name: Notify Task Dashboard
+
+# ─────────────────────────────────────────────────────────────────────────────
+# UPSTREAM INHERITED — CURRENTLY INERT. NO DASHBOARD EXISTS FOR THIS REPOSITORY.
+# ─────────────────────────────────────────────────────────────────────────────
+# Ported verbatim from Terminal-Bench-Science, where this workflow did this:
+#
+#   It pinged the maintainer's external task dashboard
+#   (StevenDillmann/tb-science-task-dashboard) via a `repository_dispatch` of
+#   type `upstream-changed` on every event the dashboard displayed — PRs, task
+#   proposal discussions, reviews, labels, assignees — so the dashboard rebuilt
+#   immediately instead of waiting for its own slow polling cron (GitHub
+#   throttles short schedules to hours). It needed a repo secret
+#   DASHBOARD_DISPATCH_TOKEN: a fine-grained PAT (or a classic PAT with `repo`
+#   scope) able to trigger workflows on the dashboard repo, whose rebuild.yml
+#   listened for the `upstream-changed` dispatch.
+#
+# None of that is true for this repository:
+#   - there is no dashboard repository for Longevity-Bench;
+#   - DASHBOARD_DISPATCH_TOKEN is not configured here, so every run would take
+#     the "token not set" warning path; and
+#   - `StevenDillmann/tb-science-task-dashboard` is another project's repo, so
+#     even a correctly-scoped token would be dispatching someone else's rebuild.
+#
+# It therefore no longer fires on pull_request_target / pull_request_review /
+# discussion / discussion_comment events. Those triggers were removed because
+# they would run (and warn, or fail on a missing secret) on every PR in this
+# repo for no benefit. The job body is left intact so the upstream behaviour is
+# still legible and re-enabling is a trigger change, not a rewrite.
+#
+# TO RE-ENABLE, the owner must:
+#   1. Build or designate a dashboard for THIS repository and give it a
+#      `repository_dispatch` (or `workflow_dispatch`) listener for some event
+#      type — the inherited job sends `upstream-changed`.
+#   2. Create a repo secret named DASHBOARD_DISPATCH_TOKEN holding a PAT that can
+#      trigger workflows on that dashboard's repository.
+#   3. Replace the hard-coded `repos/<owner>/<repo>` target in the job below with
+#      the real dashboard repository (and rename `client_payload[reason]` if the
+#      new listener expects a different key).
+#   4. Restore the original event triggers, which upstream used verbatim:
+#          pull_request_target:
+#            types: [opened, closed, reopened, edited, labeled, unlabeled, assigned, unassigned]
+#          pull_request_review:
+#            types: [submitted, dismissed]
+#          discussion:
+#            types: [created, edited, deleted, labeled, unlabeled, category_changed]
+#          discussion_comment:
+#            types: [created, edited, deleted]
+#   5. Decide whether the payload should carry end-user data at all — upstream
+#      sent only the event name, which is safe, but a richer payload would need a
+#      privacy review since these events include discussion text.
+# ─────────────────────────────────────────────────────────────────────────────
+
+on:
+  # workflow_dispatch only, so the file stays runnable (and inspectable) without
+  # ever firing automatically against a dashboard that does not exist.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  # Debounce bursts (several labels applied at once, a review + label together,
+  # etc.) into a single dispatch: a newer event cancels a still-queued ping.
+  # Safe to cancel here — this job only makes an API POST, never deploys.
+  group: notify-dashboard
+  cancel-in-progress: true
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch dashboard rebuild
+        env:
+          GH_TOKEN: ${{ secrets.DASHBOARD_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::DASHBOARD_DISPATCH_TOKEN not set; skipping dashboard ping."
+            exit 0
+          fi
+          # TODO(owner): this target is Terminal-Bench-Science's dashboard repo and
+          # is WRONG for Longevity-Bench. Point it at a dashboard for this repo, or
+          # delete this workflow, before relying on it. See the header above.
+          gh api \
+            --method POST \
+            repos/StevenDillmann/tb-science-task-dashboard/dispatches \
+            -f event_type=upstream-changed \
+            -F "client_payload[reason]=${GITHUB_EVENT_NAME}" \
+            && echo "Dashboard rebuild dispatched (${GITHUB_EVENT_NAME})." \
+            || echo "::warning::Dashboard dispatch failed (token/permissions?)."

@@ -1,0 +1,24 @@
+# Every issue goes through one of the two forms so it lands labelled and
+# routed: `task fix` reaches the task's original reviewers automatically,
+# `infra` reaches the maintainers. Task ideas and questions aren't issues.
+#
+# TODO(owner): both `contact_links` below are PLACEHOLDERS inherited from
+# Terminal-Bench-Science and must be filled in before this repo opens to
+# contributors. The upstream targets were its own Airtable "Task Proposal" form
+# and the Terminal-Bench Discord invite; neither belongs to this project, and
+# this repository has no owner/repo URL baked in that a static YAML file could
+# point at. Replace each `example.invalid` URL with a real destination for THIS
+# repo (for example a GitHub Discussions category URL, a form, or a chat invite)
+# and reword the matching `about:` line, or delete the entry if there is nothing
+# to link to yet. `example.invalid` is a reserved, non-resolvable TLD, so these
+# are deliberately dead links rather than plausible-looking wrong ones.
+blank_issues_enabled: false
+contact_links:
+  - name: Propose a new task
+    # TODO(owner): replace with this repo's real task-proposal entry point.
+    url: https://example.invalid/REPLACE-WITH-TASK-PROPOSAL-FORM
+    about: New task ideas go through the Task Proposal form, not the issue tracker.
+  - name: Ask a question
+    # TODO(owner): replace with this repo's real community chat / Q&A channel.
+    url: https://example.invalid/REPLACE-WITH-COMMUNITY-CHAT-INVITE
+    about: Scope checks, "is this in range?", and general questions.

@@ -1,0 +1,23 @@
+# This repository ships Linux-container content: shell scripts, Dockerfiles, pytest
+# verifiers and CI workflows. Every one of them breaks on CRLF line endings — a
+# `#!/bin/bash` script fails with `$'\r': command not found`, and a Dockerfile with
+# CRLF breaks its line continuations. Contributors on Windows routinely have
+# `core.autocrlf=true`, which would rewrite the working tree to CRLF on checkout, so
+# the repository forces LF for everyone instead of relying on local git config.
+* text=auto eol=lf
+
+# Explicit, so that bin/git autodetection cannot get it wrong for these.
+*.sh            text eol=lf
+*.py            text eol=lf
+*.md            text eol=lf
+*.toml          text eol=lf
+*.yml           text eol=lf
+*.yaml          text eol=lf
+*.json          text eol=lf
+*.txt           text eol=lf
+Dockerfile      text eol=lf
+.gitattributes  text eol=lf
+.gitignore      text eol=lf
+
+README.md merge=ours
+CONTRIBUTING.md merge=ours

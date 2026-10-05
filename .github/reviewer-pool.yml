@@ -1,0 +1,75 @@
+# Reviewer pool config for the parallel review model.
+#
+# Two reviewers are assigned up front and review in PARALLEL:
+#
+#   domain slot — field-routed:
+#     For a task in field <F>, the candidate pool is reviewers_by_field[<F>].
+#     If that pool is empty, the picker falls back to `reviewers_domain_backup`,
+#     then to `reviewers_technical` as a last resort.
+#     Field is parsed from the task folder
+#     (`tasks/<domain>/<field>/<task>/...` → <field>).
+#
+#   technical slot:
+#     Candidate pool is `reviewers_technical`. Picked excluding the domain
+#     reviewer so the two slots are always distinct people.
+#
+#   final slot — final decision:
+#     Assigned only once BOTH the domain and technical reviewers have approved.
+#
+# NOTE: the `reviewers_by_field` KEYS are the authoritative list of valid
+# `<field>` values — `ci_checks/check-task-path.sh` reads them from here. If you
+# rename a field, rename it here too (and in check-task-path.sh's
+# CANONICAL_DOMAINS list, scripts/update_task_counts.py, README.md, CONTRIBUTING.md).
+#
+# Every list below is intentionally empty until real reviewers are recruited.
+# An empty field list falls back to `reviewers_domain_backup`; keep the pools
+# non-empty before you switch the review bot on.
+
+# ────────────────────────────────────────────────────────────────────
+# domain slot: domain-specific reviewers (field-routed)
+# ────────────────────────────────────────────────────────────────────
+
+reviewers_by_field:
+  # aging-biology
+  cellular-senescence: []
+  epigenetic-clocks: []
+  proteostasis: []
+  mitochondrial-function: []
+  inflammaging: []
+
+  # clinical-aging
+  geriatric-assessment: []
+  frailty: []
+  multimorbidity: []
+  clinical-trials: []
+
+  # geroscience-pharmacology
+  senolytics: []
+  geroprotectors: []
+  dose-response: []
+
+  # aging-quantitative
+  survival-analysis: []
+  causal-inference: []
+  omics-integration: []
+  biomarker-validation: []
+
+# ────────────────────────────────────────────────────────────────────
+# domain-slot backup: used when a task's field has no assigned reviewer.
+#   Tried before falling through to reviewers_technical.
+# ────────────────────────────────────────────────────────────────────
+
+reviewers_domain_backup: []
+
+# ────────────────────────────────────────────────────────────────────
+# technical slot: cross-domain reviewers
+#   Also the last-resort fallback for the domain slot.
+# ────────────────────────────────────────────────────────────────────
+
+reviewers_technical: []
+
+# ────────────────────────────────────────────────────────────────────
+# final slot: final decision (assigned after both parallel approvals)
+# ────────────────────────────────────────────────────────────────────
+
+reviewers_final: []
