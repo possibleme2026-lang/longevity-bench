@@ -24,7 +24,7 @@
   },
   {
     "label": "tabula-muris-senis",
-    "fields": ["aging-biology/cellular-senescence", "aging-quantitative/omics-integration"],
+    "fields": ["aging-quantitative/omics-integration"],
     "pmid": "32669714",
     "doi": "10.1038/s41586-020-2496-1",
     "url": "https://tabula-muris-senis.ds.czbiohub.org/",
@@ -66,20 +66,6 @@
     "fields": ["aging-biology/mitochondrial-function"],
     "geo": "GSE64553",
     "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64553/",
-    "license": "Public domain (NCBI GEO)"
-  },
-  {
-    "label": "gse84722-fibroblast-coding-noncoding",
-    "fields": ["aging-biology/cellular-senescence"],
-    "geo": "GSE84722",
-    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84722/",
-    "license": "Public domain (NCBI GEO)"
-  },
-  {
-    "label": "gse111629-parkinson-methylation",
-    "fields": ["aging-biology/epigenetic-clocks"],
-    "geo": "GSE111629",
-    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE111nnn/GSE111629/",
     "license": "Public domain (NCBI GEO)"
   }
 ]

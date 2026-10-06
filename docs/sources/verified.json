@@ -51,7 +51,7 @@
         "status": "ok",
         "ok": true,
         "title": "DNA methylation age of human tissues and cell types (2013)",
-        "note": "DOI 10.1186/gb-2013-14-10-r115"
+        "note": "DOI 10.1186/gb-2013-14-10-r115 via Crossref"
       },
       "url": {
         "status": "ok",
@@ -91,7 +91,6 @@
   {
     "label": "tabula-muris-senis",
     "fields": [
-      "aging-biology/cellular-senescence",
       "aging-quantitative/omics-integration"
     ],
     "pmid": "32669714",
@@ -109,7 +108,7 @@
         "status": "ok",
         "ok": true,
         "title": "A single-cell transcriptomic atlas characterizes ageing tissues in the mouse (2020)",
-        "note": "DOI 10.1038/s41586-020-2496-1"
+        "note": "DOI 10.1038/s41586-020-2496-1 via Crossref"
       },
       "url": {
         "status": "ok",
@@ -141,7 +140,7 @@
         "status": "ok",
         "ok": true,
         "title": "The GTEx Consortium atlas of genetic regulatory effects across human tissues (2020)",
-        "note": "DOI 10.1126/science.aaz1776"
+        "note": "DOI 10.1126/science.aaz1776 via Crossref"
       },
       "url": {
         "status": "ok",
@@ -173,7 +172,7 @@
         "status": "ok",
         "ok": true,
         "title": "Hallmarks of aging: An expanding universe (2023)",
-        "note": "DOI 10.1016/j.cell.2022.11.001"
+        "note": "DOI 10.1016/j.cell.2022.11.001 via Crossref"
       },
       "url": {
         "status": "ok",
@@ -205,7 +204,7 @@
         "status": "ok",
         "ok": true,
         "title": "An epigenetic biomarker of aging for lifespan and healthspan (2018)",
-        "note": "DOI 10.18632/aging.101414"
+        "note": "DOI 10.18632/aging.101414 via Crossref"
       },
       "url": {
         "status": "ok",
@@ -230,7 +229,7 @@
         "status": "ok",
         "ok": true,
         "title": "DNA methylation GrimAge strongly predicts lifespan and healthspan (2019)",
-        "note": "DOI 10.18632/aging.101684"
+        "note": "DOI 10.18632/aging.101684 via Crossref"
       },
       "url": {
         "status": "ok",
@@ -262,56 +261,6 @@
         "ok": true,
         "title": "landing",
         "note": "landing or directory page (Index of /geo/series/GSE64nnn/GSE64553)"
-      }
-    },
-    "all_declared_identifiers_resolve": true,
-    "verification_incomplete": false
-  },
-  {
-    "label": "gse84722-fibroblast-coding-noncoding",
-    "fields": [
-      "aging-biology/cellular-senescence"
-    ],
-    "geo": "GSE84722",
-    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84722/",
-    "license": "Public domain (NCBI GEO)",
-    "verified": {
-      "geo": {
-        "status": "ok",
-        "ok": true,
-        "title": "Integrative classification of human coding and non-coding genes based on RNA metabolism profiles",
-        "note": "GEO GSE84722"
-      },
-      "url": {
-        "status": "ok",
-        "ok": true,
-        "title": "landing",
-        "note": "landing or directory page (Index of /geo/series/GSE84nnn/GSE84722)"
-      }
-    },
-    "all_declared_identifiers_resolve": true,
-    "verification_incomplete": false
-  },
-  {
-    "label": "gse111629-parkinson-methylation",
-    "fields": [
-      "aging-biology/epigenetic-clocks"
-    ],
-    "geo": "GSE111629",
-    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE111nnn/GSE111629/",
-    "license": "Public domain (NCBI GEO)",
-    "verified": {
-      "geo": {
-        "status": "ok",
-        "ok": true,
-        "title": "Genome wide DNA methylation study of Parkinson's disease in whole blood samples",
-        "note": "GEO GSE111629"
-      },
-      "url": {
-        "status": "ok",
-        "ok": true,
-        "title": "landing",
-        "note": "landing or directory page (Index of /geo/series/GSE111nnn/GSE111629)"
       }
     },
     "all_declared_identifiers_resolve": true,

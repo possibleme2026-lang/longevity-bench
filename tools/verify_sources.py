@@ -111,19 +111,48 @@ def check_pmid(pmid):
 
 
 def check_doi(doi):
-    """DOI -> (status, 'title (year)', note)."""
-    def run():
+    """DOI -> (status, 'title (year)', note).
+
+    DOIs are registered with either Crossref or DataCite, and asking the wrong
+    one returns a perfectly convincing 404. Two source agents lost Zenodo,
+    figshare and Dryad deposits to this -- DataCite DOIs that can never resolve
+    against Crossref however real the dataset is -- so both registries are tried
+    and the one that answered is recorded.
+    """
+    def from_crossref():
         msg = _get_json("https://api.crossref.org/works/" + urllib.parse.quote(doi))["message"]
         title = ((msg.get("title") or [""])[0] or "").strip()
         if not title:
-            return MISSING, None, "Crossref record has no title"
+            return None
         year = None
         for key in ("published-print", "published-online", "issued", "created"):
             parts = (msg.get(key) or {}).get("date-parts") or []
             if parts and parts[0] and parts[0][0]:
                 year = parts[0][0]
                 break
-        return OK, f"{title} ({year})", f"DOI {doi}"
+        return title, year, "Crossref"
+
+    def from_datacite():
+        data = _get_json("https://api.datacite.org/dois/" + urllib.parse.quote(doi))["data"]
+        attrs = data.get("attributes") or {}
+        titles = attrs.get("titles") or []
+        title = ((titles[0] or {}).get("title") or "").strip() if titles else ""
+        if not title:
+            return None
+        return title, attrs.get("publicationYear"), "DataCite"
+
+    def run():
+        for lookup in (from_crossref, from_datacite):
+            try:
+                found = lookup()
+            except urllib.error.HTTPError as exc:
+                if exc.code == 404:
+                    continue
+                raise
+            if found:
+                title, year, registry = found
+                return OK, f"{title} ({year})", f"DOI {doi} via {registry}"
+        return MISSING, None, "no Crossref or DataCite record"
 
     return _lookup(run)
 
@@ -131,8 +160,10 @@ def check_doi(doi):
 CHECKS = {"geo": check_geo, "pmid": check_pmid, "doi": check_doi}
 
 # Markers that appear only on a web page, and ones that appear only on an error
-# page, whatever the status code said.
-HTML_MARKERS = (b"<!doctype", b"<html", b"<head", b"<title>")
+# page, whatever the status code said. The head marker needs its closing bracket:
+# Stata's binary .dta header begins "<stata_dta><header>", so a bare b"<head"
+# reports every Stata file as a soft-404.
+HTML_MARKERS = (b"<!doctype", b"<html", b"<head>", b"<head ", b"<title>")
 HTML_ERROR_MARKERS = (b"page not found", b"access denied", b"not found</h1",
                       b"error 404", b"404 not found", b"no such file")
 # Extensions that mean "this URL should have served bytes, not a web page".
@@ -231,6 +262,15 @@ def verify(entry):
 
 
 def main():
+    # Bibliographic titles are not ASCII: one containing U+00A0 killed the tool
+    # with UnicodeEncodeError on a GBK console and exited 1 with every entry
+    # resolved. Verdicts must not depend on the terminal's code page.
+    for stream in (sys.stdout, sys.stderr):
+        try:
+            stream.reconfigure(encoding="utf-8", errors="replace")
+        except (AttributeError, OSError):
+            pass
+
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("candidates", help="JSON list of candidate sources")
