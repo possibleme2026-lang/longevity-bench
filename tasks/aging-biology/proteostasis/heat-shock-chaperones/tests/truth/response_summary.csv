@@ -1,0 +1,4 @@
+state,n_genes_tested,n_chaperones_tested,n_significant,n_induced,n_repressed,n_er_chaperones_tested,n_er_chaperones_induced,n_cytosolic_chaperones_tested,n_cytosolic_chaperones_induced
+proliferating,18206,308,108,31,3,90,4,164,25
+quiescent,18586,308,106,31,2,89,3,164,26
+senescent,19587,312,61,31,2,92,4,164,26
