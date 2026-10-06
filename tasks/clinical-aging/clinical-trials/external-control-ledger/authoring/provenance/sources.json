@@ -1,0 +1,22 @@
+{
+  "task": "external-control-ledger",
+  "retrieved_utc": "2026-10-06T13:48:20Z",
+  "catalogue": "docs/sources/verified-quantitative.json",
+  "files": [
+    {
+      "path": "environment/data/nhanes_2017_2018_mort_2019_public.dat",
+      "origin": "real",
+      "sha256": "42989d4fe35754d696b770f26553b0a309c110a9e26ab0ee504be3eae5987523",
+      "bytes": 449623,
+      "source_label": "nhanes-2017-2018-linked-mortality-2019",
+      "transform": "Verbatim (449623 bytes, no transformation, no field dropped, no value edited, no record added or removed). The file is the NHANES 2017-2018 public-use Linked Mortality File with follow-up through 2019-12-31, downloaded from the NCHS datalinkage directory named in the catalogue entry and shipped byte for byte as served: fixed-width ASCII, CRLF line endings, 9254 records of 46 or 47 characters, fields SEQN 1-6, ELIGSTAT 15, MORTSTAT 16, UCOD_LEADING 17-19, DIABETES 20, HYPERTEN 21, PERMTH_INT 43-45, PERMTH_EXM 46-48. The record layout is not self-describing, so it is transcribed separately in environment/data/LMF_LAYOUT.md; authoring/provenance/fetch.py re-downloads the file and refuses to rebuild when the upstream digest or byte count has moved, and re-checks the committed bytes with --check."
+    },
+    {
+      "path": "environment/data/LMF_LAYOUT.md",
+      "origin": "authored",
+      "sha256": "29a2dcd854d6edbeedac981d88287129c3bbe2ce57e26356f5ae411b6c064497",
+      "bytes": 3387,
+      "note": "Hand-written transcription of the record layout and code meanings NCHS publishes for the public-use Linked Mortality Files (SAS_ReadInProgramAllSurveys.sas, kept verbatim at authoring/provenance/cdc_sas_readin_reference.sas, plus the LMF documentation). This is a schema, not a measurement: it carries no measured values, and every number in it is a field position or a code definition. It exists because the fixed-width extract does not describe its own columns."
+    }
+  ]
+}

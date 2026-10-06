@@ -1,0 +1,2 @@
+records_total,linkage_eligible,admitted,excluded_under_18,excluded_ineligible,excluded_no_exam,deaths_admitted,deaths_excluded_no_exam,person_months_admitted,crude_death_rate_per_1000pm,heart_deaths,neoplasm_deaths,cerebrovascular_deaths,other_cause_deaths,mcod_diabetes_deaths
+9254,5809,5498,3398,47,311,130,15,129207,1.006137,33,31,0,66,15
