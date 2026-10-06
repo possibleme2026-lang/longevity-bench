@@ -1,0 +1,11 @@
+# Generated per-candidate verifier outputs from the ablation sweep.
+#
+# These are the evidence that the calibration is real, but each candidate writes
+# a full copy of the deliverable tables, so the directory reaches ~13.5 MB here
+# and would grow the repository by an order of magnitude across the suite for
+# content that is reproducible on demand. The scored summary that a reviewer
+# actually needs -- which candidate passed, which single defect failed, and on
+# which statistic -- lives in authoring/evidence/ablations.md and is committed.
+#
+# Regenerate with: python3 authoring/evidence/measure_ablations.py
+authoring/evidence/candidates/

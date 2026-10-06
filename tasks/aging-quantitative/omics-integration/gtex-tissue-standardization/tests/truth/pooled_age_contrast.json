@@ -1,0 +1,10 @@
+{
+  "attenuation_fraction": 0.2615518274786047,
+  "crude_difference_all_rnaseq_min": 384.0,
+  "crude_difference_min": 375.0,
+  "n_contributing_tissues": 50,
+  "n_samples_analysed": 10791,
+  "n_tissues_in_scope": 51,
+  "n_tissues_single_group": 1,
+  "standardized_difference_min": 276.91806469552324
+}
