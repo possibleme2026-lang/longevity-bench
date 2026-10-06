@@ -1,0 +1,11 @@
+rank,cell_line,panel,log10_gi50
+1,K-562,Leukemia,-8.692945
+2,SR,Leukemia,-8.627191
+3,HCT-116,Colon,-8.570833
+4,PC-3,Prostate,-8.513753
+5,NCI-H460,Non-Small Cell Lung,-8.265118
+6,CCRF-CEM,Leukemia,-8.087237
+7,HCT-15,Colon,-8.070052
+8,LOX IMVI,Melanoma,-8.056810
+9,786-0,Renal,-8.051420
+10,CAKI-1,Renal,-8.040852

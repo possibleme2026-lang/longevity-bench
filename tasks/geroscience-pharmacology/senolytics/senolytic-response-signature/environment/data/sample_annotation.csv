@@ -1,0 +1,33 @@
+sample_id,sample_title,age_weeks,treatment,compartment,batch,strain
+GSM8618047,9_SMJ 4W 90 AF_(Clariom_S_Mouse),4,Baseline,AF,NotReported,SM/J
+GSM8618048,10_SMJ 4W 91 AF_(Clariom_S_Mouse),4,Baseline,AF,NotReported,SM/J
+GSM8618049,11_SMJ 4W 93 AF_(Clariom_S_Mouse),4,Baseline,AF,NotReported,SM/J
+GSM8618050,12_SMJ 4W 94 AF_(Clariom_S_Mouse),4,Baseline,AF,NotReported,SM/J
+GSM8618051,13_SMJ 4W 90 NP_(Clariom_S_Mouse),4,Baseline,NP,NotReported,SM/J
+GSM8618052,14_SMJ 4W 91 NP_(Clariom_S_Mouse),4,Baseline,NP,NotReported,SM/J
+GSM8618053,15_SMJ 4W 93 NP_(Clariom_S_Mouse),4,Baseline,NP,NotReported,SM/J
+GSM8618054,16_SMJ 4W 94 NP_(Clariom_S_Mouse),4,Baseline,NP,NotReported,SM/J
+GSM8618055,01_Veh_NP_7-21-20_(Clariom_S_Mouse),17,Veh,NP,2020-07-21,SM/J
+GSM8618056,02_Veh_NP_7-21-20_(Clariom_S_Mouse),17,Veh,NP,2020-07-21,SM/J
+GSM8618057,03_Veh_NP_7-21-20_(Clariom_S_Mouse),17,Veh,NP,2020-07-21,SM/J
+GSM8618058,04_Veh_NP_7-21-20_(Clariom_S_Mouse),17,Veh,NP,2020-07-21,SM/J
+GSM8618059,05_Veh_NP_7-21-20_(Clariom_S_Mouse),17,Veh,NP,2020-07-21,SM/J
+GSM8618060,06_Veh_NP_7-21-20_(Clariom_S_Mouse),17,Veh,NP,2020-07-21,SM/J
+GSM8618061,07_DQ_NP_7-21-20_(Clariom_S_Mouse),17,DQ,NP,2020-07-21,SM/J
+GSM8618062,08_DQ_NP_7-21-20_(Clariom_S_Mouse),17,DQ,NP,2020-07-21,SM/J
+GSM8618063,09_DQ_NP_7-21-20_(Clariom_S_Mouse),17,DQ,NP,2020-07-21,SM/J
+GSM8618064,10_DQ_NP_7-21-20_(Clariom_S_Mouse),17,DQ,NP,2020-07-21,SM/J
+GSM8618065,11_DQ_NP_7-21-20_(Clariom_S_Mouse),17,DQ,NP,2020-07-21,SM/J
+GSM8618066,12_DQ_NP_7-21-20_(Clariom_S_Mouse),17,DQ,NP,2020-07-21,SM/J
+GSM8618067,13_Veh_AF_9-3-20_(Clariom_S_Mouse),17,Veh,AF,2020-09-03,SM/J
+GSM8618068,14_Veh_AF_9-3-20_(Clariom_S_Mouse),17,Veh,AF,2020-09-03,SM/J
+GSM8618069,15_Veh_AF_9-3-20_(Clariom_S_Mouse),17,Veh,AF,2020-09-03,SM/J
+GSM8618070,16_Veh_AF_9-3-20_(Clariom_S_Mouse),17,Veh,AF,2020-09-03,SM/J
+GSM8618071,17_Veh_AF_9-3-20_(Clariom_S_Mouse),17,Veh,AF,2020-09-03,SM/J
+GSM8618072,18_Veh_AF_9-3-20_(Clariom_S_Mouse),17,Veh,AF,2020-09-03,SM/J
+GSM8618073,19_DQ_AF_9-3-20_(Clariom_S_Mouse),17,DQ,AF,2020-09-03,SM/J
+GSM8618074,20_DQ_AF_9-3-20_(Clariom_S_Mouse),17,DQ,AF,2020-09-03,SM/J
+GSM8618075,21_DQ_AF_9-3-20_(Clariom_S_Mouse),17,DQ,AF,2020-09-03,SM/J
+GSM8618076,22_DQ_AF_9-3-20_(Clariom_S_Mouse),17,DQ,AF,2020-09-03,SM/J
+GSM8618077,23_DQ_AF_9-3-20_(Clariom_S_Mouse),17,DQ,AF,2020-09-03,SM/J
+GSM8618078,24_DQ_AF_9-3-20_(Clariom_S_Mouse),17,DQ,AF,2020-09-03,SM/J

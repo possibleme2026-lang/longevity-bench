@@ -93,7 +93,7 @@ def assert_is_workbook(name: str, payload: bytes) -> None:
             f"xlsx. Members: {sorted(names)[:8]}")
 
 
-def gather(upstream_dir: Path | None, check_only: bool) -> Path:
+def gather(upstream_dir: Path | None) -> Path:
     """Return a directory holding verified copies of both workbooks."""
     if upstream_dir is not None:
         for entry in UPSTREAM:
@@ -114,8 +114,7 @@ def gather(upstream_dir: Path | None, check_only: bool) -> Path:
                 f"{entry['bytes']} bytes / {entry['sha256']}, got {size} bytes / {digest}. "
                 "Refusing to rebuild the fixture from bytes nobody chose.")
         assert_is_workbook(entry["filename"], payload)
-        if not check_only:
-            (tmp / entry["filename"]).write_bytes(payload)
+        (tmp / entry["filename"]).write_bytes(payload)
     return tmp
 
 
@@ -127,7 +126,7 @@ def main() -> int:
                         help="verify the upstream digests and the fixture, write nothing")
     args = parser.parse_args()
 
-    upstream_dir = gather(args.upstream_dir, args.check)
+    upstream_dir = gather(args.upstream_dir)
     for entry in UPSTREAM:
         path = upstream_dir / entry["filename"]
         payload = path.read_bytes()

@@ -1,0 +1,19 @@
+sample_id,library_name,arm,contrast_stem,dose_in_chow
+GSM9035618,C57BL6_1_AL_1,ad_libitum_control,Cntrl,ad libitum
+GSM9035619,C57BL6_1_AL_2,ad_libitum_control,Cntrl,ad libitum
+GSM9035620,C57BL6_1_AL_3,ad_libitum_control,Cntrl,ad libitum
+GSM9035621,C57BL6_1_AL_4,ad_libitum_control,Cntrl,ad libitum
+GSM9035622,C57BL6_1_AL_5,ad_libitum_control,Cntrl,ad libitum
+GSM9035623,C57BL6_1_AL_6,ad_libitum_control,Cntrl,ad libitum
+GSM9035624,C57BL6_1_Rapamycin_1,rapamycin,Rpmycn,42 mg/kg/day
+GSM9035625,C57BL6_1_Rapamycin_2,rapamycin,Rpmycn,42 mg/kg/day
+GSM9035626,C57BL6_1_Rapamycin_3,rapamycin,Rpmycn,42 mg/kg/day
+GSM9035627,C57BL6_1_Metformin_1,metformin,Mtfrmn,37.5 mg/kg/day
+GSM9035628,C57BL6_1_Metformin_2,metformin,Mtfrmn,37.5 mg/kg/day
+GSM9035629,C57BL6_1_Metformin_3,metformin,Mtfrmn,37.5 mg/kg/day
+GSM9035630,C57BL6_1_TM5614_1,tm5614,TM5614,20 mg/kg/day
+GSM9035631,C57BL6_1_TM5614_2,tm5614,TM5614,20 mg/kg/day
+GSM9035632,C57BL6_1_TM5614_3,tm5614,TM5614,20 mg/kg/day
+GSM9035633,C57BL6_1_CR_1,caloric_restriction,CalRstrn,30% caloric restriction
+GSM9035634,C57BL6_1_CR_2,caloric_restriction,CalRstrn,30% caloric restriction
+GSM9035635,C57BL6_1_CR_3,caloric_restriction,CalRstrn,30% caloric restriction

@@ -1,0 +1,50 @@
+{
+  "contrast": "D+Q vs Veh",
+  "treated_samples": [
+    "GSM8618061",
+    "GSM8618062",
+    "GSM8618063",
+    "GSM8618064",
+    "GSM8618065",
+    "GSM8618066",
+    "GSM8618073",
+    "GSM8618074",
+    "GSM8618075",
+    "GSM8618076",
+    "GSM8618077",
+    "GSM8618078"
+  ],
+  "control_samples": [
+    "GSM8618055",
+    "GSM8618056",
+    "GSM8618057",
+    "GSM8618058",
+    "GSM8618059",
+    "GSM8618060",
+    "GSM8618067",
+    "GSM8618068",
+    "GSM8618069",
+    "GSM8618070",
+    "GSM8618071",
+    "GSM8618072"
+  ],
+  "excluded_samples": [
+    "GSM8618047",
+    "GSM8618048",
+    "GSM8618049",
+    "GSM8618050",
+    "GSM8618051",
+    "GSM8618052",
+    "GSM8618053",
+    "GSM8618054"
+  ],
+  "model_covariates": [
+    "compartment"
+  ],
+  "multiple_testing_correction": "Benjamini-Hochberg",
+  "n_transcripts_tested": 22142,
+  "n_significant_fdr_05": 1670,
+  "caveats": [
+    "None"
+  ]
+}

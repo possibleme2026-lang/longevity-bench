@@ -1,0 +1,120 @@
+gene_symbol,classification,state
+Acvr1b,Transmembrane signal receptors,Transmembrane
+Ang,Miscellaneous,Secreted
+Angpt1,Intercellular signal molecule,Secreted
+Angptl4,Intercellular signal molecule,Secreted
+Areg,Growth factor,Intracellular
+Axl,Transmembrane signal receptors,Transmembrane
+Bex3,Miscellaneous,Intracellular
+Bmp2,Growth factor,Secreted
+Bmp6,Growth factor,Secreted
+C3,Protease inhibitors,Secreted
+Ccl1,Cytokine/Chemokine,Secreted
+Ccl2,Cytokine/Chemokine,Secreted
+Ccl20,Cytokine/Chemokine,Secreted
+Ccl24,Cytokine/Chemokine,Secreted
+Ccl26,Cytokine/Chemokine,Secreted
+Ccl3,Cytokine/Chemokine,Secreted
+Ccl4,Cytokine/Chemokine,Secreted
+Ccl5,Cytokine/Chemokine,Secreted
+Ccl7,Cytokine/Chemokine,Secreted
+Ccl8,Cytokine/Chemokine,Secreted
+Cd55,Miscellaneous,Secreted
+Cd9,Transmembrane signal receptors,Transmembrane
+Csf1,Cytokine/Chemokine,Secreted
+Csf2,Cytokine/Chemokine,Secreted
+Csf2rb,Transmembrane signal receptors,Transmembrane
+Cst10,Protease inhibitors,Secreted
+Ctnnb1,Transcription factors and regulators,Transmembrane
+Ctsb,(Metallo-)proteases,Secreted
+Cxcl1,Cytokine/Chemokine,Secreted
+Cxcl10,Cytokine/Chemokine,Secreted
+Cxcl12,Cytokine/Chemokine,Secreted
+Cxcl16,Cytokine/Chemokine,Secreted
+Cxcl2,Cytokine/Chemokine,Secreted
+Cxcl3,Cytokine/Chemokine,Secreted
+Cxcr2,Cytokine/Chemokine,Transmembrane
+Dkk1,Intercellular signal molecule,Secreted
+Edn1,Intercellular signal molecule,Secreted
+Egf,Transmembrane signal receptors,Transmembrane
+Egfr,Transmembrane signal receptors,Transmembrane
+Ereg,Growth factor,Secreted
+Esm1,Intercellular signal molecule,Secreted
+Ets2,Transcription factors and regulators,Intracellular
+Fas,Transmembrane signal receptors,Transmembrane
+Fgf1,Growth factor,Secreted
+Fgf2,Growth factor,Secreted
+Fgf7,Growth factor,Secreted
+Gdf15,Growth factor,Secreted
+Gem,Miscellaneous,Intracellular
+Gmfg,Intercellular signal molecule,Intracellular
+Hgf,(Metallo-)proteases,Secreted
+Hmgb1,Transcription factors and regulators,Intracellular
+Icam1,Miscellaneous,Intracellular
+Icam5,Miscellaneous,Intracellular
+Igf1,Growth factor,Secreted
+Igfbp1,Protease inhibitors,Secreted
+Igfbp2,Protease inhibitors,Secreted
+Igfbp3,Protease inhibitors,Secreted
+Igfbp4,Protease inhibitors,Secreted
+Igfbp5,Protease inhibitors,Secreted
+Igfbp6,Protease inhibitors,Secreted
+Igfbp7,Miscellaneous,Secreted
+Il10,Cytokine/Chemokine,Secreted
+Il13,Cytokine/Chemokine,Secreted
+Il15,Cytokine/Chemokine,Secreted
+Il18,Cytokine/Chemokine,Secreted
+Il1a,Cytokine/Chemokine,Secreted
+Il1b,Cytokine/Chemokine,Secreted
+Il2,Cytokine/Chemokine,Secreted
+Il6,Cytokine/Chemokine,Secreted
+Il6st,Transmembrane signal receptors,Transmembrane
+Il7,Cytokine/Chemokine,Secreted
+Inha,Growth factor,Secreted
+Iqgap2,Miscellaneous,Intracellular
+Itga2,Transmembrane signal receptors,Transmembrane
+Itpka,Protein modifying enzymes,Intracellular
+Jun,Transcription factors and regulators,Intracellular
+Kitl,Growth factor,Intracellular
+Lcp1,Miscellaneous,Intracellular
+Mif,Protein modifying enzymes,Secreted
+Mmp13,(Metallo-)proteases,Secreted
+Mmp10,(Metallo-)proteases,Secreted
+Mmp12,(Metallo-)proteases,Secreted
+Mmp13,(Metallo-)proteases,Secreted
+Mmp14,(Metallo-)proteases,Intracellular
+Mmp2,(Metallo-)proteases,Secreted
+Mmp3,(Metallo-)proteases,Secreted
+Mmp9,(Metallo-)proteases,Secreted
+Nap1l4,Miscellaneous,Intracellular
+Nrg1,Growth factor,Secreted
+Pappa,(Metallo-)proteases,Secreted
+Pecam1,Miscellaneous,Intracellular
+Pgf,Growth factor,Secreted
+Pigf,Protein modifying enzymes,Transmembrane
+Plat,(Metallo-)proteases,Secreted
+Plau,(Metallo-)proteases,Secreted
+Plaur,Transmembrane signal receptors,Transmembrane
+Ptbp1,Miscellaneous,Intracellular
+Ptger2,Transmembrane signal receptors,Transmembrane
+Ptges,Protein modifying enzymes,Intracellular
+Rps6ka5,Protein modifying enzymes,Intracellular
+Scamp4,Miscellaneous,Intracellular
+Selplg,Transmembrane signal receptors,Transmembrane
+Sema3f,Intercellular signal molecule,Secreted
+Serpinb3a,Protease inhibitors,Intracellular
+Serpine1,Protease inhibitors,Secreted
+Serpine2,Protease inhibitors,Secreted
+Spp1,Cytokine/Chemokine,Secreted
+Spx,Intercellular signal molecule,Secreted
+Timp2,Protease inhibitors,Secreted
+Tnf,Cytokine/Chemokine,Secreted
+Tnfrsf11b,Transmembrane signal receptors,Transmembrane
+Tnfrsf1a,Transmembrane signal receptors,Transmembrane
+Tnfrsf1b,Transmembrane signal receptors,Transmembrane
+Tubgcp2,Miscellaneous,Intracellular
+Vegfa,Growth factor,Secreted
+Vegfc,Growth factor,Secreted
+Vgf,Intercellular signal molecule,Secreted
+Wnt16,Intercellular signal molecule,Secreted
+Wnt2,Intercellular signal molecule,Transmembrane

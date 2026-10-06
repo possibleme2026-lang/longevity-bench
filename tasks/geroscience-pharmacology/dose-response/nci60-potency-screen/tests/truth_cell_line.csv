@@ -1,0 +1,61 @@
+cell_line,panel,log10_gi50,gi50_se,gi50_status,dose_slope,slope_se
+786-0,Renal,-8.051420,0.254466,within_range,-6.431708,2.762872
+A498,Renal,-5.029254,0.670111,within_range,-12.012983,2.461439
+A549/ATCC,Non-Small Cell Lung,-7.990856,0.741749,within_range,-11.091139,1.243723
+ACHN,Renal,-7.575771,0.265020,within_range,-6.729486,0.511498
+BT-549,Breast,-5.220903,0.249984,within_range,-10.543505,1.487148
+CAKI-1,Renal,-8.040852,0.419334,within_range,-17.890211,1.910081
+CCRF-CEM,Leukemia,-8.087237,0.434261,within_range,-8.525546,4.991875
+COLO 205,Colon,-6.128052,0.378101,within_range,-13.644457,0.706693
+DU-145,Prostate,-7.469535,0.181964,within_range,-19.484112,0.528700
+EKVX,Non-Small Cell Lung,,,above_range,-8.149101,1.555373
+HCC-2998,Colon,-7.043088,0.137158,within_range,-10.802878,2.957583
+HCT-116,Colon,-8.570833,0.251534,within_range,-4.335396,2.211822
+HCT-15,Colon,-8.070052,0.368497,within_range,-10.074267,2.068577
+HL-60(TB),Leukemia,-7.318426,1.606225,within_range,-4.523346,5.486107
+HOP-62,Non-Small Cell Lung,-7.505308,0.163850,within_range,-27.434139,1.842733
+HOP-92,Non-Small Cell Lung,,,above_range,-9.300917,1.719458
+HS 578T,Breast,,,above_range,-6.064691,3.078803
+HT29,Colon,-7.491474,0.295280,within_range,-6.704023,1.868314
+IGROV1,Ovarian,-7.103862,0.087678,within_range,-14.652724,0.654774
+K-562,Leukemia,-8.692945,0.383358,within_range,-1.159307,3.042325
+KM12,Colon,-7.577119,0.411330,within_range,-15.199021,1.484782
+LOX IMVI,Melanoma,-8.056810,0.732703,within_range,-3.775020,2.362058
+M14,Melanoma,-7.396125,0.147195,within_range,-13.478395,1.852859
+MALME-3M,Melanoma,,,above_range,-9.734732,1.198381
+MCF7,Breast,-8.016101,0.356208,within_range,-9.442225,2.371627
+MDA-MB-231/ATCC,Breast,,,above_range,-9.779442,2.320852
+MDA-MB-435,Melanoma,-7.221310,0.294896,within_range,-8.779910,2.620303
+MDA-N,Melanoma,-7.759451,0.467846,within_range,-9.680345,1.973419
+MOLT-4,Leukemia,-7.489167,0.194558,within_range,-17.454481,2.622826
+NCI-H226,Non-Small Cell Lung,,,above_range,-8.810027,2.205106
+NCI-H23,Non-Small Cell Lung,-7.151811,0.092560,within_range,-20.748760,1.634309
+NCI-H322M,Non-Small Cell Lung,,,above_range,-14.641488,1.647676
+NCI-H460,Non-Small Cell Lung,-8.265118,0.112858,within_range,-9.955371,1.742842
+NCI-H522,Non-Small Cell Lung,,,above_range,-9.678092,2.092209
+NCI/ADR-RES,Ovarian,-7.351988,0.170146,within_range,-16.335613,1.236155
+OVCAR-3,Ovarian,-5.853821,0.532537,within_range,-15.223232,1.417162
+OVCAR-4,Ovarian,,,above_range,-8.951644,1.068653
+OVCAR-5,Ovarian,-7.355951,0.188507,within_range,-6.423492,1.197571
+OVCAR-8,Ovarian,-7.301569,0.179140,within_range,-17.227676,2.260546
+PC-3,Prostate,-8.513753,0.243414,within_range,-1.206196,1.901659
+RPMI-8226,Leukemia,-7.091117,0.258980,within_range,-12.649156,2.955684
+RXF 393,Renal,,,above_range,-10.818605,1.855806
+SF-268,Central Nervous System,-7.432527,0.156757,within_range,-21.204837,1.087769
+SF-295,Central Nervous System,-7.669290,0.498182,within_range,-19.321445,0.915279
+SF-539,Central Nervous System,-8.015638,0.162941,within_range,-24.195711,1.873811
+SK-MEL-2,Melanoma,,,above_range,-5.500124,1.514110
+SK-MEL-28,Melanoma,,,above_range,-11.355884,1.774279
+SK-MEL-5,Melanoma,-7.177700,0.066147,within_range,-17.188130,0.869787
+SK-OV-3,Ovarian,-7.103579,0.214591,within_range,-12.231484,2.164514
+SN12C,Renal,-7.848658,0.577946,within_range,-11.680747,1.316790
+SNB-19,Central Nervous System,-6.037259,1.368959,within_range,-14.548298,1.521243
+SNB-75,Central Nervous System,-7.075988,0.311640,within_range,-15.341131,2.569136
+SR,Leukemia,-8.627191,0.595938,within_range,-2.634610,2.197554
+SW-620,Colon,-7.596392,0.526674,within_range,-5.309011,2.280733
+T-47D,Breast,,,above_range,-13.135187,2.289904
+TK-10,Renal,,,above_range,-12.438577,0.972449
+U251,Central Nervous System,-7.412753,0.193267,within_range,-22.013628,2.258578
+UACC-257,Melanoma,,,above_range,-12.427360,1.430964
+UACC-62,Melanoma,-7.744176,0.443790,within_range,-6.204098,0.661958
+UO-31,Renal,-7.386040,0.246528,within_range,-5.053769,2.767646

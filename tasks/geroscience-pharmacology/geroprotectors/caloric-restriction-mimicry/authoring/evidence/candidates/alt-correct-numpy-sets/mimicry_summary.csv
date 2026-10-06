@@ -1,0 +1,4 @@
+intervention,n_responsive,n_shared,n_concordant,n_discordant,concordance_rate
+Rapamycin,144,66,40,26,0.606
+Metformin,18,9,2,7,0.222
+TM5614,429,219,207,12,0.945
