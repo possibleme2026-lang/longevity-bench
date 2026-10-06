@@ -1,0 +1,8 @@
+{
+  "cv_auroc": 0.688125,
+  "n_upr_genes_in_matrix": 112,
+  "organoid_mg132_mean_score": -0.067634,
+  "organoid_vehicle_mean_score": -0.272051,
+  "sensitivity": 1.0,
+  "specificity": 0.375
+}
