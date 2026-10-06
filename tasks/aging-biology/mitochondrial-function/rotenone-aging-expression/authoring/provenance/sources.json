@@ -1,0 +1,34 @@
+{
+  "task": "rotenone-aging-expression",
+  "retrieved_utc": "2026-10-06T00:00:00Z",
+  "catalogue": "docs/sources/verified-aging-biology.json",
+  "upstream": [
+    {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64553/suppl/GSE64553_counts_rpkm_exvivo_rotenone_data.txt.gz",
+      "source_label": "gse64553-fibroblast-aging-rotenone",
+      "sha256": "e3dd77d34be5af963f8e6457d666885bc2c3b64d783048d0080fac14afbd2f78",
+      "bytes": 3629895,
+      "payload": "gzip (magic 1f 8b verified after download)",
+      "license": "Public domain (NCBI GEO)"
+    }
+  ],
+  "generator": "authoring/provenance/fetch.py",
+  "files": [
+    {
+      "path": "environment/data/expression_counts.csv",
+      "origin": "real",
+      "sha256": "366a0cc7df17bafda1823282cc85a70a461caa77e52d025a242dbd0ed77bf012",
+      "bytes": 3895861,
+      "source_label": "gse64553-fibroblast-aging-rotenone",
+      "transform": "gunzip of the single upstream table; kept the gene_biotype == 'protein_coding' rows whose mean count across the 60 samples is >= 5 (14616 of 56299 rows); kept ensembl_gene_id and external_gene_id (renamed gene_symbol) verbatim, dropped description and gene_biotype, dropped no samples, and left every count unchanged. Rows sorted by Ensembl id, sample columns in upstream order."
+    },
+    {
+      "path": "environment/data/sample_annotation.csv",
+      "origin": "real",
+      "sha256": "5887ada72c10128ac8c6d2fae6c9c09dfd3bfe409699cfd20489262333b0b1ec",
+      "bytes": 2207,
+      "source_label": "gse64553-fibroblast-aging-rotenone",
+      "transform": "one row per upstream sample column, in upstream order; cell_line, population_doubling, rotenone (treated/untreated) and replicate decoded from the upstream column names by fetch.py (MRC5_PD38w_2 -> MRC5 38 treated 2; HFF_PD22_woRotenone3 -> HFF 22 untreated 3) and cross-checked against the design of the series: 10 (cell line, population doubling) strata x 3 treated + 3 untreated = 60 samples."
+    }
+  ]
+}
