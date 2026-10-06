@@ -1,0 +1,51 @@
+{
+  "baseline_rows": {
+    "charls": 17596,
+    "elsa": 9432,
+    "hrs": 19580,
+    "mhas": 15182,
+    "share": 57982
+  },
+  "cohort_code_map": {
+    "1": "share",
+    "10": "share",
+    "11": "share",
+    "12": "share",
+    "13": "share",
+    "14": "share",
+    "15": "share",
+    "16": "share",
+    "17": "hrs",
+    "18": "charls",
+    "19": "elsa",
+    "2": "share",
+    "20": "mhas",
+    "3": "share",
+    "4": "share",
+    "5": "share",
+    "6": "share",
+    "7": "share",
+    "8": "share",
+    "9": "share"
+  },
+  "frail_cut": 0.25,
+  "pre_frail_cut": 0.1,
+  "reassessed_rows_by_cohort": {
+    "charls": 2464,
+    "elsa": 5178,
+    "hrs": 10561,
+    "mhas": 6261,
+    "share": 24375
+  },
+  "reassessment_rows": 48839,
+  "sha256": {
+    "agreement.csv": "eec0d3e8b03bb9712a7cab36218e3931fad2e2d49c63626f3f85daeba527eee5",
+    "attrition_effect.csv": "581e643df7190c761515682d30d595ca10202313d09238744ab4bf2121c4dfc7",
+    "transitions.csv": "1e71766a76032003ecd5dc826f2db1a1e9f01d36cc17a0882da9840782e27f3e"
+  },
+  "states": [
+    "robust",
+    "pre-frail",
+    "frail"
+  ]
+}
