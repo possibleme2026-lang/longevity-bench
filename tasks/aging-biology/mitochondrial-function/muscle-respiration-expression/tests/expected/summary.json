@@ -1,0 +1,20 @@
+{
+  "n_expression_genes": 20750,
+  "n_expression_samples": 24,
+  "n_biological_samples": 23,
+  "n_genes_tested": 20750,
+  "n_genes_fdr_0.10": 901,
+  "n_fdr_genes_reference": 901,
+  "n_priority_genes": 20,
+  "priority_pool_size": 1048,
+  "mito_signature_genes": 1048,
+  "oxphos_signature_genes": 161,
+  "terms": [
+    "mito_score|age_group[middle-aged]",
+    "mito_score|age_group[old]",
+    "mito_score|sex[F->M]",
+    "oxphos_score|age_group[middle-aged]",
+    "oxphos_score|age_group[old]",
+    "oxphos_score|sex[F->M]"
+  ]
+}

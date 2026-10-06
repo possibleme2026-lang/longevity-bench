@@ -1,0 +1,11 @@
+nct_id,group_id,group_title,started,completed,not_completed
+NCT04063124,FG000,Intermittent D+Q,55,55,00
+NCT04210986,FG000,Fisetin,3434,2525,99
+NCT04210986,FG001,Placebo,4040,3535,55
+NCT04313634,FG000,Dasatinib Plus Quercetin Treatment Goup,3030,2727,33
+NCT04313634,FG001,Fisetin Treatment Group,1414,1212,22
+NCT04313634,FG002,Untreated Control Group,3030,2828,22
+NCT04537299,FG000,Treatment Group,1010,77,33
+NCT04537299,FG001,Placebo Group,1010,99,11
+NCT04771611,FG000,Treatment Group,2929,2929,00
+NCT04771611,FG001,Placebo,2626,2626,00

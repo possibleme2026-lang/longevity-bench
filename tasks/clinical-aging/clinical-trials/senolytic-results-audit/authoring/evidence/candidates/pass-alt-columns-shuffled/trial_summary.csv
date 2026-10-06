@@ -1,0 +1,6 @@
+numeric_primary_measures,primary_outcome_count,includes_older_adults,min_age_years,arm_count,attrition_pct,flow_completed_total,flow_started_total,enrollment_count,phase,overall_status,nct_id
+1,1,1,18,2,0.0,55,55,55,PHASE2,COMPLETED,NCT04771611
+1,1,1,65,2,20.0,16,20,20,PHASE2,TERMINATED,NCT04537299
+1,1,1,60,3,9.5,67,74,74,PHASE2,COMPLETED,NCT04313634
+1,1,1,40,2,18.9,60,74,75,PHASE1;PHASE2,COMPLETED,NCT04210986
+2,2,1,65,1,0.0,5,5,5,PHASE1;PHASE2,COMPLETED,NCT04063124

@@ -1,0 +1,1137 @@
+gene_symbol,mitocarta3_list,mitopathways,sub_mito_localization
+CYC1,MitoCarta3.0,OXPHOS > Complex III > CIII subunits | Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Electron carriers > Cytochromes | OXPHOS > OXPHOS subunits,MIM
+SDHB,MitoCarta3.0,OXPHOS > Complex II > CII subunits | Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits,MIM
+COQ7,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+SDHA,MitoCarta3.0,OXPHOS > Complex II > CII subunits | Metabolism > Carbohydrate metabolism > TCA cycle | OXPHOS > OXPHOS subunits,MIM
+UQCRC1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits",MIM
+COQ5,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+PDHA1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,Matrix
+COQ9,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+MRPL12,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > Transcription | Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+ATP5F1D,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+COX5A,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+ISCA2,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+PMPCB,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+UQCRFS1,MitoCarta3.0,OXPHOS > Complex III > CIII subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits,MIM
+ATP5F1A,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+OGDH,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle,Matrix
+PDHB,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,Matrix
+UQCRC2,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits",MIM
+SDHD,MitoCarta3.0,OXPHOS > Complex II > CII subunits | Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Metals and cofactors > Heme-containing proteins | OXPHOS > OXPHOS subunits,MIM
+MRPS35,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+UQCRQ,MitoCarta3.0,OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits,MIM
+MRPL53,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+DBT,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex,Matrix
+PDK4,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,MIM
+MDH2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Metabolism > Carbohydrate metabolism > TCA cycle,Matrix
+MRPS27,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+CS,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle,Matrix
+GRPEL1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Import motor | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis",Matrix
+DLAT,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,Matrix
+LRPPRC,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay | Mitochondrial central dogma > Translation,Matrix
+DLST,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Amino acid metabolism > Lysine metabolism,Matrix
+PDHX,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,Matrix
+GFM1,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+MPC2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Pyruvate metabolism | Metabolism > Carbohydrate metabolism > TCA-associated | Small molecule transport,MIM
+NDUFS1,MitoCarta3.0,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits,MIM
+MRPL46,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+ATP5F1E,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+SLC25A3,MitoCarta3.0,Metabolism > Metals and cofactors > Copper metabolism | Signaling > Calcium homeostasis > Calcium cycle | Small molecule transport > SLC25A family,MIM
+MRPS23,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+FH,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle,Matrix
+PMPCA,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+ATP5F1B,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+SDHAF4,MitoCarta3.0,OXPHOS > Complex II > CII assembly factors | OXPHOS > OXPHOS assembly factors,Matrix
+UQCR10,MitoCarta3.0,OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits,MIM
+ISCA1,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+SUCLA2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Carbohydrate metabolism > Itaconate metabolism | Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+COQ3,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+IARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+MRPS15,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+IDH3A,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle,Matrix
+COX11,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Copper metabolism | OXPHOS > OXPHOS assembly factors,MIM
+ETFDH,MitoCarta3.0,"Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Metals and cofactors > Fe-S-containing proteins | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Electron carriers > Q-linked reactions, other",MIM
+TIMM10,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting",MIM
+MRPL34,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MRPL2,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+BCKDHA,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex,MIM
+UQCRH,MitoCarta3.0,OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits,MIM
+HIGD2A,MitoCarta3.0,OXPHOS > OXPHOS assembly factors | OXPHOS > Respirasome assembly,MIM
+ATP5PO,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+ECHS1,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism,Matrix
+LETMD1,MitoCarta3.0,Small molecule transport,Membrane
+COX6A1,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+COX15,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Heme synthesis and processing | OXPHOS > OXPHOS assembly factors,MIM
+AFG3L2,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",MIM
+HADHA,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,MIM
+ETFA,MitoCarta3.0,"Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Electron carriers > Q-linked reactions, other",Matrix
+NDUFS7,MitoCarta3.0,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits,MIM
+CPT2,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Metals and cofactors > Carnitine synthesis and transport | Metabolism > Metals and cofactors > Carnitine shuttle,MIM
+BCKDHB,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex,MIM
+IDH3B,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle,Matrix
+LARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+ACADS,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+LETM1,MitoCarta3.0,Signaling > Calcium homeostasis > Calcium cycle,MIM
+ATP5ME,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits | Mitochondrial dynamics and surveillance > Cristae formation,MIM
+OPA1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Cristae formation,MIM
+AUH,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Itaconate metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,Matrix
+SUCLG1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Carbohydrate metabolism > Itaconate metabolism | Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+NDUFV2,MitoCarta3.0,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits,MIM
+COQ6,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+MRPL43,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+ABHD11,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA-associated,Matrix
+ATP5PF,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+NDUFB8,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+LONP1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+DLD,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism | Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex | Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Amino acid metabolism > Glycine cleavage system,Matrix
+AIFM1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > MIA40 | OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors | Mitochondrial dynamics and surveillance > Apoptosis",MIM
+ECHDC3,MitoCarta3.0,0,Matrix
+APOOL,MitoCarta3.0,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex,MIM
+MRPL10,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MRRF,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+NDUFS8,MitoCarta3.0,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits,MIM
+ACADM,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+IMMT,MitoCarta3.0,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex,MIM
+TIMM9,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting",MIM
+SLC25A4,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Small molecule transport > SLC25A family,MIM
+SAMM50,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > SAM | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions",MOM
+NDUFS2,MitoCarta3.0,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits,MIM
+NDUFV1,MitoCarta3.0,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits,MIM
+ACO2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+SUPV3L1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix
+FECH,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S-containing proteins,MIM
+MTIF2,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+PHB,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones",MIM
+HIBCH,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,Matrix
+MRPS2,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+HSPA9,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis,Matrix
+SURF1,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+PRDX3,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,Matrix
+GHITM,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MIM
+GUF1,MitoCarta3.0,Mitochondrial central dogma > Translation,Matrix
+TIMM13,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting",MIM
+LYRM4,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis,Matrix
+MRPL16,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MRPL40,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+IDH3G,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle,Matrix
+SDHC,MitoCarta3.0,OXPHOS > Complex II > CII subunits | Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Metals and cofactors > Heme-containing proteins | OXPHOS > OXPHOS subunits,MIM
+NDUFB5,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+SDHAF2,MitoCarta3.0,OXPHOS > Complex II > CII assembly factors | OXPHOS > OXPHOS assembly factors,Matrix
+COQ10A,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+GATD3A,MitoCarta3.0,0,Matrix
+TXN2,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin C metabolism | Metabolism > Detoxification > ROS and glutathione metabolism,Matrix
+MRPS18A,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+COX6C,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+NDUFB9,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MTCH2,MitoCarta3.0,Small molecule transport > SLC25A family | Mitochondrial dynamics and surveillance > Fusion,MOM
+NDUFA6,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+SLC25A20,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Metals and cofactors > Carnitine synthesis and transport | Metabolism > Metals and cofactors > Carnitine shuttle | Small molecule transport > SLC25A family,MIM
+MRPL1,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+TIMM44,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Import motor",MIM
+COX17,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Copper metabolism | OXPHOS > OXPHOS assembly factors,IMS
+MICOS10,MitoCarta3.0,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex,MIM
+SOD2,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,Matrix
+COX6B1,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+VDAC1,MitoCarta3.0,Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Mitochondrial dynamics and surveillance > Organelle contact sites | Small molecule transport,MOM
+CLPP,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+HADH,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Lysine metabolism,Matrix
+ACADL,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,MIM
+ACAT1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Ketone metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism,Matrix
+MALSU1,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+CLPX,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+NDUFS4,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MRPL4,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+C1QBP,MitoCarta3.0,Signaling > Immune response,Matrix
+PITRM1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+UQCC1,MitoCarta3.0,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+MRPL55,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MRM1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications,Matrix
+MECR,MitoCarta3.0,Metabolism > Lipid metabolism > Type II fatty acid synthesis,Matrix
+MRPL44,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+HSDL2,MitoCarta3.0,0,Matrix
+MRPS14,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+ABCB8,MitoCarta3.0,Small molecule transport > ABC transporters,MIM
+ATPAF2,MitoCarta3.0,OXPHOS > Complex V > CV assembly factors | OXPHOS > OXPHOS assembly factors,Matrix
+NDUFA9,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+COA6,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,IMS
+POLRMT,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial central dogma > mtRNA metabolism > Transcription,Matrix
+ISCU,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+RTN4IP1,MitoCarta3.0,0,Matrix
+OGDHL,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle,Matrix
+ATP5F1C,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+BCKDK,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex,Matrix
+GFM2,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+NDUFAF4,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+SLC25A35,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SLC25A11,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Metabolism > Carbohydrate metabolism > TCA-associated | Small molecule transport > SLC25A family,MIM
+TIMM8B,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting",MIM
+MCAT,MitoCarta3.0,Metabolism > Lipid metabolism > Type II fatty acid synthesis,Matrix
+IBA57,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis,Matrix
+PHB2,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones",MIM
+DAP3,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+CMC2,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,IMS
+SDHAF1,MitoCarta3.0,OXPHOS > Complex II > CII assembly factors | OXPHOS > OXPHOS assembly factors,Matrix
+MRPS17,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+ADHFE1,MitoCarta3.0,Metabolism > Amino acid metabolism > GABA metabolism,Matrix
+NFS1,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+NDUFAF5,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+MRPL17,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+TACO1,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,Matrix
+MFN1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Organelle contact sites,MOM
+PPTC7,MitoCarta3.0,Signaling,Matrix
+MRPL11,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+COX4I1,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+NDUFS6,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MRPL13,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+OXCT1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Ketone metabolism,Matrix
+COX5B,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+PDK2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,Matrix
+ALAS1,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing,Matrix
+MRPL33,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MTO1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+LIAS,MitoCarta3.0,Metabolism > Lipid metabolism > Lipoate insertion | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+NDUFA5,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+NDUFB6,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MTX2,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > SAM | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions",MOM
+SUCLG2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Carbohydrate metabolism > Itaconate metabolism | Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+FDX1,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins | Metabolism > Vitamin metabolism > Vitamin D metabolism",Matrix
+SLC25A1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > TCA-associated | Metabolism > Lipid metabolism | Small molecule transport > SLC25A family,MIM
+MRPS28,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+TIMM50,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway",MIM
+VDAC2,MitoCarta3.0,Small molecule transport,MOM
+SLC25A42,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme A metabolism | Small molecule transport > SLC25A family,MIM
+TOMM7,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TOM | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy",MOM
+ECH1,MitoCarta3.0,Metabolism > Lipid metabolism,Matrix
+GATB,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+BCS1L,MitoCarta3.0,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+ERAL1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+CMC1,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,IMS
+MRPL28,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+TSFM,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+FXN,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis,Matrix
+NFU1,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+YARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+MRPL21,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+ALDH4A1,MitoCarta3.0,Metabolism > Amino acid metabolism > Proline metabolism | Metabolism > Amino acid metabolism > Glyoxylate metabolism,Matrix
+TOMM40L,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TOM",MOM
+NDUFAF1,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+NDUFB10,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+ACADSB,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,Matrix
+MRPS9,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+COQ8A,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+ACADVL,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,MIM
+COQ4,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+MRPL15,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+NDUFA2,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MRPL24,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+HSPD1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones",Matrix
+NDUFS5,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+AK3,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+CYCS,MitoCarta3.0,Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Electron carriers > Cytochromes | OXPHOS > OXPHOS subunits | OXPHOS > Cytochrome C | Mitochondrial dynamics and surveillance > Apoptosis,IMS
+MIPEP,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+LYRM7,MitoCarta3.0,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors,Matrix
+CRAT,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,MIM
+PCCB,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Propanoate metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+MRPS7,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MRPL3,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+PRODH,MitoCarta3.0,"Metabolism > Amino acid metabolism > Proline metabolism | Metabolism > Electron carriers > Q-linked reactions, other",MIM
+PCCA,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Propanoate metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Vitamin metabolism > Biotin utilizing proteins,Matrix
+MCCC1,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Vitamin metabolism > Biotin utilizing proteins,Matrix
+MRPS12,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+CLPB,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",IMS
+PDK1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,Matrix
+MRPL49,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+COX7A2,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+TMEM126A,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+ECHDC2,MitoCarta3.0,0,Matrix
+HCCS,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing | OXPHOS > OXPHOS subunits | OXPHOS > Cytochrome C,IMS
+HIBADH,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,Matrix
+MRPL19,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MRPL36,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+SLC25A30,MitoCarta3.0,Metabolism > Sulfur metabolism | Small molecule transport > SLC25A family,MIM
+BDH1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Ketone metabolism,MIM
+FARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+ABCB7,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins | Small molecule transport > ABC transporters,MIM
+MTX1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > SAM | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions",MOM
+NDUFA7,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+TIMM17A,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway",MIM
+ALDH9A1,MitoCarta3.0,Metabolism > Amino acid metabolism > GABA metabolism | Metabolism > Detoxification > ROS and glutathione metabolism,Matrix
+MRPS18C,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+ALDH6A1,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,MIM
+FDXR,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Vitamin metabolism > Vitamin D metabolism",Matrix
+GATC,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+TRAP1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones",Matrix
+ACAD8,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,Matrix
+ALDH2,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+PPIF,MitoCarta3.0,Signaling > Calcium homeostasis > Mitochondrial permeability transition pore,Matrix
+TIMM22,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TIM22 carrier pathway",MIM
+IVD,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,Matrix
+L2HGDH,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA-associated,MIM
+ETHE1,MitoCarta3.0,Metabolism > Sulfur metabolism,Matrix
+MRPL20,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+SLC25A5,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Small molecule transport > SLC25A family,MIM
+SLC25A12,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Metabolism > Amino acid metabolism > Glutamate metabolism | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > SLC25A family,MIM
+MRPS21,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+TOMM22,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TOM",MOM
+ACAA2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Ketone metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Lysine metabolism,Matrix
+MRPL30,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+DNAJA3,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones",Matrix
+NDUFB2,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MRPS34,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+ETFB,MitoCarta3.0,"Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Electron carriers > Q-linked reactions, other",Matrix
+AFG1L,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",MIM
+ATP5IF1,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,Matrix
+ATP5PB,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+COX7C,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+CHCHD3,MitoCarta3.0,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions,MIM
+COQ10B,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+ACSF3,MitoCarta3.0,Metabolism > Lipid metabolism > Type II fatty acid synthesis,Matrix
+POLDIP2,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid,Matrix
+SLC25A10,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Small molecule transport > SLC25A family,MIM
+SLC25A13,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Metabolism > Amino acid metabolism > Urea cycle | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > SLC25A family,MIM
+PDK3,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,Matrix
+ME3,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA-associated,Matrix
+MRPL22,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+IDH2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA cycle,Matrix
+GCDH,MitoCarta3.0,Metabolism > Amino acid metabolism > Lysine metabolism,Matrix
+MRPL47,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+PPA2,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance | Mitochondrial central dogma > mtRNA metabolism | Mitochondrial central dogma > Translation | Metabolism > Nucleotide metabolism,Matrix
+MRPL9,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+CHCHD10,MitoCarta3.0,0,IMS
+WARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+SLC25A19,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin B1 metabolism | Small molecule transport > SLC25A family,MIM
+CBR4,MitoCarta3.0,Metabolism > Lipid metabolism > Type II fatty acid synthesis,Matrix
+SMDT1,MitoCarta3.0,Signaling > Calcium homeostasis > Calcium cycle | Small molecule transport > Calcium uniporter,MIM
+HAGH,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,Matrix
+COX7A1,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+MTG1,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+COX14,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+NDUFA12,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MRPS16,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MTERF2,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid,Matrix
+ETFRF1,MitoCarta3.0,"Metabolism > Electron carriers > Q-linked reactions, other",Matrix
+GPD2,MitoCarta3.0,"Metabolism > Carbohydrate metabolism > Glycerol phosphate shuttle | Metabolism > Electron carriers > Q-linked reactions, other",MIM
+NDUFA10,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+NDUFC2,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+SLIRP,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay | Mitochondrial central dogma > Translation,Matrix
+MT-ATP6,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+MT-CO2,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+TIMM21,MitoCarta3.0,"Mitochondrial central dogma > Translation > Translation factors | Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors",MIM
+NDUFA8,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+GLS,MitoCarta3.0,Metabolism > Amino acid metabolism > Glutamate metabolism,MIM
+NDUFB11,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+DHTKD1,MitoCarta3.0,Metabolism > Amino acid metabolism > Lysine metabolism,Matrix
+FAHD2A,MitoCarta3.0,0,Matrix
+HSD17B8,MitoCarta3.0,"Metabolism > Lipid metabolism > Type II fatty acid synthesis | Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis",Matrix
+HINT2,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis",Matrix
+MRPS5,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+C6orf136,MitoCarta3.0,0,Matrix
+SPRYD4,MitoCarta3.0,0,Matrix
+LIPT2,MitoCarta3.0,Metabolism > Lipid metabolism > Lipoate insertion,Matrix
+DECR1,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+MRPS26,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+SLC25A15,MitoCarta3.0,Metabolism > Amino acid metabolism > Urea cycle | Small molecule transport > SLC25A family,MIM
+NDUFV3,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+BPHL,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+STOML2,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis",MIM
+MSRB2,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Sulfur metabolism,Matrix
+LACTB,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Metabolism > Lipid metabolism > Phospholipid metabolism",IMS
+TOMM40,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TOM",MOM
+SLC25A25,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > SLC25A family,MIM
+ADCK5,MitoCarta3.0,0,unknown
+ACAD10,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+VWA8,MitoCarta3.0,0,Matrix
+CCDC90B,MitoCarta3.0,0,MIM
+DNAJC11,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions",MOM
+ALKBH7,MitoCarta3.0,0,Matrix
+GLDC,MitoCarta3.0,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Amino acid metabolism > Glycine cleavage system,Matrix
+MPC1L,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Pyruvate metabolism | Metabolism > Carbohydrate metabolism > TCA-associated | Small molecule transport,MIM
+THEM4,MitoCarta3.0,Metabolism > Lipid metabolism,MIM
+SSBP1,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid,Matrix
+MRPL27,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+HSCB,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis,Matrix
+MRPS10,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+AK4,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+ATAD3A,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial dynamics and surveillance > Organelle contact sites | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions,MIM
+MRPL37,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+PTGES2,MitoCarta3.0,Metabolism > Lipid metabolism > Eicosanoid metabolism,MIM
+TXNRD2,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Detoxification > Selenoproteins,Matrix
+ACSM5,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+CISD1,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,MOM
+MRPL41,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MTARC2,MitoCarta3.0,Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins | Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Detoxification > Amidoxime reducing complex,MOM
+MRPS6,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MRPL23,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+SQOR,MitoCarta3.0,"Metabolism > Electron carriers > Q-linked reactions, other | Metabolism > Sulfur metabolism",MIM
+SCO1,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Copper metabolism | OXPHOS > OXPHOS assembly factors,MIM
+GCAT,MitoCarta3.0,Metabolism > Amino acid metabolism > Glycine metabolism,unknown
+MTHFD1L,MitoCarta3.0,Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+ECI2,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+UQCRB,MitoCarta3.0,OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits,MIM
+ATP5PD,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+ATP5MG,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits | Mitochondrial dynamics and surveillance > Cristae formation,MIM
+CCDC58,MitoCarta3.0,0,IMS
+MCCC2,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,Matrix
+MCEE,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Propanoate metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+MOCS1,MitoCarta3.0,Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins,Matrix
+MMUT,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Propanoate metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Vitamin metabolism > Vitamin B12 metabolism,Matrix
+SLC25A51,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism | Small molecule transport > SLC25A family,MIM
+SPG7,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",MIM
+ATP5MC3,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+ATAD1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",MOM
+OXNAD1,MitoCarta3.0,0,Matrix
+MTG2,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+DARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+MRPL51,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+PC,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > TCA-associated | Metabolism > Vitamin metabolism > Biotin utilizing proteins,Matrix
+CLYBL,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Itaconate metabolism,Matrix
+PNPLA8,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,MIM
+MLYCD,MitoCarta3.0,Metabolism > Lipid metabolism,Matrix
+PYURF,MitoCarta3.0,0,unknown
+TIMM17B,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway",MIM
+MRPL32,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+SLC25A26,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+PRODH2,MitoCarta3.0,"Metabolism > Amino acid metabolism > Glyoxylate metabolism | Metabolism > Electron carriers > Q-linked reactions, other",MIM
+NIT2,MitoCarta3.0,Metabolism > Detoxification,unknown
+FDX2,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+ME2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA-associated,Matrix
+TUFM,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+COX6A2,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+SLC30A9,MitoCarta3.0,Small molecule transport,MIM
+TAMM41,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,MIM
+TIMM23,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway",MIM
+RMND1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation,MIM
+MFN2,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Organelle contact sites,MOM
+DNLZ,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones",Matrix
+CHCHD4,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > MIA40",IMS
+NDUFAB1,MitoCarta3.0,OXPHOS > Complex I > CI subunits | Metabolism > Lipid metabolism > Type II fatty acid synthesis | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | OXPHOS > OXPHOS subunits,MIM
+ACSM1,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+COA5,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,IMS
+COQ2,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+PDSS2,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+EHHADH,MitoCarta3.0,Metabolism > Lipid metabolism,unknown
+NDUFS3,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+ABCB10,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing | Small molecule transport > ABC transporters,MIM
+CKMT2,MitoCarta3.0,Metabolism > Nucleotide metabolism > Creatine metabolism,MIM
+MRPS25,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+ACAD9,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+COX16,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+FAM210A,MitoCarta3.0,0,MIM
+ACOT13,MitoCarta3.0,Metabolism > Lipid metabolism,Matrix
+CPT1A,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Metals and cofactors > Carnitine synthesis and transport | Metabolism > Metals and cofactors > Carnitine shuttle,MOM
+DHRS4,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin A metabolism,Matrix
+PRELID2,MitoCarta3.0,0,IMS
+CARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+NIPSNAP2,MitoCarta3.0,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,Matrix
+NDUFB7,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MICOS13,MitoCarta3.0,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex,MIM
+GLRX2,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S-containing proteins | Metabolism > Vitamin metabolism > Vitamin C metabolism | Metabolism > Detoxification > ROS and glutathione metabolism,Matrix
+MRPS30,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+SCO2,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Copper metabolism | OXPHOS > OXPHOS assembly factors,MIM
+HSD17B10,MitoCarta3.0,"Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism",Matrix
+NARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+RPUSD3,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications,Matrix
+SUOX,MitoCarta3.0,Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins | Metabolism > Sulfur metabolism,IMS
+SARDH,MitoCarta3.0,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+RIDA,MitoCarta3.0,0,Matrix
+COX8A,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+SPR,MitoCarta3.0,Metabolism > Metals and cofactors > Tetrahydrobiopterin synthesis,unknown
+MPV17,MitoCarta3.0,Small molecule transport,MIM
+ZADH2,MitoCarta3.0,Metabolism > Lipid metabolism > Eicosanoid metabolism,unknown
+MRPL18,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+ALDH1B1,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+CHCHD1,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,MIM
+TIMM8A,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting",MIM
+VDAC3,MitoCarta3.0,Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Small molecule transport,MOM
+SLC25A24,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > SLC25A family,MIM
+MPC1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Pyruvate metabolism | Metabolism > Carbohydrate metabolism > TCA-associated | Small molecule transport,MIM
+SLC25A22,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SLC25A31,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Small molecule transport > SLC25A family,MIM
+SLC25A18,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+TRNT1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+IDE,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+GSTK1,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+VARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+HSPE1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones",Matrix
+MRPL54,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MRPL38,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MRPL58,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome | Mitochondrial central dogma > Translation > Translation factors,Matrix
+MTCH1,MitoCarta3.0,Small molecule transport > SLC25A family,MOM
+TRIAP1,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,IMS
+PTCD3,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+COX10,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Heme synthesis and processing | OXPHOS > OXPHOS assembly factors,MIM
+AKAP1,MitoCarta3.0,Signaling > cAMP-PKA signaling,MOM
+MRM3,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+AK2,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,IMS
+TMEM70,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > Complex V > CV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+NOA1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,MIM
+MCUR1,MitoCarta3.0,0,MIM
+TMEM14C,MitoCarta3.0,0,MIM
+NDUFC1,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MRPL35,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+NDUFA3,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+PDSS1,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+SLC25A16,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+FMC1,MitoCarta3.0,OXPHOS > Complex V > CV assembly factors | OXPHOS > OXPHOS assembly factors,Matrix
+ACSM3,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+NDUFAF6,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+UCP1,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SFXN1,MitoCarta3.0,Metabolism > Amino acid metabolism > Serine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Small molecule transport > Sideroflexins,MIM
+GLRX5,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+PTRH1,MitoCarta3.0,0,Matrix
+MRPS11,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+XPNPEP3,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+PDP1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,MIM
+ECI1,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+SLC25A21,MitoCarta3.0,Metabolism > Amino acid metabolism | Small molecule transport > SLC25A family,MIM
+SLC25A29,MitoCarta3.0,Metabolism > Amino acid metabolism > Lysine metabolism | Small molecule transport > SLC25A family,MIM
+SLC25A45,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SDHAF3,MitoCarta3.0,OXPHOS > Complex II > CII assembly factors | OXPHOS > OXPHOS assembly factors,Matrix
+PRELID3B,MitoCarta3.0,Metabolism > Lipid metabolism > Phospholipid metabolism,IMS
+SLC25A39,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+NDUFB3,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+REXO2,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix
+GATM,MitoCarta3.0,Metabolism > Nucleotide metabolism > Creatine metabolism,Matrix
+TIMM10B,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting",MIM
+SARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+CHDH,MitoCarta3.0,"Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Metabolism > Electron carriers > Q-linked reactions, other",MIM
+MRPL57,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+C8orf82,MitoCarta3.0,0,Matrix
+EARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+GRHPR,MitoCarta3.0,Metabolism > Amino acid metabolism > Glyoxylate metabolism,Matrix
+MTFMT,MitoCarta3.0,Mitochondrial central dogma > Translation > fMet processing | Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+PTCD2,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing,Matrix
+ECHDC1,MitoCarta3.0,Metabolism > Lipid metabolism,unknown
+HARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+NDUFA4,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+NDUFA13,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+NAXE,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,Matrix
+TMEM11,MitoCarta3.0,Mitochondrial dynamics and surveillance,MIM
+SELENOO,MitoCarta3.0,Metabolism > Detoxification > Selenoproteins,Matrix
+NAGS,MitoCarta3.0,Metabolism > Amino acid metabolism > Urea cycle,Matrix
+HSD17B4,MitoCarta3.0,Metabolism > Lipid metabolism,unknown
+NDUFAF7,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+OAT,MitoCarta3.0,Metabolism > Amino acid metabolism > Proline metabolism,Matrix
+MRPL50,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+COX7B,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+RARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+OXLD1,MitoCarta3.0,0,unknown
+LACTB2,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix
+NDUFA11,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+AURKAIP1,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+CHCHD7,MitoCarta3.0,Metabolism > Metals and cofactors > Copper metabolism,IMS
+SHMT2,MitoCarta3.0,Metabolism > Amino acid metabolism > Serine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+MTHFD2,MitoCarta3.0,Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+RMDN1,MitoCarta3.0,0,MOM
+CPS1,MitoCarta3.0,Metabolism > Amino acid metabolism > Urea cycle,Matrix
+MRPL14,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+MTRES1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > Transcription | Mitochondrial central dogma > Translation,Matrix
+RDH13,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin A metabolism,MIM
+TRMT2B,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications,Matrix
+MRPS24,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+COA3,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+GSR,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,Matrix
+ENDOG,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA stability and decay | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay | Mitochondrial dynamics and surveillance > Apoptosis,IMS
+BCAT2,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,Matrix
+TEFM,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > Transcription,Matrix
+ACSF2,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+TRMU,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+MRPS22,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+LAP3,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+GLUD1,MitoCarta3.0,Metabolism > Amino acid metabolism > Glutamate metabolism | Metabolism > Amino acid metabolism > GABA metabolism,Matrix
+HMGCL,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Ketone metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism,Matrix
+FHIT,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+MRPS33,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+NUBPL,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS assembly factors,Matrix
+LYRM2,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,Matrix
+MPV17L,MitoCarta3.0,Small molecule transport,MIM
+GADD45GIP1,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+TFAM,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial central dogma > mtRNA metabolism > Transcription,Matrix
+ALDH18A1,MitoCarta3.0,Metabolism > Amino acid metabolism > Proline metabolism,Matrix
+OXSM,MitoCarta3.0,Metabolism > Lipid metabolism > Type II fatty acid synthesis,Matrix
+KYAT3,MitoCarta3.0,Metabolism > Amino acid metabolism > Kynurenine metabolism | Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,Matrix
+TARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+TBRG4,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix
+TMEM65,MitoCarta3.0,0,MIM
+ROMO1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway | Small molecule transport",MIM
+PRDX5,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,Matrix
+DNAJC15,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Import motor",MIM
+MAIP1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones",Matrix
+HIGD1A,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors | OXPHOS > Respirasome assembly,MIM
+C16orf91,MitoCarta3.0,0,IMS
+RHOT2,MitoCarta3.0,Signaling > Calcium homeostasis > EF hand proteins | Mitochondrial dynamics and surveillance > Trafficking,MOM
+SLC25A44,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Small molecule transport > SLC25A family,MIM
+HAO2,MitoCarta3.0,Metabolism > Lipid metabolism,unknown
+OXA1L,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > OXA | Mitochondrial central dogma > Translation",MIM
+SLC25A46,MitoCarta3.0,Small molecule transport > SLC25A family | Mitochondrial dynamics and surveillance > Fission | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions,MOM
+RDH14,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin A metabolism,Membrane
+ATP5MPL,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+CA5B,MitoCarta3.0,Metabolism > Amino acid metabolism > Urea cycle,Matrix
+COASY,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme A metabolism,Matrix
+CISD3,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+GSTZ1,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+COX6B2,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+GLOD4,MitoCarta3.0,0,Matrix
+ACAA1,MitoCarta3.0,Metabolism > Lipid metabolism,unknown
+CROT,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,unknown
+PDF,MitoCarta3.0,"Mitochondrial central dogma > Translation > fMet processing | Protein import, sorting and homeostasis > Protein homeostasis",Matrix
+COX19,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Copper metabolism | OXPHOS > OXPHOS assembly factors,IMS
+AMT,MitoCarta3.0,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Amino acid metabolism > Glycine cleavage system | Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+PDPR,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,Matrix
+NLN,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+BOLA1,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+ALAS2,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing,Matrix
+GRPEL2,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Import motor | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis",Matrix
+ALDH7A1,MitoCarta3.0,Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Metabolism > Detoxification > ROS and glutathione metabolism,Matrix
+HDHD5,MitoCarta3.0,0,Matrix
+GFER,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > MIA40",IMS
+IMMP2L,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases",MIM
+COX4I2,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+MRPL39,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+AADAT,MitoCarta3.0,Metabolism > Amino acid metabolism > Lysine metabolism,Matrix
+FUNDC2,MitoCarta3.0,Mitochondrial dynamics and surveillance > Organelle contact sites | Signaling,MOM
+LYPLA1,MitoCarta3.0,Metabolism > Lipid metabolism | Signaling,unknown
+PDHA2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,Matrix
+MTRF1L,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+GTPBP3,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+MTHFD2L,MitoCarta3.0,Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+YME1L1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",MIM
+ACOT2,MitoCarta3.0,Metabolism > Lipid metabolism,Matrix
+COA8,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+MMAB,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin B12 metabolism,Matrix
+PPOX,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing,MIM
+ABCD3,MitoCarta3.0,Small molecule transport > ABC transporters,Membrane
+SIRT3,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism | Signaling,Matrix
+LDHD,MitoCarta3.0,Metabolism > Carbohydrate metabolism,MIM
+MRPL45,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+C12orf65,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+IMMP1L,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases",MIM
+POLG,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial central dogma > mtDNA maintenance > mtDNA repair,Matrix
+ATPAF1,MitoCarta3.0,OXPHOS > Complex V > CV assembly factors | OXPHOS > OXPHOS assembly factors,Matrix
+BLOC1S1,MitoCarta3.0,Signaling,unknown
+ALDH1L2,MitoCarta3.0,Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+COX18,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+CPOX,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing,MIM
+NNT,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,MIM
+NDUFAF8,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,IMS
+ATP23,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases",IMS
+DCAKD,MitoCarta3.0,0,Membrane
+ATP5MF,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+SFXN3,MitoCarta3.0,Metabolism > Amino acid metabolism > Serine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Small molecule transport > Sideroflexins,MIM
+AASS,MitoCarta3.0,Metabolism > Amino acid metabolism > Lysine metabolism,Matrix
+DIABLO,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,IMS
+COX8C,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+PXMP2,MitoCarta3.0,0,MIM
+AGXT2,MitoCarta3.0,Metabolism > Amino acid metabolism > Glyoxylate metabolism,Matrix
+GLS2,MitoCarta3.0,Metabolism > Amino acid metabolism > Glutamate metabolism,Matrix
+APOO,MitoCarta3.0,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex,MIM
+ACAD11,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,MIM
+C5orf63,MitoCarta3.0,0,Matrix
+HOGA1,MitoCarta3.0,Metabolism > Amino acid metabolism > Glyoxylate metabolism,Matrix
+TTC19,MitoCarta3.0,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+NGRN,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+TCAIM,MitoCarta3.0,0,Matrix
+GCSH,MitoCarta3.0,Metabolism > Lipid metabolism > Lipoate insertion | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Amino acid metabolism > Glycine cleavage system,Matrix
+SIRT5,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,Matrix
+GPT2,MitoCarta3.0,Metabolism > Amino acid metabolism > Glutamate metabolism,Matrix
+TOMM6,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TOM",MOM
+FAM162A,MitoCarta3.0,0,MIM
+ABCB6,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing | Small molecule transport > ABC transporters,MOM
+MACROD1,MitoCarta3.0,Signaling,Matrix
+TST,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Sulfur metabolism,Matrix
+MT-CO1,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | Metabolism > Metals and cofactors > Heme-containing proteins | OXPHOS > OXPHOS subunits,MIM
+MTFR1L,MitoCarta3.0,0,unknown
+SDR39U1,MitoCarta3.0,0,unknown
+DMGDH,MitoCarta3.0,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+SLC25A14,MitoCarta3.0,Metabolism > Sulfur metabolism | Small molecule transport > SLC25A family,MIM
+PRELID3A,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,IMS
+CHCHD5,MitoCarta3.0,0,IMS
+TOMM70,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TOM",MOM
+NIT1,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,Matrix
+FAHD1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA-associated,Matrix
+MCU,MitoCarta3.0,Signaling > Calcium homeostasis > Calcium cycle | Small molecule transport > Calcium uniporter,MIM
+CYP27A1,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme-containing proteins",MIM
+MT-ND2,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MT-ND4,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MT-ND5,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+DELE1,MitoCarta3.0,Signaling,MIM
+FASTKD1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix
+MRPS31,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+ALDH1L1,MitoCarta3.0,Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+PTCD1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules,Matrix
+HADHB,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Ketone metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Lysine metabolism,MIM
+TRIT1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications,Matrix
+CRLS1,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis,MIM
+GLYCTK,MitoCarta3.0,Metabolism > Carbohydrate metabolism,Matrix
+SLC25A32,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin B2 metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Small molecule transport > SLC25A family,MIM
+AARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+EXOG,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA repair | Mitochondrial central dogma > mtDNA maintenance > mtDNA stability and decay,MIM
+CHCHD2,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,IMS
+KMO,MitoCarta3.0,Metabolism > Amino acid metabolism > Kynurenine metabolism | Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,MOM
+SFXN5,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA-associated | Small molecule transport > Sideroflexins,MIM
+ELAC2,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing,Matrix
+GPX1,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Detoxification > Selenoproteins,Matrix
+CPT1B,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Metals and cofactors > Carnitine synthesis and transport | Metabolism > Metals and cofactors > Carnitine shuttle,MOM
+FIS1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission,MOM
+PRELID1,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,IMS
+UCP3,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SLC25A27,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SLC25A40,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SLC25A23,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > SLC25A family,MIM
+HEMK1,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+SLC25A36,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide import | Small molecule transport > SLC25A family,MIM
+OMA1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Fission",MIM
+LETM2,MitoCarta3.0,0,MIM
+DHRS1,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis",MIM
+STOM,MitoCarta3.0,0,Membrane
+METTL5,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications,Matrix
+MSRA,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Sulfur metabolism,Matrix
+NUDT8,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme A metabolism,Matrix
+NMNAT3,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,Matrix
+SLC25A38,MitoCarta3.0,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Small molecule transport > SLC25A family,MIM
+MPV17L2,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,MIM
+ACLY,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA-associated,Matrix
+ABCD2,MitoCarta3.0,Small molecule transport > ABC transporters,Membrane
+FLAD1,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin B2 metabolism,Matrix
+LIPT1,MitoCarta3.0,Metabolism > Lipid metabolism > Lipoate insertion,Matrix
+DGLUCY,MitoCarta3.0,Metabolism > Amino acid metabolism,Matrix
+PCK2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > TCA-associated,Matrix
+NADK2,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,Matrix
+MPST,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Sulfur metabolism,MIM
+NUDT13,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,Matrix
+ACACA,MitoCarta3.0,Metabolism > Lipid metabolism > Type II fatty acid synthesis | Metabolism > Vitamin metabolism > Biotin utilizing proteins,Matrix
+ABAT,MitoCarta3.0,Metabolism > Amino acid metabolism > GABA metabolism | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+HMGCS2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Ketone metabolism,Matrix
+ALDH5A1,MitoCarta3.0,Metabolism > Amino acid metabolism > GABA metabolism,Matrix
+CKMT1A,MitoCarta3.0,Metabolism > Nucleotide metabolism > Creatine metabolism,MIM
+PISD,MitoCarta3.0,Metabolism > Lipid metabolism > Phospholipid metabolism,MIM
+NDUFB4,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+UQCR11,MitoCarta3.0,OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits,MIM
+FAM136A,MitoCarta3.0,0,IMS
+TOMM5,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TOM",MOM
+HTRA2,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Apoptosis",MIM
+NDUFA1,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+MT-CYB,MitoCarta3.0,OXPHOS > Complex III > CIII subunits | Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Electron carriers > Cytochromes | OXPHOS > OXPHOS subunits,MIM
+GUK1,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+D2HGDH,MitoCarta3.0,Metabolism > Carbohydrate metabolism > TCA-associated,Matrix
+OPA3,MitoCarta3.0,0,MOM
+AKR1B10,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin A metabolism | Metabolism > Detoxification > Xenobiotic metabolism,unknown
+PHYH,MitoCarta3.0,Metabolism > Lipid metabolism,Matrix
+NDUFAF2,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+ECSIT,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+PARL,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy",MIM
+MRPL42,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+DNAJC4,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis",Membrane
+PAM16,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Import motor",MIM
+ALDH3A2,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,Membrane
+ACSL6,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,MOM
+MRS2,MitoCarta3.0,Small molecule transport | Signaling,MIM
+ABHD10,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+HINT3,MitoCarta3.0,0,unknown
+PXMP4,MitoCarta3.0,0,unknown
+OSGEPL1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+NUDT2,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+CYB5B,MitoCarta3.0,Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Detoxification > Amidoxime reducing complex | Metabolism > Electron carriers > Cytochromes,MOM
+GRSF1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+MRPS18B,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+DNAJC30,MitoCarta3.0,0,MIM
+CAT,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,IMS
+DGUOK,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+ACOT9,MitoCarta3.0,Metabolism > Lipid metabolism,MIM
+ACSS1,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,MIM
+RFK,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin B2 metabolism,Matrix
+STARD7,MitoCarta3.0,Metabolism > Lipid metabolism > Phospholipid metabolism | Small molecule transport,IMS
+CHPT1,MitoCarta3.0,Metabolism > Lipid metabolism > Phospholipid metabolism,MIM
+MT-ATP8,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+TIMMDC1,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+SPATA19,MitoCarta3.0,0,unknown
+HTATIP2,MitoCarta3.0,0,Membrane
+AKR7A2,MitoCarta3.0,Metabolism > Amino acid metabolism > GABA metabolism | Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+DUT,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+MT-CO3,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+DHRS7B,MitoCarta3.0,0,Membrane
+MTRF1,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+TMEM143,MitoCarta3.0,0,MIM
+NT5M,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+RHOT1,MitoCarta3.0,Signaling > Calcium homeostasis > EF hand proteins | Mitochondrial dynamics and surveillance > Trafficking,MOM
+NME4,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,MIM
+MTHFS,MitoCarta3.0,Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+TIMM29,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TIM22 carrier pathway",MIM
+PNPO,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin B6 metabolism,Matrix
+MICU2,MitoCarta3.0,Signaling > Calcium homeostasis > Calcium cycle | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > Calcium uniporter,MIM
+PCBD2,MitoCarta3.0,Metabolism > Metals and cofactors > Tetrahydrobiopterin synthesis,unknown
+QRSL1,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+ADCK1,MitoCarta3.0,0,unknown
+PRDX6,MitoCarta3.0,Metabolism > Lipid metabolism > Phospholipid metabolism | Metabolism > Detoxification > ROS and glutathione metabolism,unknown
+NIPSNAP1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,Matrix
+GARS1,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+ACSM2A,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+SLC25A33,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide import | Small molecule transport > SLC25A family,MIM
+LYRM9,MitoCarta3.0,0,unknown
+RAB24,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission | Mitochondrial dynamics and surveillance > Autophagy,MOM
+PARS2,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+MRPL52,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+PUS1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+GOT2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Metabolism > Amino acid metabolism > Glutamate metabolism | Metabolism > Amino acid metabolism > Glyoxylate metabolism | Metabolism > Amino acid metabolism > Kynurenine metabolism | Metabolism > Sulfur metabolism,MIM
+NAXD,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,MIM
+MT-ND3,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+ACCS,MitoCarta3.0,0,unknown
+PTRH2,MitoCarta3.0,0,MOM
+PGS1,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,MIM
+OXR1,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,MOM
+LYPLAL1,MitoCarta3.0,Metabolism > Lipid metabolism,unknown
+DNAJC28,MitoCarta3.0,0,unknown
+FPGS,MitoCarta3.0,Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+TMEM205,MitoCarta3.0,0,Membrane
+SLC25A53,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+AIFM3,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S-containing proteins | Mitochondrial dynamics and surveillance > Apoptosis,MIM
+MGST1,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Detoxification > ROS and glutathione metabolism,Membrane
+MTFP1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission,Membrane
+COA4,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,IMS
+NIF3L1,MitoCarta3.0,0,Matrix
+PUSL1,MitoCarta3.0,Mitochondrial central dogma > Translation,Matrix
+SDSL,MitoCarta3.0,Metabolism > Amino acid metabolism > Serine metabolism,unknown
+BAX,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+MAVS,MitoCarta3.0,Signaling > Immune response,MOM
+METTL17,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+ACACB,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Vitamin metabolism > Biotin utilizing proteins,MOM
+ARG2,MitoCarta3.0,Metabolism > Amino acid metabolism,Matrix
+MTPAP,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-mRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix
+CCDC51,MitoCarta3.0,Small molecule transport,MIM
+SUGCT,MitoCarta3.0,Metabolism > Amino acid metabolism,Matrix
+DNM1L,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission,MOM
+NRDC,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting",Matrix
+TMEM126B,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+NSUN4,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+ACSS3,MitoCarta3.0,Metabolism > Lipid metabolism,Matrix
+FAM210B,MitoCarta3.0,Metabolism > Metals and cofactors > Iron homeostasis,MIM
+RBFA,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+METAP1D,MitoCarta3.0,"Mitochondrial central dogma > Translation > fMet processing | Protein import, sorting and homeostasis > Protein homeostasis > Proteases",Matrix
+AHCYL1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Organelle contact sites,MOM
+NIPSNAP3A,MitoCarta3.0,0,Matrix
+MTARC1,MitoCarta3.0,Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins | Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Detoxification > Amidoxime reducing complex,MOM
+FUNDC1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,MOM
+ACSL1,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,MOM
+COX20,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+HSDL1,MitoCarta3.0,0,unknown
+CBR3,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+MTERF4,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+NUDT19,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme A metabolism,Matrix
+HEBP1,MitoCarta3.0,0,IMS
+PTPMT1,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,MIM
+PGAM5,MitoCarta3.0,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,MOM
+DTYMK,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+KARS1,MitoCarta3.0,Mitochondrial central dogma > Translation > mt-tRNA synthetases,Matrix
+STAR,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis",MOM|IMS
+DNAJC19,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > Import motor",MIM
+OTC,MitoCarta3.0,Metabolism > Amino acid metabolism > Urea cycle,Matrix
+COX7A2L,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits | OXPHOS > OXPHOS assembly factors | OXPHOS > Respirasome assembly,MIM
+MTERF3,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+SFXN2,MitoCarta3.0,Small molecule transport > Sideroflexins,MIM
+FASN,MitoCarta3.0,Metabolism > Lipid metabolism,IMS
+PINK1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy | Signaling,MOM
+TMEM177,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+TXNRD1,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Detoxification > Selenoproteins,unknown
+THNSL1,MitoCarta3.0,0,Matrix
+FDPS,MitoCarta3.0,Metabolism > Lipid metabolism > Cholesterol-associated,MIM
+IDI1,MitoCarta3.0,Metabolism > Lipid metabolism > Cholesterol-associated,Matrix
+TOP3A,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication,Matrix
+FTMT,MitoCarta3.0,Metabolism > Metals and cofactors > Iron homeostasis,Matrix
+LDHAL6B,MitoCarta3.0,Metabolism > Carbohydrate metabolism,Matrix
+MTFR1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission,Membrane
+BCL2L13,MitoCarta3.0,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy | Mitochondrial dynamics and surveillance > Apoptosis,MOM
+TRMT10C,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+ACOT7,MitoCarta3.0,Metabolism > Lipid metabolism,Matrix
+TFB1M,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+ARF5,MitoCarta3.0,0,unknown
+MCUB,MitoCarta3.0,Signaling > Calcium homeostasis > Calcium cycle | Small molecule transport > Calcium uniporter,MIM
+TWNK,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid,Matrix
+MMADHC,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin B12 metabolism,Matrix
+PYCR2,MitoCarta3.0,Metabolism > Amino acid metabolism > Proline metabolism,Matrix
+TSTD1,MitoCarta3.0,Metabolism > Sulfur metabolism,unknown
+LYRM1,MitoCarta3.0,0,unknown
+OSBPL1A,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism",unknown
+RECQL4,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair,Matrix
+PET100,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+GDAP1,MitoCarta3.0,0,MOM
+MTIF3,MitoCarta3.0,Mitochondrial central dogma > Translation > Translation factors,Matrix
+UNG,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair,Matrix
+GLYAT,MitoCarta3.0,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+ISOC2,MitoCarta3.0,0,Matrix
+ATP5MC1,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+QDPR,MitoCarta3.0,Metabolism > Metals and cofactors > Tetrahydrobiopterin synthesis | Metabolism > Vitamin metabolism > Folate and 1-C metabolism,Matrix
+COQ8B,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme Q metabolism,MIM
+GTPBP10,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+TSPO,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis",MOM
+FTH1,MitoCarta3.0,Metabolism > Metals and cofactors > Iron homeostasis,unknown
+TRMT1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+ADCK2,MitoCarta3.0,0,MIM
+TSTD3,MitoCarta3.0,0,unknown
+MRPS36,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome | Metabolism > Carbohydrate metabolism > TCA cycle,Matrix
+PDP2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Pyruvate metabolism,Matrix
+AGPAT5,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,MOM
+MCRIP2,MitoCarta3.0,Signaling,unknown
+UCP2,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SLC25A37,MitoCarta3.0,Metabolism > Metals and cofactors > Iron homeostasis | Small molecule transport > SLC25A family,MIM
+SLC25A28,MitoCarta3.0,Metabolism > Metals and cofactors > Iron homeostasis | Small molecule transport > SLC25A family,MIM
+SLC25A48,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SLC25A43,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SLC25A47,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+SLC25A41,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide import | Small molecule transport > SLC25A family,MIM
+SLC25A34,MitoCarta3.0,Small molecule transport > SLC25A family,MIM
+EPHX2,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Lipid metabolism,unknown
+NUDT5,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,unknown
+MICU1,MitoCarta3.0,Signaling > Calcium homeostasis > Calcium cycle | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > Calcium uniporter,MIM
+SOD1,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,IMS
+SERHL2,MitoCarta3.0,0,unknown
+NDUFAF3,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+BOLA3,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+OCIAD2,MitoCarta3.0,Signaling,unknown
+RSAD1,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S-containing proteins,MIM
+CHCHD6,MitoCarta3.0,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex,MIM
+FASTKD2,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+PEX11B,MitoCarta3.0,0,Membrane
+TMEM186,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+PIF1,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance,Matrix
+FABP1,MitoCarta3.0,Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Lipid metabolism,unknown
+ABCD1,MitoCarta3.0,Small molecule transport > ABC transporters,Membrane
+PLPBP,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin B6 metabolism,Matrix
+DBI,MitoCarta3.0,Metabolism > Lipid metabolism,unknown
+PNPT1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix|IMS
+TOP1MT,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtRNA metabolism > Transcription,Matrix
+RNASEH1,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix
+ABCA9,MitoCarta3.0,Small molecule transport > ABC transporters,Membrane
+SCP2,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis",MIM
+NT5DC3,MitoCarta3.0,0,Matrix
+CMC4,MitoCarta3.0,0,IMS
+LDHB,MitoCarta3.0,Metabolism > Amino acid metabolism > Glyoxylate metabolism,unknown
+YBEY,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+HINT1,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,unknown
+MUL1,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis | Mitochondrial dynamics and surveillance > Fission | Signaling",MOM
+TK2,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+AGMAT,MitoCarta3.0,Metabolism > Amino acid metabolism,Matrix
+CMPK2,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+BID,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+ARL2,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fusion,IMS
+SYNJ2BP,MitoCarta3.0,Mitochondrial dynamics and surveillance > Organelle contact sites,MOM
+MFF,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission,MOM
+DCXR,MitoCarta3.0,Metabolism > Carbohydrate metabolism,Matrix
+NUDT9,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+AMACR,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+VPS13D,MitoCarta3.0,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,MOM
+NUDT6,MitoCarta3.0,0,Matrix
+DMAC2,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+MRM2,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+BAK1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+DHODH,MitoCarta3.0,"Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing | Metabolism > Electron carriers > Q-linked reactions, other",MIM
+MAOB,MitoCarta3.0,Metabolism > Amino acid metabolism > Catechol metabolism | Metabolism > Detoxification > Xenobiotic metabolism,MOM
+MGST3,MitoCarta3.0,Metabolism > Lipid metabolism > Eicosanoid metabolism,MOM
+ACP6,MitoCarta3.0,Metabolism > Lipid metabolism > Phospholipid metabolism,IMS
+MRPL48,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome,Matrix
+AGXT,MitoCarta3.0,Metabolism > Amino acid metabolism > Serine metabolism | Metabolism > Amino acid metabolism > Glyoxylate metabolism,Matrix
+CYB5R3,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Detoxification > Amidoxime reducing complex | Metabolism > Lipid metabolism,MOM
+DDX28,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+PNKD,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+MICU3,MitoCarta3.0,Signaling > Calcium homeostasis > Calcium cycle | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > Calcium uniporter,MIM
+BNIP3,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+MTX3,MitoCarta3.0,Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions,MOM
+MUTYH,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance,Matrix
+GTPBP6,MitoCarta3.0,0,Matrix
+CYP11A1,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme-containing proteins",MIM
+OCIAD1,MitoCarta3.0,0,MOM
+METTL8,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism,Matrix
+SMIM20,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+RPUSD4,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications,Matrix
+SMIM8,MitoCarta3.0,0,MOM
+NME6,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+FKBP8,MitoCarta3.0,Mitochondrial dynamics and surveillance > Organelle contact sites | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,MOM
+ACSM4,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+NLRX1,MitoCarta3.0,Signaling > Immune response,Matrix
+FOXRED1,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+TFB2M,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtRNA metabolism > Transcription,Matrix
+PPM1K,MitoCarta3.0,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex,Matrix
+ATP5MC2,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+MT-ND1,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+TAZ,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis,IMS
+MSRB3,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,unknown
+ACOT11,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+NIPSNAP3B,MitoCarta3.0,0,Matrix
+NTHL1,MitoCarta3.0,Metabolism > Metals and cofactors > Fe-S-containing proteins,unknown
+MARCHF5,MitoCarta3.0,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,MOM
+SFXN4,MitoCarta3.0,Small molecule transport > Sideroflexins,MIM
+TRMT5,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+SLC25A6,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Small molecule transport > SLC25A family,MIM
+SLC25A52,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism | Small molecule transport > SLC25A family,MIM
+OGG1,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair,Matrix
+ACOD1,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Itaconate metabolism | Signaling > Immune response,Matrix
+QTRT1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+AIFM2,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism | Mitochondrial dynamics and surveillance > Apoptosis,Membrane
+PRDX2,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,unknown
+FBXL4,MitoCarta3.0,0,IMS
+GPAM,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,Membrane
+DMAC2L,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits,MIM
+RMDN3,MitoCarta3.0,Mitochondrial dynamics and surveillance > Organelle contact sites,MOM
+PRXL2A,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,Membrane
+ATP5MD,MitoCarta3.0,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits | Mitochondrial dynamics and surveillance > Cristae formation,MIM
+PET117,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+MAOA,MitoCarta3.0,Metabolism > Amino acid metabolism > Catechol metabolism | Metabolism > Detoxification > Xenobiotic metabolism,MOM
+C15orf61,MitoCarta3.0,0,Matrix
+POLQ,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance,Matrix
+BCO2,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin A metabolism,MIM
+IFI27,MitoCarta3.0,Signaling > Immune response | Mitochondrial dynamics and surveillance > Apoptosis,Membrane
+CRYZ,MitoCarta3.0,0,Matrix
+PYCR1,MitoCarta3.0,Metabolism > Amino acid metabolism > Proline metabolism,Matrix
+TMLHE,MitoCarta3.0,Metabolism > Metals and cofactors > Carnitine synthesis and transport,Matrix
+TOMM20,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TOM | Mitochondrial dynamics and surveillance",MOM
+YRDC,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+COA7,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,IMS
+DHRS2,MitoCarta3.0,Metabolism > Detoxification > Xenobiotic metabolism,Matrix
+MMAA,MitoCarta3.0,Metabolism > Vitamin metabolism > Vitamin B12 metabolism,Matrix
+MIEF1,MitoCarta3.0,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly | Mitochondrial dynamics and surveillance > Fission,MOM|Matrix
+C15orf48,MitoCarta3.0,0,Membrane
+LIG3,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA repair,Matrix
+BNIP3L,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+FASTKD5,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix
+PARK7,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy",MOM
+COA1,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+COX7B2,MitoCarta3.0,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits,MIM
+MT-ND4L,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+SIRT4,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,Matrix
+UQCC2,MitoCarta3.0,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+USP30,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy",MOM
+PDE12,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-mRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix
+NME3,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,MOM
+DHX30,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+FASTK,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,MIM
+METTL15,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications,Matrix
+CYP24A1,MitoCarta3.0,Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Vitamin metabolism > Vitamin D metabolism,MIM
+NOCT,MitoCarta3.0,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism,Matrix
+PANK2,MitoCarta3.0,Metabolism > Metals and cofactors > Coenzyme A metabolism,IMS
+CA5A,MitoCarta3.0,Metabolism > Amino acid metabolism > Urea cycle,Matrix
+NT5DC2,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+ATAD3B,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial dynamics and surveillance > Organelle contact sites | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions,MIM
+TRUB2,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications,Matrix
+PRKACA,MitoCarta3.0,Signaling > cAMP-PKA signaling,MIM
+COMTD1,MitoCarta3.0,0,Membrane
+CPT1C,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Metals and cofactors > Carnitine synthesis and transport | Metabolism > Metals and cofactors > Carnitine shuttle,MOM
+C3orf33,MitoCarta3.0,0,Matrix
+MIGA2,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Organelle contact sites,MOM
+SND1,MitoCarta3.0,0,unknown
+GLUD2,MitoCarta3.0,Metabolism > Amino acid metabolism > Glutamate metabolism | Metabolism > Amino acid metabolism > GABA metabolism,Matrix
+HPDL,MitoCarta3.0,0,unknown
+ANGEL2,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-mRNA modifications,Matrix
+ANTKMT,MitoCarta3.0,Metabolism > Nucleotide metabolism,MIM
+UQCC3,MitoCarta3.0,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+PRDX4,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism,IMS
+CDK5RAP1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+PAICS,MitoCarta3.0,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing,Matrix
+MGARP,MitoCarta3.0,Mitochondrial dynamics and surveillance > Trafficking,Membrane
+HDHD3,MitoCarta3.0,0,Matrix
+CYP11B2,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme-containing proteins",MIM
+AGPAT4,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,MOM
+RCC1L,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications,Matrix
+FAM185A,MitoCarta3.0,0,Matrix
+PMAIP1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+TDRKH,MitoCarta3.0,0,Membrane
+SLC8B1,MitoCarta3.0,Signaling > Calcium homeostasis > Calcium cycle | Small molecule transport,MIM
+CYP27B1,MitoCarta3.0,Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Vitamin metabolism > Vitamin D metabolism,MIM
+POLG2,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid,Matrix
+THEM5,MitoCarta3.0,Metabolism > Lipid metabolism,Matrix
+BIK,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+MTERF1,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial central dogma > mtRNA metabolism > Transcription,Matrix
+MTFR2,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission,Membrane
+GPX4,MitoCarta3.0,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Detoxification > Selenoproteins,MIM
+TOMM20L,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting",MOM
+COMT,MitoCarta3.0,Metabolism > Amino acid metabolism > Catechol metabolism,Membrane
+MYG1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-mRNA modifications,Matrix
+SPATA20,MitoCarta3.0,0,Matrix
+OXCT2,MitoCarta3.0,Metabolism > Carbohydrate metabolism > Ketone metabolism,Matrix
+CCDC127,MitoCarta3.0,0,Membrane
+CRY1,MitoCarta3.0,0,unknown
+ACSM2B,MitoCarta3.0,Metabolism > Lipid metabolism > Fatty acid oxidation,Matrix
+MYO19,MitoCarta3.0,Mitochondrial dynamics and surveillance > Trafficking,MOM
+MGME1,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA stability and decay,Matrix
+SEPTIN4,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+EFHD1,MitoCarta3.0,Signaling > Calcium homeostasis > EF hand proteins,MIM
+RAB5IF,MitoCarta3.0,OXPHOS > OXPHOS assembly factors | OXPHOS > Respirasome assembly,MIM
+APEX1,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair,Matrix
+SPTLC2,MitoCarta3.0,Metabolism > Lipid metabolism > Phospholipid metabolism,Membrane
+DMAC1,MitoCarta3.0,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+ATPSCKMT,MitoCarta3.0,OXPHOS > Complex V > CV assembly factors | OXPHOS > OXPHOS assembly factors,MIM
+NEU4,MitoCarta3.0,Metabolism > Carbohydrate metabolism,MOM
+CASP9,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Apoptosis",IMS
+AGK,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TIM22 carrier pathway | Metabolism > Lipid metabolism > Phospholipid metabolism",MIM
+MCL1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+DUS2,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+PLD6,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Mitochondrial dynamics and surveillance > Fusion,MOM
+TOMM34,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein import and sorting > TOM",MOM
+PRORP,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing,Matrix
+PLSCR3,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis,MIM
+CKMT1B,MitoCarta3.0,Metabolism > Nucleotide metabolism > Creatine metabolism,MIM
+NDUFB1,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+ATP5MF-PTCD1,MitoCarta3.0,0,unknown
+CASP8,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis | Mitochondrial dynamics and surveillance > Apoptosis",MOM
+BCL2L1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+EXD2,MitoCarta3.0,Mitochondrial central dogma > Translation,Matrix
+ARMC10,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission | Mitochondrial dynamics and surveillance > Trafficking,MOM
+MIEF2,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission,MOM
+THG1L,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+GOLPH3,MitoCarta3.0,0,IMS
+PREPL,MitoCarta3.0,0,Matrix
+FASTKD3,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay,Matrix
+CEP89,MitoCarta3.0,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors,IMS
+GPAT2,MitoCarta3.0,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism,MOM
+NBR1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Autophagy,IMS
+BOK,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+FKBP10,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones",IMS
+SETD9,MitoCarta3.0,0,Matrix
+CYP11B1,MitoCarta3.0,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme-containing proteins",MIM
+CSKMT,MitoCarta3.0,Signaling,Matrix
+MIGA1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fusion,MOM
+RPIA,MitoCarta3.0,Metabolism > Carbohydrate metabolism,Matrix
+BBC3,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+BAD,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+BCL2,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+BCL2A1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+BCL2L2,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+CASP3,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Apoptosis",IMS
+DMPK,MitoCarta3.0,0,MOM
+DNA2,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Metabolism > Metals and cofactors > Fe-S-containing proteins,Matrix
+MT-ND6,MitoCarta3.0,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits,MIM
+PRKN,MitoCarta3.0,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy,MOM
+ALKBH1,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+PICK1,MitoCarta3.0,0,unknown
+BCL2L10,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+AKAP10,MitoCarta3.0,Signaling > cAMP-PKA signaling,MOM
+STYXL1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,Matrix
+NSUN2,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+ADCY10,MitoCarta3.0,Signaling > cAMP-PKA signaling,Membrane
+SPHK2,MitoCarta3.0,Metabolism > Lipid metabolism > Phospholipid metabolism | Mitochondrial dynamics and surveillance > Apoptosis,MIM
+NSUN3,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications,Matrix
+PABPC5,MitoCarta3.0,0,Matrix
+PRSS35,MitoCarta3.0,"Protein import, sorting and homeostasis > Protein homeostasis",unknown
+PRIMPOL,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair,Matrix
+SERAC1,MitoCarta3.0,Metabolism > Lipid metabolism > Phospholipid metabolism,MOM
+STX17,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission | Mitochondrial dynamics and surveillance > Organelle contact sites | Mitochondrial dynamics and surveillance > Autophagy,MOM
+TRMT61B,MitoCarta3.0,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly,Matrix
+PDE2A,MitoCarta3.0,Signaling > cAMP-PKA signaling,MIM
+PLGRKT,MitoCarta3.0,0,Membrane
+ETFBKMT,MitoCarta3.0,"Metabolism > Electron carriers > Q-linked reactions, other",Matrix
+RTL10,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+BCL2L11,MitoCarta3.0,Mitochondrial dynamics and surveillance > Apoptosis,MOM
+SPIRE1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Fission | Mitochondrial dynamics and surveillance > Organelle contact sites,MOM
+C2orf69,MitoCarta3.0,0,Matrix
+ARMCX2,MitoCarta3.0,0,Membrane
+ARMCX1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Trafficking,MOM
+POLB,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair,Matrix
+SNAP29,MitoCarta3.0,Mitochondrial dynamics and surveillance > Autophagy,IMS
+ARMCX3,MitoCarta3.0,Mitochondrial dynamics and surveillance > Trafficking,MOM
+ARMCX6,MitoCarta3.0,0,Membrane
+METTL4,MitoCarta3.0,Mitochondrial central dogma > mtDNA maintenance > mtDNA modifications,Matrix
+SPHKAP,MitoCarta3.0,Signaling > cAMP-PKA signaling,MIM
+NAT8L,MitoCarta3.0,Metabolism > Amino acid metabolism > Glutamate metabolism,Membrane
+MCCD1,MitoCarta3.0,0,unknown
+PIGBOS1,MitoCarta3.0,Mitochondrial dynamics and surveillance > Organelle contact sites,MOM
+HTD2,MitoCarta3.0,Metabolism > Lipid metabolism > Type II fatty acid synthesis,Matrix
+RP11_469A15.2,MitoCarta3.0,,MIM

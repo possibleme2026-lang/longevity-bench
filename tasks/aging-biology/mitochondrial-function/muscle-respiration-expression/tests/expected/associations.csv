@@ -1,0 +1,7 @@
+score,term,estimate,std_error,ci_low,ci_high,p_value
+mito_score,age_group[middle-aged],-0.0661935,0.118024,-0.313221,0.180834,0.581457
+mito_score,age_group[old],-0.268101,0.102242,-0.482095,-0.054107,0.0167695
+mito_score,sex[F->M],0.151553,0.0822172,-0.0205292,0.323636,0.0809373
+oxphos_score,age_group[middle-aged],-0.138566,0.153609,-0.460073,0.182942,0.378315
+oxphos_score,age_group[old],-0.486256,0.133068,-0.76477,-0.207743,0.0016869
+oxphos_score,sex[F->M],0.187767,0.107006,-0.0361991,0.411733,0.0954182
