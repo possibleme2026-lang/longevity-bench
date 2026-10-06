@@ -1,0 +1,7 @@
+variable,importance
+age,-0.328698
+wt71,-0.191921
+sex,0.132853
+smokeintensity,-0.096898
+race,-0.077722
+smokeyrs,-0.051320

@@ -1,0 +1,5 @@
+estimator,estimate,ci_lower,ci_upper,n
+naive,2.540581,1.612926,3.606722,1566
+ip_weighting,3.472985,2.484509,4.361229,1629
+standardization,3.446623,2.484509,4.361229,1629
+doubly_robust,3.422869,2.484509,4.361229,1629

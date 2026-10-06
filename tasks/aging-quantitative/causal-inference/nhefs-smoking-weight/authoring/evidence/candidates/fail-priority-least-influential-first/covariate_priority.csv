@@ -1,0 +1,10 @@
+variable,importance
+active,0.001191
+race,-0.032639
+education,0.036439
+smokeyrs,-0.047308
+exercise,0.072900
+smokeintensity,-0.134219
+wt71,-0.190974
+age,-0.196109
+sex,0.203134

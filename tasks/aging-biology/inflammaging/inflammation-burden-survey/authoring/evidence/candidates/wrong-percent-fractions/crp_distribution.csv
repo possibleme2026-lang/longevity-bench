@@ -1,0 +1,15 @@
+statistic,value
+threshold_mg_L,3.0
+n_older_adults,1888.0
+weighted_population,66068882.26228182
+weighted_mean_mg_L,3.9416784196615957
+weighted_geometric_mean_mg_L,2.0569988710703258
+weighted_median_mg_L,1.97
+weighted_p90_mg_L,7.9471489424798545
+weighted_p95_mg_L,11.831344995456389
+weighted_prevalence_elevated_pct,0.3549699806973376
+prevalence_ci95_low_pct,0.3158056160706473
+prevalence_ci95_high_pct,0.3941343453240279
+weighted_low_risk_pct,0.26833576519335967
+weighted_average_risk_pct,0.37669425410930274
+weighted_high_risk_pct,0.3549699806973376
