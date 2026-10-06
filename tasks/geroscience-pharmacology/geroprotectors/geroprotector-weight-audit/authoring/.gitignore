@@ -1,0 +1,6 @@
+# Authoring-side scratch. Neither image ever mounts authoring/, and a .pyc is
+# not evidence of anything.
+__pycache__/
+*.pyc
+_upstream/
+evidence/_out/

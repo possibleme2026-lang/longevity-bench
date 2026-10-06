@@ -1,0 +1,10 @@
+group,dose_ppm,n_animals,worst_sex,worst_age_months,min_mean_deviation_g,screen
+AKG_18,20000,285,f,18,-1.3038205042016793,not_suppressed
+Cana_16,180,192,f,24,-5.187280931506346,suppressed
+Cana_6,180,95,f,18,-7.829804341999462,suppressed
+DNP,3,280,m,24,-1.1841736714463977,not_suppressed
+HYD_16,30,284,m,12,-0.23476260581523672,not_suppressed
+HYD_6,30,284,f,12,-0.8536469189802407,not_suppressed
+NEBI,60,280,f,12,-2.255943683864566,suppressed
+OH_Est,5,292,f,18,-14.136374327386369,suppressed
+THIO,10000,282,f,12,-1.5190627047448637,not_suppressed
