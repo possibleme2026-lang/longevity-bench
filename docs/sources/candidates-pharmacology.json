@@ -1,0 +1,168 @@
+[
+  {
+    "label": "ctgov-v2-senolytic-trials-posted-results",
+    "fields": ["clinical-aging/clinical-trials", "geroscience-pharmacology/senolytics"],
+    "pmid": "37679434",
+    "url": "https://clinicaltrials.gov/api/v2/studies?query.term=senolytic&filter.advanced=AREA%5BHasResults%5Dtrue&pageSize=100&format=json",
+    "license": "Public domain (US NIH/NLM ClinicalTrials.gov; terms of use permit reuse)",
+    "note": "HTTP 200, application/json. ClinicalTrials.gov API v2 query returning the five senolytic trials that have POSTED RESULTS: NCT04313634, NCT04771611, NCT04210986, NCT04063124, NCT04537299, each with arms, outcomes, enrolment and a resultsSection. Order of a few hundred KB JSON. PMID 37679434 is the SToMP-AD (NCT04063124) publication, which is one of the trials this query returns."
+  },
+  {
+    "label": "ctgov-v2-nct02874989-dasatinib-quercetin-ipf",
+    "fields": ["clinical-aging/clinical-trials", "geroscience-pharmacology/senolytics"],
+    "pmid": "30616998",
+    "doi": "10.1016/j.ebiom.2018.12.052",
+    "url": "https://clinicaltrials.gov/api/v2/studies/NCT02874989?format=json",
+    "license": "Public domain (US NIH/NLM ClinicalTrials.gov; terms of use permit reuse)",
+    "note": "HTTP 200, application/json. Full registry record for NCT02874989, 'Targeting Pro-Inflammatory Cells in Idiopathic Pulmonary Fibrosis: a Human Trial' (dasatinib+quercetin vs placebo, 26 actual participants, arms and primary/secondary outcome measures, ~60 KB). hasResults=false, so this record carries protocol data only, not posted results. PMID 30616998 / DOI 10.1016/j.ebiom.2018.12.052 is the corresponding first-in-human report."
+  },
+  {
+    "label": "ctgov-v2-nct04063124-stomp-ad-senolytic",
+    "fields": ["clinical-aging/clinical-trials", "geroscience-pharmacology/senolytics"],
+    "doi": "10.1038/s41591-023-02543-w",
+    "pmid": "37679434",
+    "url": "https://clinicaltrials.gov/api/v2/studies/NCT04063124?format=json",
+    "license": "Public domain (US NIH/NLM ClinicalTrials.gov; terms of use permit reuse)",
+    "note": "HTTP 200, application/json. Full registry record for NCT04063124, SToMP-AD (dasatinib+quercetin in mild Alzheimer's disease); hasResults=true so the JSON includes an outcome-measures results section. DOI 10.1038/s41591-023-02543-w / PMID 37679434 is the phase 1 trial report."
+  },
+  {
+    "label": "ctgov-v2-metformin-aging-completed-trials",
+    "fields": ["clinical-aging/clinical-trials", "geroscience-pharmacology/geroprotectors"],
+    "pmid": "27304507",
+    "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=aging&query.intr=metformin&filter.overallStatus=COMPLETED&pageSize=100&format=json",
+    "license": "Public domain (US NIH/NLM ClinicalTrials.gov; terms of use permit reuse)",
+    "note": "HTTP 200, application/json. Query returns 10 completed metformin/aging trials with arms, enrolment and status, including NCT02432287 (MILES), NCT04264897 and NCT02308228; four of them carry posted results. PMID 27304507 is 'Metformin as a Tool to Target Aging' (Cell Metab 2016), the standard citation for metformin geroscience trials represented in this query."
+  },
+  {
+    "label": "gse316278-senolytic-clearance-bone-marrow-aging",
+    "fields": ["geroscience-pharmacology/senolytics"],
+    "geo": "GSE316278",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE316nnn/GSE316278/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "HTTP 200 directory listing; GSE316278_RAW.tar plus filelist.txt in /suppl/. Mus musculus RNA-seq (8 samples), 'Pharmacological Clearance of Senescent Cells Alleviates Bone Marrow Aging' - BCL-xL/BCL-2-targeted senolytic treatment in aged bone marrow."
+  },
+  {
+    "label": "gse281300-dasatinib-quercetin-disc-degeneration",
+    "fields": ["geroscience-pharmacology/senolytics"],
+    "geo": "GSE281300",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE281nnn/GSE281300/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "HTTP 200 directory listing; /suppl/ holds GSE281300_Novais_and_Ottone_et_al_Matrix_Table_SMJ_DQ_senolytics.xlsx and GSE281300_RAW.tar. Mus musculus expression array (32 samples), dasatinib+quercetin senolytic treatment of disc degeneration in SM/J mice."
+  },
+  {
+    "label": "gse324746-senolytic-aged-kidney-multiomics",
+    "fields": ["geroscience-pharmacology/senolytics"],
+    "geo": "GSE324746",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE324nnn/GSE324746/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "HTTP 200 directory listing; GSE324746_RAW.tar in /suppl/. Mus musculus RNA-seq (3 samples), 'Multi-omics profiling reveals systemic rejuvenation of the aged kidney through senolytic therapy' (dasatinib+quercetin)."
+  },
+  {
+    "label": "gse308803-combination-senolytic-osteoarthritis-scrna",
+    "fields": ["geroscience-pharmacology/senolytics"],
+    "geo": "GSE308803",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE308nnn/GSE308803/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "HTTP 200 directory listing; GSE308803_RAW.tar in /suppl/. Mus musculus single-cell RNA-seq (30 samples) of age-dependent responses to combination senolytic therapy in post-traumatic osteoarthritis."
+  },
+  {
+    "label": "gse294565-p53-mdm2-inhibition-senescent-muscle",
+    "fields": ["geroscience-pharmacology/senolytics"],
+    "geo": "GSE294565",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE294nnn/GSE294565/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "HTTP 200 directory listing; GSE294565_gene_count.txt.gz in /suppl/. Mus musculus RNA-seq (32 samples) testing pharmacological reduction of senescent-cell abundance (p53-MDM2 binding inhibition) in aged skeletal muscle."
+  },
+  {
+    "label": "senmayo-senescence-gene-set-supplementary",
+    "fields": ["geroscience-pharmacology/senolytics", "aging-biology/cellular-senescence"],
+    "pmid": "35974106",
+    "doi": "10.1038/s41467-022-32552-1",
+    "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-32552-1/MediaObjects/41467_2022_32552_MOESM4_ESM.xlsx",
+    "license": "CC BY 4.0",
+    "note": "HTTP 200, 18,448-byte .xlsx. Supplementary Data for Saul et al. 2022 (SenMayo): two sheets, 'human' and 'mouse', ~125 senescence/SASP genes with classification (secreted / transmembrane / intercellular signal molecule) and reference IDs. Compact, directly parseable gene-set reference for scoring senolytic and SASP signatures."
+  },
+  {
+    "label": "gse210669-metformin-rapamycin-intestinal-aging",
+    "fields": ["geroscience-pharmacology/geroprotectors"],
+    "geo": "GSE210669",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE210nnn/GSE210669/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "HTTP 200 directory listing; GSE210669_RAW.tar in /suppl/. Mus musculus single-cell RNA-seq (12 samples): impact of aging on intestinal epithelial cells and reversible aspects of metformin or rapamycin (geroprotector) treatment."
+  },
+  {
+    "label": "gse299228-caloric-restriction-antiaging-interventions-liver",
+    "fields": ["geroscience-pharmacology/geroprotectors"],
+    "geo": "GSE299228",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE299nnn/GSE299228/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "HTTP 200 directory listing; /suppl/ holds GSE299228_CR_normalized_counts_DESeq2.csv.gz and GSE299228_Comparative_Study_DESeq2.csv.gz (ready-made normalised count and differential-expression tables). Mus musculus liver RNA-seq (18 samples) after caloric restriction and anti-aging interventions."
+  },
+  {
+    "label": "gse194386-metformin-mouse-muscle-adipose-scrna",
+    "fields": ["geroscience-pharmacology/geroprotectors"],
+    "geo": "GSE194386",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE194nnn/GSE194386/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "HTTP 200 directory listing; GSE194386_RAW.tar in /suppl/. Mus musculus single-cell RNA-seq (24 samples) of young, old and metformin-treated muscle and adipose tissue."
+  },
+  {
+    "label": "broad-drug-repurposing-hub-compound-annotations",
+    "fields": ["geroscience-pharmacology/geroprotectors", "geroscience-pharmacology/dose-response"],
+    "pmid": "28388612",
+    "doi": "10.1038/nm.4306",
+    "url": "https://s3.amazonaws.com/data.clue.io/repurposing/downloads/repurposing_drugs_20200324.txt",
+    "license": "Broad Institute Drug Repurposing Hub: free download, non-commercial use only (stated in the file header); cite Corsello et al. 2017",
+    "note": "HTTP 206 (size 530,302 bytes), text/plain, tab-delimited, 6,806 data rows. Compound annotations (pert_iname, clinical_phase, mechanism of action, target, disease area, indication) for the Broad Repurposing Hub library, which includes rapamycin/sirolimus, metformin, dasatinib and fisetin. Licence is non-commercial only - recorded here rather than assumed open."
+  },
+  {
+    "label": "openfda-faers-sirolimus-rapamycin-reports",
+    "fields": ["geroscience-pharmacology/geroprotectors"],
+    "pmid": "26644398",
+    "doi": "10.1093/jamia/ocv153",
+    "url": "https://api.fda.gov/drug/event.json?search=patient.drug.medicinalproduct:%22sirolimus%22&limit=10",
+    "license": "Public domain (US FDA openFDA; US Government work)",
+    "note": "HTTP 200, application/json; no API key required. Query reports meta.total = 14,104 FAERS adverse-event reports for sirolimus/rapamycin, each with full patient, drug and reaction fields. PMID 26644398 / DOI 10.1093/jamia/ocv153 is the openFDA platform paper."
+  },
+  {
+    "label": "mpd-itp1-lifespan-cohort-2021-dose-levels",
+    "fields": ["geroscience-pharmacology/geroprotectors", "geroscience-pharmacology/dose-response"],
+    "pmid": "19587680",
+    "url": "https://phenome.jax.org/getcurationfile?id=772&mode=download",
+    "license": "Free public download under MPD Terms of Use (The Jackson Laboratory)",
+    "note": "HTTP 200, 124,356-byte .xlsx (MPD ITP1 supplementary file ITP_C2021_Lifespan.xlsx). 2,388 mouse rows with columns population, cohort, site, sex, id, group, dose, age_initiation, status, dead, age(days) - per-animal survival at explicit dose levels for the NIA Interventions Testing Program UM-HET3 cohort C2021. PMID 19587680 is the founding ITP rapamycin paper (Harrison 2009), cited as the programme reference rather than as a report of this cohort."
+  },
+  {
+    "label": "mpd-itp1-lifespan-cohort-2020-dose-levels",
+    "fields": ["geroscience-pharmacology/dose-response", "geroscience-pharmacology/geroprotectors"],
+    "pmid": "27312235",
+    "url": "https://phenome.jax.org/getcurationfile?id=707&mode=download",
+    "license": "Free public download under MPD Terms of Use (The Jackson Laboratory)",
+    "note": "HTTP 200, 208,193-byte .xlsx (MPD ITP1 supplementary file ITP_C2020_Lifespan.xlsx). 2,869 mouse rows with group, Rx(ppm) dose, age_initiation(mo), status, dead and age(days): a multi-arm, multi-dose geroprotector survival table. PMID 27312235 (Strong et al. 2016, Aging Cell) is cited as an ITP programme report, not as the source of this specific cohort."
+  },
+  {
+    "label": "mpd-itp1-cohort-2020-dose-resolved-body-weight",
+    "fields": ["geroscience-pharmacology/dose-response"],
+    "pmid": "19587680",
+    "url": "https://phenome.jax.org/getcurationfile?id=849&mode=download",
+    "license": "Free public download under MPD Terms of Use (The Jackson Laboratory)",
+    "note": "HTTP 200, 391,860-byte .xlsx (MPD ITP1 supplementary file C2020_pheno_bw.xlsx). 11,488 mouse rows: population, cohort, site, sex, id, group, dose, age, body_weight - a dose-resolved longitudinal body-weight phenotype table from the same ITP cohort as the lifespan files."
+  },
+  {
+    "label": "chembl-37-release-dumps",
+    "fields": ["geroscience-pharmacology/dose-response"],
+    "pmid": "37933841",
+    "doi": "10.1093/nar/gkad1004",
+    "url": "https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/latest/",
+    "license": "CC BY-SA 3.0 (verified in the LICENSE file in this directory; attribution requested in REQUIRED.ATTRIBUTION)",
+    "note": "HTTP 206 directory listing (5,399 bytes) for ChEMBL release 37, containing the standardised bioactivity tables (IC50/EC50/Ki/Kd concentration-response values) inside chembl_37_sqlite.tar.gz (5.76 GB) and chembl_37_mysql/postgresql dumps, plus chembl_37_chemreps.txt.gz (292.5 MB) and chembl_37.sdf.gz (931.2 MB). Included for completeness with an explicit size warning: every release-37 artifact is far larger than the compact range preferred for this catalogue. The ChEMBL REST API was NOT used here because it returned HTTP 500 for most calls from this host."
+  },
+  {
+    "label": "nci-dtp-dose-response-nsc740",
+    "fields": ["geroscience-pharmacology/dose-response"],
+    "pmid": "16990858",
+    "url": "https://dtp.cancer.gov/dtpstandard/servlet/SubSets?subsettype=DOSE&searchtype=NSC&searchlist=740&outputformat=xml",
+    "license": "Public domain (US NCI Developmental Therapeutics Program)",
+    "note": "HTTP 200, text/xml, 207,382 bytes, no registration. Returns <dose-data-results> with per-cell-line <CellInhibitionDoseResponse> series: Concentration in log10(M) paired with EndPointValue (GI%), dispersion and number of experiments across NCI-60 panels. The canonical free concentration-response reference data. PMID 16990858 / DOI 10.1038/nrc1951 (Shoemaker 2006) is the NCI-60 screen publication."
+  }
+]

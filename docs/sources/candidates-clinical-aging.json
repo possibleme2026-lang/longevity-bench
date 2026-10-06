@@ -1,0 +1,248 @@
+[
+  {
+    "label": "nhanes-2017-2018-hscrp-inflammation",
+    "fields": [
+      "aging-biology/inflammaging",
+      "aging-quantitative/biomarker-validation"
+    ],
+    "pmid": "41688996",
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/HSCRP_J.xpt",
+    "license": "Public domain (US CDC/NCHS; NHANES is a US Government work)",
+    "note": "High-sensitivity CRP (LBXHSCRP) with interpretation column LBDHRPLC, 2017-2018 cycle, 8,366 rows x 3 vars. 198 KB SAS XPORT; verified real XPORT header and 3 columns in pandas. HTTP 206 on range request. Declared PMID is an NHANES cardiometabolic-multimorbidity study using CRP."
+  },
+  {
+    "label": "nhanes-2015-2016-hscrp-inflammation",
+    "fields": [
+      "aging-biology/inflammaging",
+      "clinical-aging/multimorbidity"
+    ],
+    "pmid": "40518072",
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2015/DataFiles/HSCRP_I.xpt",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "High-sensitivity CRP, 2015-2016 cycle, 221,200 bytes SAS XPORT. Independent cycle of the same assay as HSCRP_J, so the two can be pooled or trended. HTTP 206 on range request."
+  },
+  {
+    "label": "nhanes-2009-2010-crp-inflammation",
+    "fields": [
+      "aging-biology/inflammaging"
+    ],
+    "pmid": "30697622",
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2009/DataFiles/CRP_F.xpt",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "Conventional CRP (not high-sensitivity), 2009-2010 cycle, 148,480 bytes SAS XPORT. This is the only cycle in 2009-2014 with a plain CRP file: no CRP file exists for 2011-2012 or 2013-2014, where inflammation work must use hsCRP instead. HTTP 206 on range request."
+  },
+  {
+    "label": "gse262619-peripheral-leukocyte-aging-clock",
+    "fields": [
+      "aging-biology/inflammaging",
+      "aging-quantitative/biomarker-validation"
+    ],
+    "geo": "GSE262619",
+    "pmid": "40089807",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE262nnn/GSE262619/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Whole transcriptome of human peripheral blood leukocytes across age, plus a transcriptome-based aging clock; 35 samples, RNA-seq, Homo sapiens. Concrete data file GSE262619_Raw_count.txt.gz is 6.18 MB. Directory HTTP 200, range 206."
+  },
+  {
+    "label": "gse152073-brazilian-spah-elderly-blood",
+    "fields": [
+      "aging-biology/inflammaging",
+      "aging-quantitative/omics-integration"
+    ],
+    "geo": "GSE152073",
+    "pmid": "34493690",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE152nnn/GSE152073/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Blood gene expression from the Brazilian SPAH study of community-dwelling elderly women (low muscle mass versus controls); 90 samples, array. The bulk GSE152073_RAW.tar is 2.0 GB, so use per-sample supplementary files for a container. Directory HTTP 200, range 206."
+  },
+  {
+    "label": "gse255895-inflammaging-endothelial-dysfunction",
+    "fields": [
+      "aging-biology/inflammaging"
+    ],
+    "geo": "GSE255895",
+    "pmid": "39534645",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE255nnn/GSE255895/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Human series explicitly framed as senescence and inflamm-aging with endothelial dysfunction in atherosclerosis; 12 samples, RNA-seq. Concrete data file GSE255895_RAW.tar is 95.29 MB, small enough to bake in. Directory HTTP 200, range 206."
+  },
+  {
+    "label": "gse300265-geriatric-vaccine-tcell-senescence",
+    "fields": [
+      "aging-biology/inflammaging",
+      "clinical-aging/geriatric-assessment"
+    ],
+    "geo": "GSE300265",
+    "pmid": "42095075",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE300nnn/GSE300265/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Single-cell transcriptomics of altered B cell responses and T cell senescence in geriatric non-responders to COVID-19 mRNA vaccination; 12 samples, Homo sapiens. Concrete data file GSE300265_RAW.tar is 761.86 MB, so prefer per-sample supplementary files. Directory HTTP 200, range 206."
+  },
+  {
+    "label": "nhanes-2011-2014-grip-strength-exam",
+    "fields": [
+      "clinical-aging/geriatric-assessment",
+      "clinical-aging/frailty"
+    ],
+    "doi": "10.15620/cdc/151927",
+    "pmid": "29653890",
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/MGX_H.xpt",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "Muscle strength / grip strength examination for 2013-2014, 8,291 rows x 28 vars; measured combined grip strength is MGDCGSZ and per-hand trials are MGXH1T1-MGXH2T3. 1.86 MB SAS XPORT, verified XPORT header and 28 columns. The parallel 2011-2012 file is MGX_G.xpt at https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2011/DataFiles/MGX_G.xpt (1.76 MB, HTTP 206). PMID 29653890 is the NHANES 2011-2014 grip strength measurement summary; DOI is the official NCHS NHANES plan-and-operations report."
+  },
+  {
+    "label": "nhanes-2013-2014-physical-functioning",
+    "fields": [
+      "clinical-aging/geriatric-assessment",
+      "clinical-aging/frailty",
+      "clinical-aging/multimorbidity"
+    ],
+    "pmid": "30498834",
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/PFQ_H.xpt",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "Physical functioning questionnaire, 2013-2014, 9,230 rows x 36 vars: walking and stair-climbing difficulty PFQ061B-PFQ061C, ADL/IADL difficulty PFQ061N-PFQ061T, plus PFQ090. 2.66 MB SAS XPORT, verified 36 columns. HTTP 206."
+  },
+  {
+    "label": "nhanes-2013-2014-diet-inflammation",
+    "fields": [
+      "clinical-aging/geriatric-assessment",
+      "aging-biology/inflammaging",
+      "clinical-aging/frailty"
+    ],
+    "doi": "10.1007/s12603-019-1164-3",
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/DEQ_H.xpt",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "Diet behavior and nutrition questionnaire, 2013-2014, 3,928 rows x 9 vars (SEQN, DED031, DEQ034A-D, DEQ038G/Q, DED120, DED125); the dietary input for Dietary Inflammatory Index work. 284,880 bytes SAS XPORT, verified XPORT header and 9 columns. HTTP 206. The declared DOI is the Dietary Inflammatory Index / pre-frailty and frailty study in older US adults, NHANES 2007-2014."
+  },
+  {
+    "label": "gse331433-frailty-mirna-cardiovascular",
+    "fields": [
+      "clinical-aging/frailty",
+      "aging-biology/inflammaging"
+    ],
+    "geo": "GSE331433",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE331nnn/GSE331433/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Circulating miRNAs associated with frailty in older people with cardiovascular disease, linked by the authors to cellular senescence and inflammation; 24 samples, miRNA-seq, Homo sapiens. Concrete data file GSE331433_raw_counts_table.csv.gz is 0.05 MB. GEO declares no linked PubMed ID for this series, so none is asserted. Directory HTTP 200, range 206."
+  },
+  {
+    "label": "gse287726-frailty-cardiac-surgery",
+    "fields": [
+      "clinical-aging/frailty"
+    ],
+    "geo": "GSE287726",
+    "pmid": "40468979",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE287nnn/GSE287726/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Transcriptomic signature of frailty in older patients with cardiovascular disease undergoing cardiac surgery or TAVI; 70 samples, RNA-seq, Homo sapiens. Concrete data file GSE287726_counts.tsv.gz is 3.26 MB. Directory HTTP 200, range 206."
+  },
+  {
+    "label": "gse129534-midlife-frailty-transcriptome",
+    "fields": [
+      "clinical-aging/frailty"
+    ],
+    "geo": "GSE129534",
+    "pmid": "31395793",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129534/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Frailty in middle age associated with race-specific transcriptome changes, with a follow-up sex-specific analysis (PMID 35945487); 16 samples, RNA-seq, Homo sapiens. Concrete data file GSE129534_RAW.tar is 1.07 MB. Directory HTTP 200, range 206."
+  },
+  {
+    "label": "gse167186-aged-muscle-single-nuclei",
+    "fields": [
+      "clinical-aging/frailty",
+      "aging-biology/cellular-senescence"
+    ],
+    "geo": "GSE167186",
+    "pmid": "36516485",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE167nnn/GSE167186/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Single-nuclei profiling of aged human skeletal muscle identifying cell-specific markers of aging, frailty and senescence; 93 samples. Concrete files GSE167186_counts.csv.gz (1.27 MB) plus GSE167186_SimplifiedMetadataSheet.xlsx carrying sample metadata. Directory HTTP 200, range 206."
+  },
+  {
+    "label": "nhanes-2013-2014-medical-conditions",
+    "fields": [
+      "clinical-aging/multimorbidity"
+    ],
+    "pmid": "37755728",
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/MCQ_H.xpt",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "Medical conditions questionnaire, 2013-2014, 9,770 rows x 95 vars; 23 self-reported condition columns MCQ160A-O with age-at-diagnosis MCQ180A-O, plus arthritis/asthma items and MCQ220 (cancer). The core multimorbidity input. 7.44 MB SAS XPORT, verified 95 columns and the 23 condition columns. HTTP 206. Declared PMID is an NHANES multimorbidity prevalence study."
+  },
+  {
+    "label": "nhanes-2013-2014-prescription-medications",
+    "fields": [
+      "clinical-aging/multimorbidity"
+    ],
+    "pmid": "41620721",
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/RXQ_RX_H.xpt",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "Prescription medications questionnaire, 2013-2014, 20,194 rows x 13 vars (SEQN, RXDUSE, RXDDRUG, RXDDRGID, RXDDAYS, RXDCOUNT, reason/class codes RXDRSC1-3 and RXDRSD1-3); the polypharmacy axis of multimorbidity. 9.90 MB SAS XPORT, verified 13 columns. HTTP 206."
+  },
+  {
+    "label": "nhanes-2013-2014-demographics-weights",
+    "fields": [
+      "clinical-aging/multimorbidity",
+      "clinical-aging/geriatric-assessment"
+    ],
+    "doi": "10.15620/cdc/151927",
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/DEMO_H.xpt",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "Demographics, 2013-2014, 10,175 rows x 47 vars: RIDAGEYR (age), RIAGENDR, RIDRETH1/RIDRETH3, INDFMPIR (poverty-income ratio), and the complex-survey design variables WTMEC2YR, WTINT2YR, SDMVPSU, SDMVSTRA needed to join every other NHANES file on SEQN and to weight it correctly. 3.66 MB SAS XPORT (HEAD content-length), verified 47 columns. HTTP 206. DOI is the official NCHS NHANES plan-and-operations report."
+  },
+  {
+    "label": "nhanes-2017-2018-demographics-weights",
+    "fields": [
+      "clinical-aging/multimorbidity",
+      "clinical-aging/geriatric-assessment"
+    ],
+    "doi": "10.15620/cdc/151927",
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/DEMO_J.xpt",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "Demographics for 2017-2018, 9,254 rows x 46 vars, so HSCRP_J and other 2017-2018 files can be weighted and joined on SEQN exactly as in 2013-2014; carries RIDAGEYR, RIAGENDR, RIDRETH3, INDFMPIR, WTMEC2YR, WTINT2YR, SDMVPSU, SDMVSTRA. 3.25 MB SAS XPORT, verified 46 columns. HTTP 206. DOI is the official NCHS NHANES plan-and-operations report."
+  },
+  {
+    "label": "nhis-2022-adult-public-use-file",
+    "fields": [
+      "clinical-aging/multimorbidity"
+    ],
+    "doi": "10.15620/cdc:100468",
+    "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NHIS/2022/adult22.zip",
+    "license": "Public domain (US CDC/NCHS); NHIS public-use files require no registration",
+    "note": "National Health Interview Survey 2022 adult public-use file: one 3.60 MB ZIP containing adult22.dat, a 21.62 MB fixed-width ASCII file with self-reported chronic-condition, functional-limitation and health-status items for the US civilian noninstitutionalized adult population. Downloaded and its entry list read; HTTP 206 on range request. The parallel adult22.csv path returns 404, so use the ZIP. The declared DOI is an NCHS report on NHIS data linkage, not the survey itself."
+  },
+  {
+    "label": "ewgsop2-2019-sarcopenia-consensus",
+    "fields": [
+      "clinical-aging/frailty",
+      "clinical-aging/geriatric-assessment"
+    ],
+    "pmid": "30312372",
+    "doi": "10.1093/ageing/afy169",
+    "url": "https://doi.org/10.1093/ageing/afy169",
+    "license": "Publisher copyright (Oxford University Press); cited only, not redistributed",
+    "note": "EWGSOP2 consensus on the definition and diagnosis of sarcopenia. Table 1 gives the grip-strength (weakness) criterion as maximum grip strength below 27 kg in men and below 16 kg in women; the paper specifies the highest measurement of a single hand. PMID and DOI both resolve to the same 2019 Age and Ageing article. No data file ships from this source.",
+    "verified": {
+      "pmid": {
+        "status": "ok",
+        "ok": true,
+        "title": "Sarcopenia: revised European consensus on definition and diagnosis.",
+        "note": "PMID 30312372"
+      },
+      "doi": {
+        "status": "ok",
+        "ok": true,
+        "title": "Sarcopenia: revised European consensus on definition and diagnosis (2019)",
+        "note": "DOI 10.1093/ageing/afy169 via Crossref"
+      },
+      "url": {
+        "status": "ok",
+        "ok": true,
+        "title": "gated",
+        "note": "HTTP 403; the host blocks automated access, which is not evidence against the citation"
+      }
+    },
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
+  }
+]

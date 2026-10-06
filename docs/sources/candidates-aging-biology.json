@@ -1,0 +1,171 @@
+[
+  {
+    "label": "hannum-2013-gse40279-whole-blood-450k",
+    "fields": ["aging-biology/epigenetic-clocks"],
+    "geo": "GSE40279",
+    "pmid": "23177740",
+    "doi": "10.1016/j.molcel.2012.10.016",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE40nnn/GSE40279/suppl/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Illumina 450K blood methylation for 656 samples with age/sex/ethnicity: GSE40279_average_beta.txt.gz (1.17 GB) plus a 4 KB sample key; url HTTP 200 (HEAD) / 200 (range)."
+  },
+  {
+    "label": "johansson-2013-gse87571-lifespan-methylome",
+    "fields": ["aging-biology/epigenetic-clocks"],
+    "geo": "GSE87571",
+    "pmid": "23826282",
+    "doi": "10.1371/journal.pone.0067378",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE87nnn/GSE87571/suppl/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "450K methylome across the human lifespan (732 whole-blood samples, ages 14-94): GSE87571_matrix1of2/2of2.txt.gz (1.40 GB each) plus a 1.02 MB covariate xlsx; url HTTP 200 (HEAD) / 200 (range)."
+  },
+  {
+    "label": "heyn-2012-gse30870-newborn-vs-nonagenarian",
+    "fields": ["aging-biology/epigenetic-clocks"],
+    "geo": "GSE30870",
+    "pmid": "22689993",
+    "doi": "10.1073/pnas.1120658109",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE30nnn/GSE30870/suppl/GSE30870_signal_intensities.txt.gz",
+    "license": "Public domain (NCBI GEO)",
+    "note": "450K signal intensities for 40 samples (newborn vs nonagenarian CD4+ T cells, CD14+ monocytes, neutrophils); 94.9 MB gzip; url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "horvath-2013-pan-tissue-clock-353cpg",
+    "fields": ["aging-biology/epigenetic-clocks"],
+    "pmid": "24138928",
+    "doi": "10.1186/gb-2013-14-10-r115",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4015143/",
+    "license": "CC BY (open access; Europe PMC license field = cc by)",
+    "note": "Reference resource: the 353-CpG pan-tissue clock paper with its CpG coefficient additional files; Europe PMC full-text landing page (HTTP 200 HEAD / 200 range) - the same files under static-content.springer.com returned HTTP 403 from this host and were not used."
+  },
+  {
+    "label": "gse41169-dutch-blood-methylation-modules",
+    "fields": ["aging-biology/epigenetic-clocks"],
+    "geo": "GSE41169",
+    "pmid": "23034122",
+    "doi": "10.1186/gb-2012-13-10-r97",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE41nnn/GSE41169/suppl/GSE41169_RAW.tar",
+    "license": "Public domain (NCBI GEO)",
+    "note": "450K blood methylation for 95 Dutch samples used for age-related methylation-module analysis; GSE41169_RAW.tar is 183 MB (ustar: first member is the GPL13534 450K manifest, per-sample files follow); url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "gse130727-transcriptome-signature-cellular-senescence",
+    "fields": ["aging-biology/cellular-senescence"],
+    "geo": "GSE130727",
+    "pmid": "31251810",
+    "doi": "10.1093/nar/gkz555",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130727/suppl/GSE130727_RAW.tar",
+    "license": "Public domain (NCBI GEO)",
+    "note": "RNA-seq of WI-38/IMR-90 fibroblasts across replicative, oncogene-, irradiation- and drug-induced senescence; RAW.tar 8.0 MB holds 37 per-sample gene-count files (downloaded and listed); url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "gse307082-imr90-heat-shock-senescence-cellstates",
+    "fields": ["aging-biology/cellular-senescence", "aging-biology/proteostasis"],
+    "geo": "GSE307082",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE307nnn/GSE307082/suppl/GSE307082_CellStates_count_matrix.txt.gz",
+    "license": "Public domain (NCBI GEO)",
+    "note": "RNA-seq count matrix for 18 human IMR-90 fibroblast samples: proliferating / quiescent / senescent cells with and without heat shock (proteostasis-stress readout); 2.35 MB gzip; url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "cellage-hagr-senescence-gene-database",
+    "fields": ["aging-biology/cellular-senescence"],
+    "pmid": "37933854",
+    "doi": "10.1093/nar/gkad927",
+    "url": "https://genomics.senescence.info/cells/cellAge.zip",
+    "license": "HAGR public download (free for academic use; see genomics.senescence.info)",
+    "note": "CellAge: curated genes that induce or inhibit cell senescence; 21.5 KB zip containing cellage3.tsv (73.6 KB) + release notes, downloaded and contents inspected; url HTTP 200 (HEAD) / 206 (range) via the system proxy 127.0.0.1:7897 (direct curl connect times out on this host, Python urllib reaches it directly)."
+  },
+  {
+    "label": "senmayo-senescence-gene-set-supplementary",
+    "fields": ["aging-biology/cellular-senescence"],
+    "pmid": "35974106",
+    "doi": "10.1038/s41467-022-32552-1",
+    "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-32552-1/MediaObjects/41467_2022_32552_MOESM4_ESM.xlsx",
+    "license": "CC BY 4.0 (Nature Communications; open access)",
+    "note": "Supplementary Data spreadsheet (18 KB xlsx) listing senescence/SASP marker genes with Gene(human), Classification, State, Reference columns (content inspected: CCL2, IL6, CXCL1, BMP2 ...); url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "gse312866-proteasome-stress-transcriptional-signature",
+    "fields": ["aging-biology/proteostasis"],
+    "geo": "GSE312866",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE312nnn/GSE312866/suppl/GSE312866_human.tpm.txt.gz",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Human RNA-seq TPM matrix (80 samples) defining a transcriptional signature of proteasome stress across cell types (HEK293T +/- MG132, human cortical organoids) and its occurrence with aging; 10.7 MB gzip; url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "msigdb-hallmark-gene-sets-gmt",
+    "fields": ["aging-biology/proteostasis"],
+    "pmid": "26771021",
+    "doi": "10.1016/j.cels.2015.12.004",
+    "url": "https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2025.1.Hs/h.all.v2025.1.Hs.symbols.gmt",
+    "license": "Free for research use (MSigDB / Broad Institute; see gsea-msigdb.org terms)",
+    "note": "MSigDB Hallmark collection as a GMT (50 gene sets including HALLMARK_UNFOLDED_PROTEIN_RESPONSE); 46 KB, downloaded and first line inspected; url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "reactome-pathways-gmt",
+    "fields": ["aging-biology/proteostasis", "aging-biology/mitochondrial-function"],
+    "pmid": "37941124",
+    "doi": "10.1093/nar/gkad1025",
+    "url": "https://reactome.org/download/current/ReactomePathways.gmt.zip",
+    "license": "CC0 (Reactome data; reactome.org/license states data are CC0)",
+    "note": "All Reactome pathway-to-gene mappings as GMT (zip, 285 KB), covering protein folding/chaperone, proteasomal degradation and respiratory electron transport pathways; downloaded; url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "gene-ontology-human-annotations-gaf",
+    "fields": ["aging-biology/proteostasis"],
+    "pmid": "36866529",
+    "doi": "10.1093/genetics/iyad031",
+    "url": "http://current.geneontology.org/annotations/goa_human.gaf.gz",
+    "license": "Gene Ontology public annotation release (see geneontology.org for current terms)",
+    "note": "Human GO annotations in GAF 2.2 (14.35 MB gzip) including protein folding (GO:0006457), chaperone binding and proteasome-mediated catabolism terms; url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "mitocarta3-human-mitochondrial-inventory",
+    "fields": ["aging-biology/mitochondrial-function"],
+    "pmid": "33174596",
+    "doi": "10.1093/nar/gkaa1011",
+    "url": "https://personal.broadinstitute.org/scalvo/MitoCarta3.0/Human.MitoCarta3.0.xls",
+    "license": "Broad Institute MitoCarta public release (free for academic use)",
+    "note": "MitoCarta3.0 human mitochondrial protein inventory with sub-organelle localization and MitoPathways annotations; 9.7 MB xls, downloaded; url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "gse64553-fibroblast-aging-rotenone",
+    "fields": ["aging-biology/mitochondrial-function"],
+    "geo": "GSE64553",
+    "pmid": "26380578",
+    "doi": "10.1186/s12979-015-0038-8",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64553/suppl/GSE64553_counts_rpkm_exvivo_rotenone_data.txt.gz",
+    "license": "Public domain (NCBI GEO)",
+    "note": "RNA-seq counts/RPKM for 60 human fibroblast samples during normal replicative aging and with rotenone (mitochondrial complex I) perturbation; 3.46 MB gzip; url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "gse131407-cd4-tcell-mitochondrial-dysfunction-aging",
+    "fields": ["aging-biology/mitochondrial-function"],
+    "geo": "GSE131407",
+    "pmid": "31707363",
+    "doi": "10.18632/aging.102438",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE131nnn/GSE131407/suppl/GSE131407_non_normalized.txt.gz",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Expression array data for CD4+ T cells from 33 older human donors linking age-associated changes to mitochondrial dysfunction secondary to impaired autophagy; 5.83 MB gzip; url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "gse98613-skeletal-muscle-mitochondrial-respiration",
+    "fields": ["aging-biology/mitochondrial-function"],
+    "geo": "GSE98613",
+    "pmid": "29356348",
+    "doi": "10.1111/acel.12725",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE98nnn/GSE98613/suppl/GSE98613_non-normalized.txt.gz",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Vastus lateralis muscle expression data for young, middle-aged and old participants in the Baltimore Longitudinal Study of Aging, paired with ex vivo mitochondrial respiration; 4.38 MB gzip; url HTTP 200 (HEAD) / 206 (range)."
+  },
+  {
+    "label": "gse179847-multiomics-fibroblast-mitochondrial-perturbations",
+    "fields": ["aging-biology/mitochondrial-function"],
+    "geo": "GSE179847",
+    "pmid": "36463290",
+    "doi": "10.1038/s41597-022-01852-y",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE179nnn/GSE179847/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Longitudinal EPIC methylation of primary human fibroblasts under mitochondrial genetic, metabolic and pharmacological perturbations (479 samples; sister series GSE179848/GSE179849); processed matrices are 2.06 GB and 2.34 GB; url HTTP 200 (HEAD) / 200 (range)."
+  }
+]

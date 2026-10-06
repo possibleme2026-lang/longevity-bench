@@ -1,0 +1,133 @@
+[
+  {
+    "label": "nhanes-iii-linked-mortality-2019",
+    "fields": ["aging-quantitative/survival-analysis"],
+    "doi": "10.15620/cdc:117141",
+    "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/datalinkage/linked_mortality/NHANES_III_MORT_2019_PUBLIC.dat",
+    "license": "Public domain (US Government work, NCHS/CDC)",
+    "note": "NHANES III (1988-1994) public-use linked mortality file: fixed-width ASCII with MORTSTAT/ELIGSTAT/UCOD and follow-up months (PERMTH_EXM), mortality status through 2019-12-31 for the adult cohort; 1.66 MB; curl HEAD 200, range GET 206, full GET 200 (1663910 bytes)."
+  },
+  {
+    "label": "nhis-2018-linked-mortality-2019",
+    "fields": ["aging-quantitative/survival-analysis"],
+    "doi": "10.15620/cdc:117143",
+    "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/datalinkage/linked_mortality/NHIS_2018_MORT_2019_PUBLIC.dat",
+    "license": "Public domain (US Government work, NCHS/CDC)",
+    "note": "NHIS 2018 public-use linked mortality file: fixed-width ASCII with survey-mortality linkage (MORTSTAT, follow-up months) for the 2018 NHIS sample; 1.33 MB; curl HEAD 200, range GET 206, full GET 200 (1330334 bytes)."
+  },
+  {
+    "label": "nchs-us-life-tables-2021",
+    "fields": ["aging-quantitative/survival-analysis"],
+    "doi": "10.15620/cdc:132418",
+    "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/NVSR/72-12/Table01.xlsx",
+    "license": "Public domain (US Government work, NCHS/CDC)",
+    "note": "Table 1 (life table for the total US population, 2021) from United States Life Tables, 2021: period life table with age-specific qx, lx, dx, Lx, Tx, ex by single year of age; 20.8 KB xlsx; curl HEAD 200, range GET 206, full GET 200 (20764 bytes). Sibling tables Table02-Table20 cover sex/race/ethnicity."
+  },
+  {
+    "label": "rhesus-macaque-early-life-adversity-survival",
+    "fields": ["aging-quantitative/survival-analysis"],
+    "doi": "10.1098/rstb.2022.0456",
+    "url": "https://zenodo.org/records/13619474/files/ddEarly_PhilTransB.csv?download=1",
+    "license": "CC BY 4.0 (Zenodo record 13619474)",
+    "note": "Individual-level survival/follow-up records for a free-ranging rhesus macaque population analysed for early-life-adversity effects on lifespan (Cayo Santiago, with age, sex, adversity exposures and event/censoring information); 895 KB CSV beginning 'group,An...', payload byte count 895168 matches the record; curl HEAD 200, range GET 206. Zenodo DOIs are DataCite-registered, so the identifier given here is the Crossref-registered journal article (Phil. Trans. R. Soc. B) for the same data."
+  },
+  {
+    "label": "nhefs-1992-causal-inference-cohort",
+    "fields": ["aging-quantitative/causal-inference"],
+    "doi": "10.3886/icpsr06861",
+    "url": "https://raw.githubusercontent.com/NickCH-K/causaldata/main/R/data/nhefs.rda",
+    "license": "Public domain (NCHS public-use data); redistributed in the causaldata textbook data package",
+    "note": "NHEFS 1992 follow-up cohort as the standard confounding/selection analysis extract: 1629 rows, smoking-cessation exposure qsmk, weight-change outcome wt82_71, plus age, sex, race, education, income, blood pressure and the censoring flag; 67 KB R data file (bzip2 payload, magic BZh9); curl HEAD 200, range GET 206. The original fixed-width NCHS files (N92mort.txt, N92int.txt) sit on ftp.cdc.gov under /pub/Health_Statistics/NCHS/Datasets/NHEFS/. Two other copies were tested and rejected: the Harvard CDN nhefs.csv is now a soft-404 serving an HTML page, and the Stata .dta extract trips content-type sniffers because Stata's binary header begins '<stata_dta><header>'."
+  },
+  {
+    "label": "mr-method-benchmark-datasets",
+    "fields": ["aging-quantitative/causal-inference"],
+    "doi": "10.1016/j.ajhg.2024.06.016",
+    "url": "https://zenodo.org/records/13832454/files/dataset-LDL-CAD.zip?download=1",
+    "license": "CC BY 4.0 (Zenodo record 13832454)",
+    "note": "Curated GWAS summary-statistic pairs for benchmarking two-way/two-sample Mendelian randomisation and other summary-data causal estimators: LDL-cholesterol to coronary artery disease, plus negative-control and pleiotropy datasets (Neale Lab, Pan-UKBB, GWASATLAS, family-level confounding); this file 126 KB zip (payload starts PK), sibling archives 0.8-27 MB; curl HEAD 200, range GET 206."
+  },
+  {
+    "label": "nhanes-2017-2018-linked-mortality-2019",
+    "fields": ["aging-quantitative/causal-inference"],
+    "doi": "10.15620/cdc::117142",
+    "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/datalinkage/linked_mortality/NHANES_2017_2018_MORT_2019_PUBLIC.dat",
+    "license": "Public domain (US Government work, NCHS/CDC)",
+    "note": "Continuous NHANES (2017-2018 cycle) public-use linked mortality file: SEQN keyed to the NHANES interview/examination/laboratory files, with MORTSTAT and person-months of follow-up, so exposure-outcome effects can be estimated with full confounder adjustment; 450 KB fixed-width ASCII; curl HEAD 200, range GET 206, full GET 200 (449623 bytes). Note the DOI literally contains a double colon (10.15620/cdc::117142) as registered by NCHS."
+  },
+  {
+    "label": "harmonised-aging-cohorts-frailty-cvd",
+    "fields": ["aging-quantitative/causal-inference"],
+    "doi": "10.1038/s41467-025-61089-2",
+    "url": "https://zenodo.org/records/15287395/files/data%20and%20code.zip?download=1",
+    "license": "CC BY 4.0 (Zenodo record 15287395)",
+    "note": "Cleaned, harmonised individual-level cohort data plus analysis code for a study of frailty and depressive symptoms against cardiovascular-disease risk in middle-aged and older adults, pooled from HRS, CHARLS, SHARE, ELSA and MHAS: the shape a cross-cohort confounding/adjustment or mediation task needs; 46 MB zip (payload starts PK), sibling code in Stata and R; curl HEAD 200, range GET 206. Identifier is the Crossref-registered Nature Communications paper the deposit declares as isSupplementTo."
+  },
+  {
+    "label": "gtex-v8-sample-attributes",
+    "fields": ["aging-quantitative/omics-integration"],
+    "doi": "10.1126/science.aaz1776",
+    "url": "https://storage.googleapis.com/adult-gtex/annotations/v8/metadata-files/GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt",
+    "license": "GTEx open access: summary-level files are downloadable without registration; raw sequence data require dbGaP authorisation",
+    "note": "GTEx v8 sample annotation table: 17,382 tissue samples with SMTSD tissue, donor SUBJID, batch, library prep (SMNABTCH, SMCENTER) for cross-tissue integration against the gene-TPM matrices on the same bucket; 11.5 MB TSV; curl HEAD 200, range GET 206. Companion donor file GTEx_Analysis_v8_Annotations_SubjectPhenotypesDS.txt (20 KB) carries age bracket, sex and death classification."
+  },
+  {
+    "label": "cellxgene-tabula-muris-senis-large-intestine",
+    "fields": ["aging-quantitative/omics-integration"],
+    "doi": "10.1038/s41586-020-2496-1",
+    "url": "https://datasets.cellxgene.cziscience.com/c7390fac-8ad2-494d-a45a-8464e089bee5.h5ad",
+    "license": "CELLxGENE Discover public collection; no explicit licence statement on the collection record (raw data at GEO GSE132042)",
+    "note": "One tissue slice of the Tabula Muris Senis ageing mouse atlas as an AnnData h5ad (Large intestine, Smart-seq2): 1887 cells with age, sex, cell-type and ontology labels ready for integration with the other 41 datasets in the same CELLxGENE collection; 44.2 MB; curl HEAD 200, range GET 206."
+  },
+  {
+    "label": "gse132042-tabula-muris-senis-mouse-atlas",
+    "fields": ["aging-quantitative/omics-integration"],
+    "geo": "GSE132042",
+    "pmid": "30283141",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE132nnn/GSE132042/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "GEO series GSE132042, the Tabula Muris Senis super-series: 996 samples of mouse single-cell RNA-seq across ages (1, 3, 18, 21, 24, 30 months) and tissues, with processed CSV/H5AD/LOOM/MTX supplementary archives; the directory listing serves the supplementary files directly; curl HEAD 200, range GET 200."
+  },
+  {
+    "label": "gse202601-human-ovarian-aging-multiomics",
+    "fields": ["aging-quantitative/omics-integration"],
+    "geo": "GSE202601",
+    "pmid": "39578560",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE202nnn/GSE202601/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "Single-nucleus multi-omics series of human ovarian ageing: paired snRNA-seq and snATAC-seq (16 samples), giving matched transcriptome and chromatin-accessibility modalities for integration and peak-gene linkage; directory listing with H5/RDS/TSV supplementary files; curl HEAD 200, range GET 200."
+  },
+  {
+    "label": "methylclock-data-clock-coefficients",
+    "fields": ["aging-quantitative/biomarker-validation"],
+    "doi": "10.1093/bioinformatics/btaa825",
+    "url": "https://zenodo.org/records/22069904/files/coefDunedinPACE.rda?download=1",
+    "license": "No licence declared on the Zenodo deposit (record is open access); the upstream methylclockData Bioconductor package is Artistic-2.0",
+    "note": "Coefficient tables for 29 published epigenetic clocks (this file: DunedinPACE CpG weights; siblings include EpiTOC1/2, AltumAge, AdaptAge, DamAge, CausAge, Garma, RepliTali and the McCartney trait clocks) as .rda objects, i.e. the reference values a biomarker-validation task scores against; 3.6 KB, payload begins with the xz magic 0xfd377a585a; curl HEAD 200, range GET 206. Identifier is the Crossref-registered methylclock package paper, because Zenodo DOIs are DataCite-only and are not resolvable through Crossref."
+  },
+  {
+    "label": "retroelement-age-clock-coefficients",
+    "fields": ["aging-quantitative/biomarker-validation"],
+    "doi": "10.1101/2023.12.06.570422",
+    "url": "https://zenodo.org/records/11099870/files/Retroelement_AgeV1coefficients.csv?download=1",
+    "license": "No licence declared on the Zenodo deposit (record is open access; deposited by TruDiagnostic)",
+    "note": "Retroelement-Age (Retro-Age) clock coefficients: per-CpG intercept and weights as a plain CSV with header ',name,coefficient', published alongside a methylation dataset and build script, giving an independent clock to validate against Horvath/Hannum/PhenoAge; 43.7 KB CSV, byte count 43716 matches the record; curl HEAD 200, range GET 206. Identifier is the bioRxiv preprint DOI for the same clock."
+  },
+  {
+    "label": "gse90124-skin-dna-methylome-aging",
+    "fields": ["aging-quantitative/biomarker-validation"],
+    "geo": "GSE90124",
+    "pmid": "27993549",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE90nnn/GSE90124/",
+    "license": "Public domain (NCBI GEO)",
+    "note": "DNA methylome of skin punch biopsies from 322 healthy female donors spanning the adult age range: the reference cohort against which a skin/blood epigenetic clock or other methylation biomarker can be calibrated and tested for age prediction error; Illumina array beta values as series-level supplementary TXT; curl HEAD 200, range GET 200."
+  },
+  {
+    "label": "bioage-nhanes4-biomarker-data",
+    "fields": ["aging-quantitative/biomarker-validation"],
+    "doi": "10.1007/s11357-021-00480-5",
+    "url": "https://raw.githubusercontent.com/dayoonkwon/BioAge/master/data/NHANES4.rda",
+    "license": "GPL-3.0 (BioAge R package); bundled NHANES source data are public domain (NCHS)",
+    "note": "NHANES IV (1999-2010) participant table shipped with the BioAge toolkit: the clinical blood-chemistry, organ-function and demographic variables needed to recompute PhenoAge, homeostatic dysregulation and Klemera-Doubal biological age and to validate them against outcomes; 3.77 MB .rda (R data); curl HEAD 200, range GET 206, full GET 200 (3768941 bytes)."
+  }
+]
