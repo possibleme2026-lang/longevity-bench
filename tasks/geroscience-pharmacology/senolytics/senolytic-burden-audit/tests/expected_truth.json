@@ -1,0 +1,640 @@
+{
+  "audit": {
+    "aged_baseline_burden_supported": false,
+    "drug_responsive_panels": [],
+    "injury_responsive_panels": [
+      "immune_infiltration",
+      "myogenic_lineage",
+      "sasp_secreted",
+      "senescence_arrest"
+    ],
+    "lineage_programme_suppressed": false,
+    "most_injury_responsive_panel": "immune_infiltration",
+    "n_genes_in_matrix": 54532,
+    "n_markers_down": 16,
+    "n_markers_up": 15,
+    "n_panel_genes_scored": {
+      "immune_infiltration": 12,
+      "myogenic_lineage": 8,
+      "sasp_secreted": 21,
+      "senescence_arrest": 10
+    },
+    "n_samples": 32,
+    "n_significant_markers": 0,
+    "n_supported_tests": 4,
+    "n_unique_symbols": 54429,
+    "reduced_burden_supported": false
+  },
+  "contrasts": {
+    "aged_vs_young_uninjured|immune_infiltration": {
+      "contrast": "aged_vs_young_uninjured",
+      "log2_fold_change": 0.468522,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.371334,
+      "panel": "immune_infiltration",
+      "supported": false,
+      "welch_p_value": 0.185667
+    },
+    "aged_vs_young_uninjured|myogenic_lineage": {
+      "contrast": "aged_vs_young_uninjured",
+      "log2_fold_change": 0.390123,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.204135,
+      "panel": "myogenic_lineage",
+      "supported": false,
+      "welch_p_value": 0.081654
+    },
+    "aged_vs_young_uninjured|sasp_secreted": {
+      "contrast": "aged_vs_young_uninjured",
+      "log2_fold_change": 0.332059,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.204135,
+      "panel": "sasp_secreted",
+      "supported": false,
+      "welch_p_value": 0.06536
+    },
+    "aged_vs_young_uninjured|senescence_arrest": {
+      "contrast": "aged_vs_young_uninjured",
+      "log2_fold_change": 0.27738,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.355089,
+      "panel": "senescence_arrest",
+      "supported": false,
+      "welch_p_value": 0.15979
+    },
+    "injury_35d_vs_uninjured|immune_infiltration": {
+      "contrast": "injury_35d_vs_uninjured",
+      "log2_fold_change": 0.160307,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.80906,
+      "panel": "immune_infiltration",
+      "supported": false,
+      "welch_p_value": 0.555747
+    },
+    "injury_35d_vs_uninjured|myogenic_lineage": {
+      "contrast": "injury_35d_vs_uninjured",
+      "log2_fold_change": -0.064222,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.80906,
+      "panel": "myogenic_lineage",
+      "supported": false,
+      "welch_p_value": 0.728154
+    },
+    "injury_35d_vs_uninjured|sasp_secreted": {
+      "contrast": "injury_35d_vs_uninjured",
+      "log2_fold_change": 0.253657,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.204135,
+      "panel": "sasp_secreted",
+      "supported": false,
+      "welch_p_value": 0.07652
+    },
+    "injury_35d_vs_uninjured|senescence_arrest": {
+      "contrast": "injury_35d_vs_uninjured",
+      "log2_fold_change": 0.306519,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.131276,
+      "panel": "senescence_arrest",
+      "supported": false,
+      "welch_p_value": 0.032819
+    },
+    "injury_7d_vs_uninjured|immune_infiltration": {
+      "contrast": "injury_7d_vs_uninjured",
+      "log2_fold_change": 3.327475,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.002837,
+      "panel": "immune_infiltration",
+      "supported": true,
+      "welch_p_value": 0.000142
+    },
+    "injury_7d_vs_uninjured|myogenic_lineage": {
+      "contrast": "injury_7d_vs_uninjured",
+      "log2_fold_change": 1.604873,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.006556,
+      "panel": "myogenic_lineage",
+      "supported": true,
+      "welch_p_value": 0.000656
+    },
+    "injury_7d_vs_uninjured|sasp_secreted": {
+      "contrast": "injury_7d_vs_uninjured",
+      "log2_fold_change": 2.813069,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.022115,
+      "panel": "sasp_secreted",
+      "supported": true,
+      "welch_p_value": 0.003317
+    },
+    "injury_7d_vs_uninjured|senescence_arrest": {
+      "contrast": "injury_7d_vs_uninjured",
+      "log2_fold_change": 1.792839,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.04096,
+      "panel": "senescence_arrest",
+      "supported": true,
+      "welch_p_value": 0.008192
+    },
+    "senolytic_vs_vehicle_35d|immune_infiltration": {
+      "contrast": "senolytic_vs_vehicle_35d",
+      "log2_fold_change": 0.095125,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.80906,
+      "panel": "immune_infiltration",
+      "supported": false,
+      "welch_p_value": 0.689191
+    },
+    "senolytic_vs_vehicle_35d|myogenic_lineage": {
+      "contrast": "senolytic_vs_vehicle_35d",
+      "log2_fold_change": -0.09574,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.80906,
+      "panel": "myogenic_lineage",
+      "supported": false,
+      "welch_p_value": 0.58409
+    },
+    "senolytic_vs_vehicle_35d|sasp_secreted": {
+      "contrast": "senolytic_vs_vehicle_35d",
+      "log2_fold_change": -0.034521,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.87354,
+      "panel": "sasp_secreted",
+      "supported": false,
+      "welch_p_value": 0.829863
+    },
+    "senolytic_vs_vehicle_35d|senescence_arrest": {
+      "contrast": "senolytic_vs_vehicle_35d",
+      "log2_fold_change": -0.118946,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.498203,
+      "panel": "senescence_arrest",
+      "supported": false,
+      "welch_p_value": 0.29154
+    },
+    "senolytic_vs_vehicle_7d|immune_infiltration": {
+      "contrast": "senolytic_vs_vehicle_7d",
+      "log2_fold_change": 0.135005,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.80906,
+      "panel": "immune_infiltration",
+      "supported": false,
+      "welch_p_value": 0.678789
+    },
+    "senolytic_vs_vehicle_7d|myogenic_lineage": {
+      "contrast": "senolytic_vs_vehicle_7d",
+      "log2_fold_change": 0.25179,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.498203,
+      "panel": "myogenic_lineage",
+      "supported": false,
+      "welch_p_value": 0.298922
+    },
+    "senolytic_vs_vehicle_7d|sasp_secreted": {
+      "contrast": "senolytic_vs_vehicle_7d",
+      "log2_fold_change": -0.17611,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.80906,
+      "panel": "sasp_secreted",
+      "supported": false,
+      "welch_p_value": 0.704189
+    },
+    "senolytic_vs_vehicle_7d|senescence_arrest": {
+      "contrast": "senolytic_vs_vehicle_7d",
+      "log2_fold_change": -0.000708,
+      "n_a": 4,
+      "n_b": 4,
+      "p_value_adjusted": 0.99846,
+      "panel": "senescence_arrest",
+      "supported": false,
+      "welch_p_value": 0.99846
+    }
+  },
+  "markers": {
+    "Ccl2": {
+      "gene_symbol": "Ccl2",
+      "log2_fold_change": -0.180203,
+      "p_value": 0.404379,
+      "p_value_adjusted": 0.772067,
+      "panel": "sasp_secreted"
+    },
+    "Ccl3": {
+      "gene_symbol": "Ccl3",
+      "log2_fold_change": 0.031206,
+      "p_value": 0.850917,
+      "p_value_adjusted": 0.969695,
+      "panel": "sasp_secreted"
+    },
+    "Ccl4": {
+      "gene_symbol": "Ccl4",
+      "log2_fold_change": 0.103008,
+      "p_value": 0.079155,
+      "p_value_adjusted": 0.674303,
+      "panel": "sasp_secreted"
+    },
+    "Cdkn1a": {
+      "gene_symbol": "Cdkn1a",
+      "log2_fold_change": -0.335616,
+      "p_value": 0.287335,
+      "p_value_adjusted": 0.772067,
+      "panel": "senescence_arrest"
+    },
+    "Cdkn2a": {
+      "gene_symbol": "Cdkn2a",
+      "log2_fold_change": -0.144419,
+      "p_value": 0.680472,
+      "p_value_adjusted": 0.917159,
+      "panel": "senescence_arrest"
+    },
+    "Cdkn2b": {
+      "gene_symbol": "Cdkn2b",
+      "log2_fold_change": -0.413456,
+      "p_value": 0.22368,
+      "p_value_adjusted": 0.772067,
+      "panel": "senescence_arrest"
+    },
+    "Cdkn2d": {
+      "gene_symbol": "Cdkn2d",
+      "log2_fold_change": -0.188352,
+      "p_value": 0.451766,
+      "p_value_adjusted": 0.772067,
+      "panel": "senescence_arrest"
+    },
+    "Csf1": {
+      "gene_symbol": "Csf1",
+      "log2_fold_change": -0.18394,
+      "p_value": 0.492436,
+      "p_value_adjusted": 0.772067,
+      "panel": "sasp_secreted"
+    },
+    "Cxcl1": {
+      "gene_symbol": "Cxcl1",
+      "log2_fold_change": 0.222539,
+      "p_value": 0.066515,
+      "p_value_adjusted": 0.674303,
+      "panel": "sasp_secreted"
+    },
+    "Cxcl10": {
+      "gene_symbol": "Cxcl10",
+      "log2_fold_change": -1.148918,
+      "p_value": 0.021132,
+      "p_value_adjusted": 0.655087,
+      "panel": "sasp_secreted"
+    },
+    "Cxcl2": {
+      "gene_symbol": "Cxcl2",
+      "log2_fold_change": 0.02075,
+      "p_value": 0.391002,
+      "p_value_adjusted": 0.772067,
+      "panel": "sasp_secreted"
+    },
+    "Gadd45a": {
+      "gene_symbol": "Gadd45a",
+      "log2_fold_change": -0.624723,
+      "p_value": 0.205463,
+      "p_value_adjusted": 0.772067,
+      "panel": "senescence_arrest"
+    },
+    "Gadd45b": {
+      "gene_symbol": "Gadd45b",
+      "log2_fold_change": 0.241376,
+      "p_value": 0.438522,
+      "p_value_adjusted": 0.772067,
+      "panel": "senescence_arrest"
+    },
+    "Glb1": {
+      "gene_symbol": "Glb1",
+      "log2_fold_change": 0.044386,
+      "p_value": 0.764539,
+      "p_value_adjusted": 0.948028,
+      "panel": "senescence_arrest"
+    },
+    "Icam1": {
+      "gene_symbol": "Icam1",
+      "log2_fold_change": 0.116942,
+      "p_value": 0.722065,
+      "p_value_adjusted": 0.932667,
+      "panel": "sasp_secreted"
+    },
+    "Igfbp3": {
+      "gene_symbol": "Igfbp3",
+      "log2_fold_change": 0.197049,
+      "p_value": 0.353925,
+      "p_value_adjusted": 0.772067,
+      "panel": "sasp_secreted"
+    },
+    "Igfbp7": {
+      "gene_symbol": "Igfbp7",
+      "log2_fold_change": 0.021021,
+      "p_value": 0.925255,
+      "p_value_adjusted": 0.969695,
+      "panel": "sasp_secreted"
+    },
+    "Il1b": {
+      "gene_symbol": "Il1b",
+      "log2_fold_change": 0.091411,
+      "p_value": 0.569128,
+      "p_value_adjusted": 0.840142,
+      "panel": "sasp_secreted"
+    },
+    "Il6": {
+      "gene_symbol": "Il6",
+      "log2_fold_change": 0.080227,
+      "p_value": 0.226832,
+      "p_value_adjusted": 0.772067,
+      "panel": "sasp_secreted"
+    },
+    "Mmp12": {
+      "gene_symbol": "Mmp12",
+      "log2_fold_change": 0.593085,
+      "p_value": 0.47628,
+      "p_value_adjusted": 0.772067,
+      "panel": "sasp_secreted"
+    },
+    "Mmp3": {
+      "gene_symbol": "Mmp3",
+      "log2_fold_change": 0.029069,
+      "p_value": 0.938415,
+      "p_value_adjusted": 0.969695,
+      "panel": "sasp_secreted"
+    },
+    "Mmp9": {
+      "gene_symbol": "Mmp9",
+      "log2_fold_change": -0.322921,
+      "p_value": 0.169017,
+      "p_value_adjusted": 0.772067,
+      "panel": "sasp_secreted"
+    },
+    "Serpine1": {
+      "gene_symbol": "Serpine1",
+      "log2_fold_change": 0.523428,
+      "p_value": 0.087007,
+      "p_value_adjusted": 0.674303,
+      "panel": "senescence_arrest"
+    },
+    "Spp1": {
+      "gene_symbol": "Spp1",
+      "log2_fold_change": 0.243133,
+      "p_value": 0.637651,
+      "p_value_adjusted": 0.898508,
+      "panel": "sasp_secreted"
+    },
+    "Tgfb1": {
+      "gene_symbol": "Tgfb1",
+      "log2_fold_change": -0.356964,
+      "p_value": 0.255945,
+      "p_value_adjusted": 0.772067,
+      "panel": "sasp_secreted"
+    },
+    "Thbs1": {
+      "gene_symbol": "Thbs1",
+      "log2_fold_change": -0.078911,
+      "p_value": 0.86503,
+      "p_value_adjusted": 0.969695,
+      "panel": "sasp_secreted"
+    },
+    "Timp1": {
+      "gene_symbol": "Timp1",
+      "log2_fold_change": -0.170756,
+      "p_value": 0.498108,
+      "p_value_adjusted": 0.772067,
+      "panel": "sasp_secreted"
+    },
+    "Tnf": {
+      "gene_symbol": "Tnf",
+      "log2_fold_change": -0.003028,
+      "p_value": 0.989549,
+      "p_value_adjusted": 0.989549,
+      "panel": "sasp_secreted"
+    },
+    "Trp53": {
+      "gene_symbol": "Trp53",
+      "log2_fold_change": -0.134801,
+      "p_value": 0.21166,
+      "p_value_adjusted": 0.772067,
+      "panel": "senescence_arrest"
+    },
+    "Trp53bp1": {
+      "gene_symbol": "Trp53bp1",
+      "log2_fold_change": -0.157284,
+      "p_value": 0.393659,
+      "p_value_adjusted": 0.772067,
+      "panel": "senescence_arrest"
+    },
+    "Vcam1": {
+      "gene_symbol": "Vcam1",
+      "log2_fold_change": -0.028746,
+      "p_value": 0.912637,
+      "p_value_adjusted": 0.969695,
+      "panel": "sasp_secreted"
+    }
+  },
+  "panel_scores": {
+    "OS235dBa_6|immune_infiltration": 2.099948,
+    "OS235dBa_6|myogenic_lineage": 7.119678,
+    "OS235dBa_6|sasp_secreted": 1.725695,
+    "OS235dBa_6|senescence_arrest": 3.360875,
+    "OS235dBa_7|immune_infiltration": 1.210924,
+    "OS235dBa_7|myogenic_lineage": 6.862797,
+    "OS235dBa_7|sasp_secreted": 1.117915,
+    "OS235dBa_7|senescence_arrest": 3.089468,
+    "OS235dBa_8|immune_infiltration": 1.849858,
+    "OS235dBa_8|myogenic_lineage": 7.517167,
+    "OS235dBa_8|sasp_secreted": 1.730952,
+    "OS235dBa_8|senescence_arrest": 3.359771,
+    "OS235dBa_9|immune_infiltration": 1.794899,
+    "OS235dBa_9|myogenic_lineage": 7.335894,
+    "OS235dBa_9|sasp_secreted": 1.483575,
+    "OS235dBa_9|senescence_arrest": 3.203812,
+    "OS27dBa_1|immune_infiltration": 4.818763,
+    "OS27dBa_1|myogenic_lineage": 9.441451,
+    "OS27dBa_1|sasp_secreted": 4.094553,
+    "OS27dBa_1|senescence_arrest": 5.037094,
+    "OS27dBa_2|immune_infiltration": 5.100457,
+    "OS27dBa_2|myogenic_lineage": 9.381784,
+    "OS27dBa_2|sasp_secreted": 4.477976,
+    "OS27dBa_2|senescence_arrest": 5.168482,
+    "OS27dBa_3|immune_infiltration": 5.041136,
+    "OS27dBa_3|myogenic_lineage": 8.998954,
+    "OS27dBa_3|sasp_secreted": 3.77454,
+    "OS27dBa_3|senescence_arrest": 4.72971,
+    "OS27dBa_4|immune_infiltration": 4.823466,
+    "OS27dBa_4|myogenic_lineage": 9.07985,
+    "OS27dBa_4|sasp_secreted": 3.382361,
+    "OS27dBa_4|senescence_arrest": 4.496873,
+    "OV35dBa_6|immune_infiltration": 1.916795,
+    "OV35dBa_6|myogenic_lineage": 7.378349,
+    "OV35dBa_6|sasp_secreted": 1.614534,
+    "OV35dBa_6|senescence_arrest": 3.448676,
+    "OV35dBa_7|immune_infiltration": 1.784274,
+    "OV35dBa_7|myogenic_lineage": 7.289817,
+    "OV35dBa_7|sasp_secreted": 1.564178,
+    "OV35dBa_7|senescence_arrest": 3.332707,
+    "OV35dBa_8|immune_infiltration": 1.46887,
+    "OV35dBa_8|myogenic_lineage": 7.467312,
+    "OV35dBa_8|sasp_secreted": 1.57267,
+    "OV35dBa_8|senescence_arrest": 3.535839,
+    "OV35dBa_9|immune_infiltration": 1.405189,
+    "OV35dBa_9|myogenic_lineage": 7.08302,
+    "OV35dBa_9|sasp_secreted": 1.444841,
+    "OV35dBa_9|senescence_arrest": 3.172488,
+    "OV35dPBS_6|immune_infiltration": 1.463905,
+    "OV35dPBS_6|myogenic_lineage": 7.736756,
+    "OV35dPBS_6|sasp_secreted": 1.125731,
+    "OV35dPBS_6|senescence_arrest": 2.871283,
+    "OV35dPBS_7|immune_infiltration": 2.036495,
+    "OV35dPBS_7|myogenic_lineage": 7.483207,
+    "OV35dPBS_7|sasp_secreted": 1.55011,
+    "OV35dPBS_7|senescence_arrest": 3.241946,
+    "OV35dPBS_8|immune_infiltration": 1.478747,
+    "OV35dPBS_8|myogenic_lineage": 7.21872,
+    "OV35dPBS_8|sasp_secreted": 1.154676,
+    "OV35dPBS_8|senescence_arrest": 3.124229,
+    "OV35dPBS_9|immune_infiltration": 0.954753,
+    "OV35dPBS_9|myogenic_lineage": 7.036704,
+    "OV35dPBS_9|sasp_secreted": 1.351079,
+    "OV35dPBS_9|senescence_arrest": 3.026177,
+    "OV7dBa_10|immune_infiltration": 3.997762,
+    "OV7dBa_10|myogenic_lineage": 9.146523,
+    "OV7dBa_10|sasp_secreted": 3.536095,
+    "OV7dBa_10|senescence_arrest": 4.348534,
+    "OV7dBa_7|immune_infiltration": 5.314045,
+    "OV7dBa_7|myogenic_lineage": 8.413944,
+    "OV7dBa_7|sasp_secreted": 5.186029,
+    "OV7dBa_7|senescence_arrest": 5.752136,
+    "OV7dBa_8|immune_infiltration": 4.816867,
+    "OV7dBa_8|myogenic_lineage": 9.147791,
+    "OV7dBa_8|sasp_secreted": 3.721682,
+    "OV7dBa_8|senescence_arrest": 4.54253,
+    "OV7dBa_9|immune_infiltration": 5.115127,
+    "OV7dBa_9|myogenic_lineage": 9.186621,
+    "OV7dBa_9|sasp_secreted": 3.990064,
+    "OV7dBa_9|senescence_arrest": 4.791791,
+    "YV35dBa_1|immune_infiltration": 1.584163,
+    "YV35dBa_1|myogenic_lineage": 7.553359,
+    "YV35dBa_1|sasp_secreted": 1.287774,
+    "YV35dBa_1|senescence_arrest": 3.716133,
+    "YV35dBa_2|immune_infiltration": 1.338517,
+    "YV35dBa_2|myogenic_lineage": 7.186004,
+    "YV35dBa_2|sasp_secreted": 1.091834,
+    "YV35dBa_2|senescence_arrest": 3.171548,
+    "YV35dBa_3|immune_infiltration": 1.305561,
+    "YV35dBa_3|myogenic_lineage": 7.173947,
+    "YV35dBa_3|sasp_secreted": 1.142923,
+    "YV35dBa_3|senescence_arrest": 3.333774,
+    "YV35dBa_4|immune_infiltration": 1.219401,
+    "YV35dBa_4|myogenic_lineage": 6.851011,
+    "YV35dBa_4|sasp_secreted": 1.152917,
+    "YV35dBa_4|senescence_arrest": 3.418726,
+    "YV35dPBS_1|immune_infiltration": 1.019919,
+    "YV35dPBS_1|myogenic_lineage": 6.952355,
+    "YV35dPBS_1|sasp_secreted": 0.987924,
+    "YV35dPBS_1|senescence_arrest": 3.202767,
+    "YV35dPBS_2|immune_infiltration": 1.577396,
+    "YV35dPBS_2|myogenic_lineage": 6.947,
+    "YV35dPBS_2|sasp_secreted": 1.253003,
+    "YV35dPBS_2|senescence_arrest": 2.777894,
+    "YV35dPBS_3|immune_infiltration": 0.490178,
+    "YV35dPBS_3|myogenic_lineage": 7.068956,
+    "YV35dPBS_3|sasp_secreted": 0.737304,
+    "YV35dPBS_3|senescence_arrest": 2.618426,
+    "YV35dPBS_4|immune_infiltration": 0.972319,
+    "YV35dPBS_4|myogenic_lineage": 6.946584,
+    "YV35dPBS_4|sasp_secreted": 0.875128,
+    "YV35dPBS_4|senescence_arrest": 2.555026,
+    "YV7dBa_4|immune_infiltration": 4.556665,
+    "YV7dBa_4|myogenic_lineage": 9.21089,
+    "YV7dBa_4|sasp_secreted": 3.518471,
+    "YV7dBa_4|senescence_arrest": 4.440174,
+    "YV7dBa_5|immune_infiltration": 4.23064,
+    "YV7dBa_5|myogenic_lineage": 8.997389,
+    "YV7dBa_5|sasp_secreted": 3.79165,
+    "YV7dBa_5|senescence_arrest": 4.426626,
+    "YV7dBa_6|immune_infiltration": 4.17389,
+    "YV7dBa_6|myogenic_lineage": 9.027036,
+    "YV7dBa_6|sasp_secreted": 3.035783,
+    "YV7dBa_6|senescence_arrest": 4.02846,
+    "YV7dBa_7|immune_infiltration": 3.246371,
+    "YV7dBa_7|myogenic_lineage": 8.802711,
+    "YV7dBa_7|sasp_secreted": 2.490075,
+    "YV7dBa_7|senescence_arrest": 3.712789
+  },
+  "panels": {
+    "immune_infiltration": {
+      "genes_missing_from_matrix": [],
+      "n_genes_in_panel": 12,
+      "n_genes_scored": 12
+    },
+    "myogenic_lineage": {
+      "genes_missing_from_matrix": [],
+      "n_genes_in_panel": 8,
+      "n_genes_scored": 8
+    },
+    "sasp_secreted": {
+      "genes_missing_from_matrix": [],
+      "n_genes_in_panel": 21,
+      "n_genes_scored": 21
+    },
+    "senescence_arrest": {
+      "genes_missing_from_matrix": [],
+      "n_genes_in_panel": 10,
+      "n_genes_scored": 10
+    }
+  },
+  "sample_ids": [
+    "YV35dPBS_1",
+    "YV35dPBS_2",
+    "YV35dPBS_3",
+    "YV35dPBS_4",
+    "YV35dBa_1",
+    "YV35dBa_2",
+    "YV35dBa_3",
+    "YV35dBa_4",
+    "OV35dPBS_6",
+    "OV35dPBS_7",
+    "OV35dPBS_8",
+    "OV35dPBS_9",
+    "OV35dBa_6",
+    "OV35dBa_7",
+    "OV35dBa_8",
+    "OV35dBa_9",
+    "OS235dBa_6",
+    "OS235dBa_7",
+    "OS235dBa_8",
+    "OS235dBa_9",
+    "YV7dBa_4",
+    "YV7dBa_5",
+    "YV7dBa_6",
+    "YV7dBa_7",
+    "OV7dBa_7",
+    "OV7dBa_8",
+    "OV7dBa_9",
+    "OV7dBa_10",
+    "OS27dBa_1",
+    "OS27dBa_2",
+    "OS27dBa_3",
+    "OS27dBa_4"
+  ],
+  "support_rule": {
+    "alpha": 0.05,
+    "min_abs_log2_fold_change": 0.5
+  },
+  "task": "senolytic-burden-audit"
+}
