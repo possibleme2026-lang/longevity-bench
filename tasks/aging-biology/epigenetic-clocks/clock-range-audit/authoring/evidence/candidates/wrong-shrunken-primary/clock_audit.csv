@@ -1,0 +1,4 @@
+group,n,mean_age_years,mean_dnam_age_years,mean_error_years,mae_years,pearson_r,ols_slope,mean_dnam_age_shrunk_years
+cord_blood,20,0.0000,0.8965,0.8965,0.8965,NA,NA,0.2271
+whole_blood,20,93.1500,83.0179,-10.1321,12.1527,-0.0671,-0.1182,79.6582
+all_samples,40,46.5750,41.9572,-4.6178,6.5246,0.9894,0.8776,39.9427
