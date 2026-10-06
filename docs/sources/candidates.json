@@ -79,7 +79,7 @@
     "label": "gse111629-parkinson-methylation",
     "fields": ["aging-biology/epigenetic-clocks"],
     "geo": "GSE111629",
-    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE11nnn/GSE111629/",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE111nnn/GSE111629/",
     "license": "Public domain (NCBI GEO)"
   }
 ]
