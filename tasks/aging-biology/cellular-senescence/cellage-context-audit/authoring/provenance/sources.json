@@ -1,0 +1,19 @@
+{
+  "task": "cellage-context-audit",
+  "retrieved_utc": "2026-10-06T22:16:10Z",
+  "catalogue": "docs/sources/verified-aging-biology.json",
+  "generator": "authoring/provenance/build_fixture.py",
+  "files": [
+    {
+      "path": "environment/data/cellage3.tsv",
+      "origin": "real",
+      "sha256": "35341e2d714a6d2ab0272ee25c424256b79633b7b7bcc8f1644c6a274644ba3c",
+      "bytes": 72676,
+      "source_label": "cellage-hagr-senescence-gene-database",
+      "source_url": "https://genomics.senescence.info/cells/cellAge.zip",
+      "source_sha256": "943506acb3715a8d507459d69bc9a64c3e7863c809c62457171de03dc0062845",
+      "source_bytes": 21540,
+      "transform": "CellAge Build 3 (HAGR), released 2023-04-23. The shipped bytes are the `cellage3.tsv` member of cellAge.zip, converted from CRLF to LF line endings (951 terminators) and otherwise byte-identical: no row, column, gene, annotation, PMID or value is added, dropped, renamed, reordered, filtered or renumbered, and the upstream trailing blank line is kept. The member itself is 73 627 bytes, sha256 856dd87f201d8ddad363482ee1d5a374f9d8b0c1662410e60af3298721fa96f7; the line-ending conversion is the whole transform and is forced by this repository's `.gitattributes` (`* text=auto eol=lf`), which would otherwise rewrite CRLF in the index and make the recorded digest depend on the working tree. Contents: 949 curated records over 866 gene symbols and 686 distinct PubMed references, with columns `Entrez ID`, `Gene symbol`, `Gene name`, `Cancer Cell` (Yes/No), `Type of senescence` (Replicative 156 / Oncogene-induced 242 / Stress-induced 188 / Unclear 363), `Senescence Effect` (Induces 417 / Inhibits 510 / Unclear 22) and `Reference` (PMID). The archive's release notes state 866 genes inferred from genetic manipulations in this build; the 949 rows are its gene x study records, and the 1 259 expression-change genes the notes also mention are a separate CellAge file that is not in this archive and is not shipped here. Reproduce with authoring/provenance/fetch.py then authoring/provenance/build_fixture.py."
+    }
+  ]
+}

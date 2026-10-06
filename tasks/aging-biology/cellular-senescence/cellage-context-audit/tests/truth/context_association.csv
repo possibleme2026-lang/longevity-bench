@@ -1,0 +1,5 @@
+senescence_type,n_records,n_records_directional,n_study_units,n_discordant_units,n_units_analyzed,unit_induce_cancer,unit_induce_non_cancer,unit_inhibit_cancer,unit_inhibit_non_cancer,unit_odds_ratio,unit_p_value,unit_q_value,unit_significant,record_odds_ratio,record_p_value
+Replicative,156,153,141,1,140,24,36,28,52,1.2380952381,0.597864428355,0.597864428355,false,1.11111111111,0.866692621171
+Oncogene-induced,242,234,173,5,168,33,64,37,34,0.473817567568,0.0262878664913,0.0525757329827,false,0.295983086681,7.43463992798e-06
+Stress-induced,188,187,159,4,155,40,31,53,31,0.754716981132,0.414699189633,0.552932252844,false,0.864705882353,0.653245319008
+Unclear,363,353,270,3,267,43,56,104,64,0.472527472527,0.00495615242474,0.019824609699,true,0.364452113891,7.8124600552e-06

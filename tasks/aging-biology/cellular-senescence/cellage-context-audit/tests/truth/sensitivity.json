@@ -1,0 +1,26 @@
+{
+  "Oncogene-induced": {
+    "loo_p_max": 0.02682750839096352,
+    "loo_p_min": 0.017480304112196164,
+    "loo_sig_removals": 67,
+    "n_units_analyzed": 168
+  },
+  "Replicative": {
+    "loo_p_max": 0.7222729981466065,
+    "loo_p_min": 0.4843685206176742,
+    "loo_sig_removals": 0,
+    "n_units_analyzed": 140
+  },
+  "Stress-induced": {
+    "loo_p_max": 0.5100366856717856,
+    "loo_p_min": 0.4090848133464514,
+    "loo_sig_removals": 0,
+    "n_units_analyzed": 155
+  },
+  "Unclear": {
+    "loo_p_max": 0.004985173908116428,
+    "loo_p_min": 0.003263884397490003,
+    "loo_sig_removals": 267,
+    "n_units_analyzed": 267
+  }
+}
