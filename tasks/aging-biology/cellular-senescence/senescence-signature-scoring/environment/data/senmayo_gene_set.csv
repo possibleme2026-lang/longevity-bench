@@ -1,0 +1,247 @@
+species,gene_symbol,ensembl_gene_id,classification,gene_state,reference
+human,ACVR1B,ENSG00000135503,Transmembrane signal receptors,Transmembrane,26
+human,ANG,ENSG00000214274,Miscellaneous,Secreted,"81,88"
+human,ANGPT1,ENSG00000154188,Intercellular signal molecule,Secreted,57
+human,ANGPTL4,ENSG00000167772,Intercellular signal molecule,Secreted,"18,57"
+human,AREG,ENSG00000109321,Growth factor,Intracellular,"81,88,89"
+human,AXL,ENSG00000167601,Transmembrane signal receptors,Transmembrane,"18,89"
+human,BEX3,ENSG00000166681,Miscellaneous,Intracellular,18
+human,BMP2,ENSG00000125845,Growth factor,Secreted,"57,89"
+human,BMP6,ENSG00000153162,Growth factor,Secreted,89
+human,C3,ENSG00000125730,Protease inhibitors,Secreted,57
+human,CCL1,ENSG00000108702,Cytokine/Chemokine,Secreted,89
+human,CCL13,ENSG00000181374,Cytokine/Chemokine,Secreted,"81,89"
+human,CCL16,ENSG00000275152,Cytokine/Chemokine,Secreted,"26,81,89"
+human,CCL2,ENSG00000108691,Cytokine/Chemokine,Secreted,"26,57,83,84,86,88,89"
+human,CCL20,ENSG00000115009,Cytokine/Chemokine,Secreted,"26,81,83"
+human,CCL24,ENSG00000106178,Cytokine/Chemokine,Secreted,88
+human,CCL26,ENSG00000006606,Cytokine/Chemokine,Secreted,"81,89"
+human,CCL3,ENSG00000277632,Cytokine/Chemokine,Secreted,"57,85,88,89"
+human,CCL3L1,ENSG00000276085,Cytokine/Chemokine,Secreted,57
+human,CCL3L1,ENSG00000277336,Cytokine/Chemokine,Secreted,57
+human,CCL3L1,ENSG00000277768,Cytokine/Chemokine,Secreted,57
+human,CCL4,ENSG00000275302,Cytokine/Chemokine,Secreted,88
+human,CCL5,ENSG00000271503,Cytokine/Chemokine,Secreted,"26,82,88"
+human,CCL7,ENSG00000108688,Cytokine/Chemokine,Secreted,89
+human,CCL8,ENSG00000108700,Cytokine/Chemokine,Secreted,"81,89"
+human,CD55,ENSG00000196352,Miscellaneous,Secreted,89
+human,CD9,ENSG00000010278,Transmembrane signal receptors,Transmembrane,"18,89"
+human,CSF1,ENSG00000184371,Cytokine/Chemokine,Secreted,84
+human,CSF2,ENSG00000164400,Cytokine/Chemokine,Secreted,"26,57,63,81,88,89"
+human,CSF2RB,ENSG00000100368,Transmembrane signal receptors,Transmembrane,89
+human,CST4,ENSG00000101441,Protease inhibitors,Secreted,85
+human,CTNNB1,ENSG00000168036,Transcription factors and regulators,Transmembrane,88
+human,CTSB,ENSG00000164733,(Metallo-)proteases,Secreted,81
+human,CXCL1,ENSG00000163739,Cytokine/Chemokine,Secreted,"26,57,63,81,88–90"
+human,CXCL10,ENSG00000169245,Cytokine/Chemokine,Secreted,"57,82,88"
+human,CXCL12,ENSG00000107562,Cytokine/Chemokine,Secreted,"81,88"
+human,CXCL16,ENSG00000161921,Cytokine/Chemokine,Secreted,88
+human,CXCL2,ENSG00000081041,Cytokine/Chemokine,Secreted,"26,63,81,88"
+human,CXCL3,ENSG00000163734,Cytokine/Chemokine,Secreted,"57,65,81"
+human,CXCL8,ENSG00000169429,Cytokine/Chemokine,Secreted,"26,57,63,81,83,90"
+human,CXCR2,ENSG00000180871,Cytokine/Chemokine,Transmembrane,26
+human,DKK1,ENSG00000107984,Intercellular signal molecule,Secreted,57
+human,EDN1,ENSG00000078401,Intercellular signal molecule,Secreted,57
+human,EGF,ENSG00000138798,Transmembrane signal receptors,Transmembrane,81
+human,EGFR,ENSG00000146648,Transmembrane signal receptors,Transmembrane,"81,89"
+human,EREG,ENSG00000124882,Growth factor,Secreted,"81,88,89"
+human,ESM1,ENSG00000164283,Intercellular signal molecule,Secreted,57
+human,ETS2,ENSG00000157557,Transcription factors and regulators,Intracellular,89
+human,FAS,ENSG00000026103,Transmembrane signal receptors,Transmembrane,"81,89"
+human,FGF1,ENSG00000113578,Growth factor,Secreted,"26,57"
+human,FGF2,ENSG00000138685,Growth factor,Secreted,"57,81"
+human,FGF7,ENSG00000140285,Growth factor,Secreted,"57,81,89"
+human,GDF15,ENSG00000130513,Growth factor,Secreted,"26,57,89"
+human,GEM,ENSG00000164949,Miscellaneous,Intracellular,89
+human,GMFG,ENSG00000130755,Intercellular signal molecule,Intracellular,89
+human,HGF,ENSG00000019991,(Metallo-)proteases,Secreted,"26,81,88,89"
+human,HMGB1,ENSG00000189403,Transcription factors and regulators,Intracellular,"57,88"
+human,ICAM1,ENSG00000090339,Miscellaneous,Intracellular,"63,81,88,89"
+human,ICAM3,ENSG00000076662,Miscellaneous,Intracellular,"88,89"
+human,IGF1,ENSG00000017427,Growth factor,Secreted,"18,82,87,89"
+human,IGFBP1,ENSG00000146678,Protease inhibitors,Secreted,89
+human,IGFBP2,ENSG00000115457,Protease inhibitors,Secreted,"26,63,81,88,89"
+human,IGFBP3,ENSG00000146674,Protease inhibitors,Secreted,"26,50,57,63,81,88"
+human,IGFBP4,ENSG00000141753,Protease inhibitors,Secreted,"26,63,81,88"
+human,IGFBP5,ENSG00000115461,Protease inhibitors,Secreted,"26,57,63,88"
+human,IGFBP6,ENSG00000167779,Protease inhibitors,Secreted,"26,63,81,88,89"
+human,IGFBP7,ENSG00000163453,Miscellaneous,Secreted,"26,57,63,81,83,88"
+human,IL10,ENSG00000136634,Cytokine/Chemokine,Secreted,86
+human,IL13,ENSG00000169194,Cytokine/Chemokine,Secreted,"81,89"
+human,IL15,ENSG00000164136,Cytokine/Chemokine,Secreted,"42,84,88,89"
+human,IL18,ENSG00000150782,Cytokine/Chemokine,Secreted,"57,88"
+human,IL1A,ENSG00000115008,Cytokine/Chemokine,Secreted,"26,42,57,63,81,82,88–90"
+human,IL1B,ENSG00000125538,Cytokine/Chemokine,Secreted,"18,42,86,88–90"
+human,IL2,ENSG00000109471,Cytokine/Chemokine,Secreted,88
+human,IL32,ENSG00000008517,Cytokine/Chemokine,Secreted,57
+human,IL6,ENSG00000136244,Cytokine/Chemokine,Secreted,"26,42,57,63,82–84,86,88,89"
+human,IL6ST,ENSG00000134352,Transmembrane signal receptors,Transmembrane,42
+human,IL7,ENSG00000104432,Cytokine/Chemokine,Secreted,"42,89"
+human,INHA,ENSG00000123999,Growth factor,Secreted,89
+human,IQGAP2,ENSG00000145703,Miscellaneous,Intracellular,89
+human,ITGA2,ENSG00000164171,Transmembrane signal receptors,Transmembrane,89
+human,ITPKA,ENSG00000137825,Protein modifying enzymes,Intracellular,89
+human,JUN,ENSG00000177606,Transcription factors and regulators,Intracellular,89
+human,KITLG,ENSG00000049130,Growth factor,Intracellular,"42,88"
+human,LCP1,ENSG00000136167,Miscellaneous,Intracellular,57
+human,MIF,ENSG00000240972,Protein modifying enzymes,Secreted,"18,42,88,89"
+human,MMP1,ENSG00000196611,(Metallo-)proteases,Secreted,"42,63,89"
+human,MMP10,ENSG00000166670,(Metallo-)proteases,Secreted,"42,63,89"
+human,MMP12,ENSG00000262406,(Metallo-)proteases,Secreted,"42,88"
+human,MMP13,ENSG00000137745,(Metallo-)proteases,Secreted,"42,88"
+human,MMP14,ENSG00000157227,(Metallo-)proteases,Intracellular,"42,88"
+human,MMP2,ENSG00000087245,(Metallo-)proteases,Secreted,89
+human,MMP3,ENSG00000149968,(Metallo-)proteases,Secreted,"42,63,85,89"
+human,MMP9,ENSG00000100985,(Metallo-)proteases,Secreted,"57,85"
+human,NAP1L4,ENSG00000205531,Miscellaneous,Intracellular,89
+human,NRG1,ENSG00000157168,Growth factor,Secreted,"42,88,89"
+human,PAPPA,ENSG00000182752,(Metallo-)proteases,Secreted,57
+human,PECAM1,ENSG00000261371,Miscellaneous,Intracellular,89
+human,PGF,ENSG00000119630,Growth factor,Secreted,88
+human,PIGF,ENSG00000151665,Protein modifying enzymes,Transmembrane,"42,89"
+human,PLAT,ENSG00000104368,(Metallo-)proteases,Secreted,"42,88"
+human,PLAU,ENSG00000122861,(Metallo-)proteases,Secreted,42
+human,PLAUR,ENSG00000011422,Transmembrane signal receptors,Transmembrane,"42,89"
+human,PTBP1,ENSG00000011304,Miscellaneous,Intracellular,57
+human,PTGER2,ENSG00000125384,Transmembrane signal receptors,Transmembrane,57
+human,PTGES,ENSG00000148344,Protein modifying enzymes,Intracellular,89
+human,RPS6KA5,ENSG00000100784,Protein modifying enzymes,Intracellular,89
+human,SCAMP4,ENSG00000227500,Miscellaneous,Intracellular,57
+human,SELPLG,ENSG00000110876,Transmembrane signal receptors,Transmembrane,57
+human,SEMA3F,ENSG00000001617,Intercellular signal molecule,Secreted,57
+human,SERPINB4,ENSG00000206073,Protease inhibitors,Intracellular,57
+human,SERPINE1,ENSG00000106366,Protease inhibitors,Secreted,"26,42,57,63,83,85,88,89"
+human,SERPINE2,ENSG00000135919,Protease inhibitors,Secreted,"42,88"
+human,SPP1,ENSG00000118785,Cytokine/Chemokine,Secreted,57
+human,SPX,ENSG00000134548,Intercellular signal molecule,Secreted,57
+human,TIMP2,ENSG00000035862,Protease inhibitors,Secreted,"18,42,88,89"
+human,TNF,ENSG00000232810,Cytokine/Chemokine,Secreted,"82,86"
+human,TNFRSF10C,ENSG00000173535,Transmembrane signal receptors,Transmembrane,42
+human,TNFRSF11B,ENSG00000164761,Transmembrane signal receptors,Transmembrane,"42,89"
+human,TNFRSF1A,ENSG00000067182,Transmembrane signal receptors,Transmembrane,"42,88"
+human,TNFRSF1B,ENSG00000028137,Transmembrane signal receptors,Transmembrane,42
+human,TUBGCP2,ENSG00000130640,Miscellaneous,Intracellular,89
+human,VEGFA,ENSG00000112715,Growth factor,Secreted,"26,42,83,89"
+human,VEGFC,ENSG00000150630,Growth factor,Secreted,89
+human,VGF,ENSG00000128564,Intercellular signal molecule,Secreted,56
+human,WNT16,ENSG00000002745,Intercellular signal molecule,Secreted,57
+human,WNT2,ENSG00000105989,Intercellular signal molecule,Transmembrane,57
+mouse,Acvr1b,,Transmembrane signal receptors,Transmembrane,26
+mouse,Ang,,Miscellaneous,Secreted,"81,88"
+mouse,Angpt1,,Intercellular signal molecule,Secreted,57
+mouse,Angptl4,,Intercellular signal molecule,Secreted,"18,57"
+mouse,Areg,,Growth factor,Intracellular,"81,88,89"
+mouse,Axl,,Transmembrane signal receptors,Transmembrane,"18,89"
+mouse,Bex3,,Miscellaneous,Intracellular,18
+mouse,Bmp2,,Growth factor,Secreted,"57,89"
+mouse,Bmp6,,Growth factor,Secreted,89
+mouse,C3,,Protease inhibitors,Secreted,57
+mouse,Ccl1,,Cytokine/Chemokine,Secreted,89
+mouse,Ccl2,,Cytokine/Chemokine,Secreted,"26,57,83,84,86,88,89"
+mouse,Ccl20,,Cytokine/Chemokine,Secreted,"26,81,83"
+mouse,Ccl24,,Cytokine/Chemokine,Secreted,88
+mouse,Ccl26,,Cytokine/Chemokine,Secreted,"81,89"
+mouse,Ccl3,,Cytokine/Chemokine,Secreted,"57,85,88,89"
+mouse,Ccl4,,Cytokine/Chemokine,Secreted,88
+mouse,Ccl5,,Cytokine/Chemokine,Secreted,"26,82,88"
+mouse,Ccl7,,Cytokine/Chemokine,Secreted,89
+mouse,Ccl8,,Cytokine/Chemokine,Secreted,"81,89"
+mouse,Cd55,,Miscellaneous,Secreted,89
+mouse,Cd9,,Transmembrane signal receptors,Transmembrane,"18,89"
+mouse,Csf1,,Cytokine/Chemokine,Secreted,84
+mouse,Csf2,,Cytokine/Chemokine,Secreted,"26,57,63,81,88,89"
+mouse,Csf2rb,,Transmembrane signal receptors,Transmembrane,89
+mouse,Cst10,,Protease inhibitors,Secreted,85
+mouse,Ctnnb1,,Transcription factors and regulators,Transmembrane,88
+mouse,Ctsb,,(Metallo-)proteases,Secreted,81
+mouse,Cxcl1,,Cytokine/Chemokine,Secreted,"26,57,63,81,88–90"
+mouse,Cxcl10,,Cytokine/Chemokine,Secreted,"57,82,88"
+mouse,Cxcl12,,Cytokine/Chemokine,Secreted,"81,88"
+mouse,Cxcl16,,Cytokine/Chemokine,Secreted,88
+mouse,Cxcl2,,Cytokine/Chemokine,Secreted,"26,63,81,88"
+mouse,Cxcl3,,Cytokine/Chemokine,Secreted,"57,65,81"
+mouse,Cxcr2,,Cytokine/Chemokine,Transmembrane,26
+mouse,Dkk1,,Intercellular signal molecule,Secreted,57
+mouse,Edn1,,Intercellular signal molecule,Secreted,57
+mouse,Egf,,Transmembrane signal receptors,Transmembrane,81
+mouse,Egfr,,Transmembrane signal receptors,Transmembrane,"81,89"
+mouse,Ereg,,Growth factor,Secreted,"81,88,89"
+mouse,Esm1,,Intercellular signal molecule,Secreted,57
+mouse,Ets2,,Transcription factors and regulators,Intracellular,89
+mouse,Fas,,Transmembrane signal receptors,Transmembrane,"81,89"
+mouse,Fgf1,,Growth factor,Secreted,"26,57"
+mouse,Fgf2,,Growth factor,Secreted,"57,81"
+mouse,Fgf7,,Growth factor,Secreted,"57,81,89"
+mouse,Gdf15,,Growth factor,Secreted,"26,57,89"
+mouse,Gem,,Miscellaneous,Intracellular,89
+mouse,Gmfg,,Intercellular signal molecule,Intracellular,89
+mouse,Hgf,,(Metallo-)proteases,Secreted,"26,81,88,89"
+mouse,Hmgb1,,Transcription factors and regulators,Intracellular,"57,88"
+mouse,Icam1,,Miscellaneous,Intracellular,"63,81,88,89"
+mouse,Icam5,,Miscellaneous,Intracellular,"88,89"
+mouse,Igf1,,Growth factor,Secreted,"18,82,87,89"
+mouse,Igfbp1,,Protease inhibitors,Secreted,89
+mouse,Igfbp2,,Protease inhibitors,Secreted,"26,63,81,88,89"
+mouse,Igfbp3,,Protease inhibitors,Secreted,"26,50,57,63,81,88"
+mouse,Igfbp4,,Protease inhibitors,Secreted,"26,63,81,88"
+mouse,Igfbp5,,Protease inhibitors,Secreted,"26,57,63,88"
+mouse,Igfbp6,,Protease inhibitors,Secreted,"26,63,81,88,89"
+mouse,Igfbp7,,Miscellaneous,Secreted,"26,57,63,81,83,88"
+mouse,Il10,,Cytokine/Chemokine,Secreted,86
+mouse,Il13,,Cytokine/Chemokine,Secreted,"81,89"
+mouse,Il15,,Cytokine/Chemokine,Secreted,"42,84,88,89"
+mouse,Il18,,Cytokine/Chemokine,Secreted,"57,88"
+mouse,Il1a,,Cytokine/Chemokine,Secreted,"26,42,57,63,81,82,88–90"
+mouse,Il1b,,Cytokine/Chemokine,Secreted,"18,42,86,88–90"
+mouse,Il2,,Cytokine/Chemokine,Secreted,88
+mouse,Il6,,Cytokine/Chemokine,Secreted,"26,42,57,63,82–84,86,88,89"
+mouse,Il6st,,Transmembrane signal receptors,Transmembrane,42
+mouse,Il7,,Cytokine/Chemokine,Secreted,"42,89"
+mouse,Inha,,Growth factor,Secreted,89
+mouse,Iqgap2,,Miscellaneous,Intracellular,89
+mouse,Itga2,,Transmembrane signal receptors,Transmembrane,89
+mouse,Itpka,,Protein modifying enzymes,Intracellular,89
+mouse,Jun,,Transcription factors and regulators,Intracellular,89
+mouse,Kitl,,Growth factor,Intracellular,"42,88"
+mouse,Lcp1,,Miscellaneous,Intracellular,57
+mouse,Mif,,Protein modifying enzymes,Secreted,"18,42,88,89"
+mouse,Mmp13,,(Metallo-)proteases,Secreted,"42,63,89"
+mouse,Mmp10,,(Metallo-)proteases,Secreted,"42,63,89"
+mouse,Mmp12,,(Metallo-)proteases,Secreted,"42,88"
+mouse,Mmp13,,(Metallo-)proteases,Secreted,"42,88"
+mouse,Mmp14,,(Metallo-)proteases,Intracellular,"42,88"
+mouse,Mmp2,,(Metallo-)proteases,Secreted,89
+mouse,Mmp3,,(Metallo-)proteases,Secreted,"42,63,85,89"
+mouse,Mmp9,,(Metallo-)proteases,Secreted,"57,85"
+mouse,Nap1l4,,Miscellaneous,Intracellular,89
+mouse,Nrg1,,Growth factor,Secreted,"42,88,89"
+mouse,Pappa,,(Metallo-)proteases,Secreted,57
+mouse,Pecam1,,Miscellaneous,Intracellular,89
+mouse,Pgf,,Growth factor,Secreted,88
+mouse,Pigf,,Protein modifying enzymes,Transmembrane,"42,89"
+mouse,Plat,,(Metallo-)proteases,Secreted,"42,88"
+mouse,Plau,,(Metallo-)proteases,Secreted,42
+mouse,Plaur,,Transmembrane signal receptors,Transmembrane,"42,89"
+mouse,Ptbp1,,Miscellaneous,Intracellular,57
+mouse,Ptger2,,Transmembrane signal receptors,Transmembrane,57
+mouse,Ptges,,Protein modifying enzymes,Intracellular,89
+mouse,Rps6ka5,,Protein modifying enzymes,Intracellular,89
+mouse,Scamp4,,Miscellaneous,Intracellular,57
+mouse,Selplg,,Transmembrane signal receptors,Transmembrane,57
+mouse,Sema3f,,Intercellular signal molecule,Secreted,57
+mouse,Serpinb3a,,Protease inhibitors,Intracellular,57
+mouse,Serpine1,,Protease inhibitors,Secreted,"26,42,57,63,83,85,88,89"
+mouse,Serpine2,,Protease inhibitors,Secreted,"42,88"
+mouse,Spp1,,Cytokine/Chemokine,Secreted,57
+mouse,Spx,,Intercellular signal molecule,Secreted,57
+mouse,Timp2,,Protease inhibitors,Secreted,"18,42,88,89"
+mouse,Tnf,,Cytokine/Chemokine,Secreted,"82,86"
+mouse,Tnfrsf11b,,Transmembrane signal receptors,Transmembrane,"42,89"
+mouse,Tnfrsf1a,,Transmembrane signal receptors,Transmembrane,"42,88"
+mouse,Tnfrsf1b,,Transmembrane signal receptors,Transmembrane,42
+mouse,Tubgcp2,,Miscellaneous,Intracellular,89
+mouse,Vegfa,,Growth factor,Secreted,"26,42,83,89"
+mouse,Vegfc,,Growth factor,Secreted,89
+mouse,Vgf,,Intercellular signal molecule,Secreted,56
+mouse,Wnt16,,Intercellular signal molecule,Secreted,57
+mouse,Wnt2,,Intercellular signal molecule,Transmembrane,57

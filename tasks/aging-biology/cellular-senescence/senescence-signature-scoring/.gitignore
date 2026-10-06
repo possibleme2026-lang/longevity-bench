@@ -1,0 +1,9 @@
+# Re-downloaded upstream bytes: run authoring/provenance/fetch.py to recreate.
+authoring/provenance/upstream/
+# Candidate artifacts from authoring/evidence/measure_ablations.py --keep-artifacts.
+# Never committed: a priority_samples.txt cannot carry the canary comment that
+# ci_checks/check-canary.sh requires of anything under authoring/, because the
+# verifier reads that file's lines as sample ids.
+authoring/evidence/candidates/
+authoring/evidence/logs/
+__pycache__/
