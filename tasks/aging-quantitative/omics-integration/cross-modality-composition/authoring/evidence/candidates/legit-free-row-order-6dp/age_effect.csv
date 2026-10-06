@@ -1,0 +1,8 @@
+celltype,effect_snrna,effect_snatac,replicates
+TC,-1.066331,-0.457462,true
+SMC,0.278609,0.213779,true
+SC,0.485989,0.360588,true
+IC,0.371563,-0.268696,false
+GC,-0.950766,-0.823728,true
+EpiC,1.432331,1.752232,true
+EC,-0.551396,-0.776713,true
