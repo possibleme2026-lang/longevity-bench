@@ -10,22 +10,26 @@
     "license": "Public domain (NCBI GEO)",
     "verified": {
       "geo": {
+        "status": "ok",
         "ok": true,
         "title": "Genome-wide Methylation Profiles Reveal Quantitative Views of Human Aging Rates",
         "note": "GEO GSE40279"
       },
       "pmid": {
-        "ok": false,
-        "title": null,
-        "note": "HTTPError"
+        "status": "ok",
+        "ok": true,
+        "title": "Genome-wide methylation profiles reveal quantitative views of human aging rates.",
+        "note": "PMID 23177740"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "landing",
         "note": "landing or directory page (Index of /geo/series/GSE40nnn/GSE40279)"
       }
     },
-    "all_declared_identifiers_resolve": false
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   },
   {
     "label": "horvath-2013-pan-tissue-clock",
@@ -38,22 +42,26 @@
     "license": "CC BY 2.0",
     "verified": {
       "pmid": {
+        "status": "ok",
         "ok": true,
         "title": "DNA methylation age of human tissues and cell types.",
         "note": "PMID 24138928"
       },
       "doi": {
+        "status": "ok",
         "ok": true,
         "title": "DNA methylation age of human tissues and cell types (2013)",
         "note": "DOI 10.1186/gb-2013-14-10-r115"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "landing",
         "note": "landing or directory page (no title)"
       }
     },
-    "all_declared_identifiers_resolve": true
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   },
   {
     "label": "johansson-2013-lifespan-methylome",
@@ -65,17 +73,20 @@
     "license": "Public domain (NCBI GEO)",
     "verified": {
       "geo": {
+        "status": "ok",
         "ok": true,
         "title": "Continuous Aging of the Human DNA Methylome Throughout the Human Lifespan",
         "note": "GEO GSE87571"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "landing",
         "note": "landing or directory page (Index of /geo/series/GSE87nnn/GSE87571)"
       }
     },
-    "all_declared_identifiers_resolve": true
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   },
   {
     "label": "tabula-muris-senis",
@@ -89,22 +100,26 @@
     "license": "CC BY 4.0",
     "verified": {
       "pmid": {
+        "status": "ok",
         "ok": true,
         "title": "A single-cell transcriptomic atlas characterizes ageing tissues in the mouse.",
         "note": "PMID 32669714"
       },
       "doi": {
+        "status": "ok",
         "ok": true,
         "title": "A single-cell transcriptomic atlas characterizes ageing tissues in the mouse (2020)",
         "note": "DOI 10.1038/s41586-020-2496-1"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "landing",
         "note": "landing or directory page (Tabula Muris Senis)"
       }
     },
-    "all_declared_identifiers_resolve": true
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   },
   {
     "label": "gtex-v8-regulatory-atlas",
@@ -117,22 +132,26 @@
     "license": "GTEx open access (dbGaP for raw)",
     "verified": {
       "pmid": {
+        "status": "ok",
         "ok": true,
         "title": "The GTEx Consortium atlas of genetic regulatory effects across human tissues.",
         "note": "PMID 32913098"
       },
       "doi": {
+        "status": "ok",
         "ok": true,
         "title": "The GTEx Consortium atlas of genetic regulatory effects across human tissues (2020)",
         "note": "DOI 10.1126/science.aaz1776"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "landing",
         "note": "landing or directory page (GTEx Portal)"
       }
     },
-    "all_declared_identifiers_resolve": true
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   },
   {
     "label": "lopez-otin-hallmarks-of-aging-2023",
@@ -145,22 +164,26 @@
     "license": "Publisher copyright (reference only)",
     "verified": {
       "pmid": {
+        "status": "ok",
         "ok": true,
         "title": "Hallmarks of aging: An expanding universe.",
         "note": "PMID 36599349"
       },
       "doi": {
+        "status": "ok",
         "ok": true,
         "title": "Hallmarks of aging: An expanding universe (2023)",
         "note": "DOI 10.1016/j.cell.2022.11.001"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "gated",
         "note": "HTTP 403; the host blocks automated access, which is not evidence against the citation"
       }
     },
-    "all_declared_identifiers_resolve": true
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   },
   {
     "label": "levine-phenoage-2018",
@@ -173,22 +196,26 @@
     "license": "CC BY 3.0",
     "verified": {
       "pmid": {
+        "status": "ok",
         "ok": true,
         "title": "An epigenetic biomarker of aging for lifespan and healthspan.",
         "note": "PMID 29676998"
       },
       "doi": {
+        "status": "ok",
         "ok": true,
         "title": "An epigenetic biomarker of aging for lifespan and healthspan (2018)",
         "note": "DOI 10.18632/aging.101414"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "gated",
         "note": "HTTP 403; the host blocks automated access, which is not evidence against the citation"
       }
     },
-    "all_declared_identifiers_resolve": true
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   },
   {
     "label": "lu-grimage-2019",
@@ -200,17 +227,20 @@
     "license": "CC BY 3.0",
     "verified": {
       "doi": {
+        "status": "ok",
         "ok": true,
         "title": "DNA methylation GrimAge strongly predicts lifespan and healthspan (2019)",
         "note": "DOI 10.18632/aging.101684"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "gated",
         "note": "HTTP 403; the host blocks automated access, which is not evidence against the citation"
       }
     },
-    "all_declared_identifiers_resolve": true
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   },
   {
     "label": "gse64553-fibroblast-aging-rotenone",
@@ -222,17 +252,20 @@
     "license": "Public domain (NCBI GEO)",
     "verified": {
       "geo": {
+        "status": "ok",
         "ok": true,
         "title": "RNA-seq of human fibroblasts during normal aging and during aging with rotenone perturbation",
         "note": "GEO GSE64553"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "landing",
         "note": "landing or directory page (Index of /geo/series/GSE64nnn/GSE64553)"
       }
     },
-    "all_declared_identifiers_resolve": true
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   },
   {
     "label": "gse84722-fibroblast-coding-noncoding",
@@ -244,17 +277,20 @@
     "license": "Public domain (NCBI GEO)",
     "verified": {
       "geo": {
+        "status": "ok",
         "ok": true,
         "title": "Integrative classification of human coding and non-coding genes based on RNA metabolism profiles",
         "note": "GEO GSE84722"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "landing",
         "note": "landing or directory page (Index of /geo/series/GSE84nnn/GSE84722)"
       }
     },
-    "all_declared_identifiers_resolve": true
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   },
   {
     "label": "gse111629-parkinson-methylation",
@@ -266,16 +302,19 @@
     "license": "Public domain (NCBI GEO)",
     "verified": {
       "geo": {
+        "status": "ok",
         "ok": true,
         "title": "Genome wide DNA methylation study of Parkinson's disease in whole blood samples",
         "note": "GEO GSE111629"
       },
       "url": {
+        "status": "ok",
         "ok": true,
         "title": "landing",
         "note": "landing or directory page (Index of /geo/series/GSE111nnn/GSE111629)"
       }
     },
-    "all_declared_identifiers_resolve": true
+    "all_declared_identifiers_resolve": true,
+    "verification_incomplete": false
   }
 ]
