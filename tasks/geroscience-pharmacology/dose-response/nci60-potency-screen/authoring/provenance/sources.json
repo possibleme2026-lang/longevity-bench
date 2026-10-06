@@ -1,0 +1,18 @@
+{
+  "task": "nci60-potency-screen",
+  "retrieved_utc": "2026-10-06T09:04:12Z",
+  "catalogue": "docs/sources/verified-pharmacology.json",
+  "fetch": "authoring/provenance/fetch.py",
+  "derivation": "authoring/provenance/build_fixture.py",
+  "truth": "authoring/provenance/make_truth.py",
+  "files": [
+    {
+      "path": "environment/data/nsc740_viability.csv",
+      "origin": "real",
+      "sha256": "c184391b5169334c10560b006cad3ad771a3266687b76bb19e027ce3388d5326",
+      "bytes": 13032,
+      "source_label": "nci-dtp-dose-response-nsc740",
+      "transform": "The upstream payload is the NCI Developmental Therapeutics Program's dose-response servlet, https://dtp.cancer.gov/dtpstandard/servlet/SubSets?subsettype=DOSE&searchtype=NSC&searchlist=740&outputformat=xml (HTTP 200, 207382 bytes, sha256 207c650f9bea5ebb30ca1d4d3dfa0c3dd91a10520f8ce540b759e7a4baae543f, public domain, US NCI DTP). NSC 740 is methotrexate. The payload carries 133 <CellInhibitionDoseResponse> records and 1724 <DoseDataPoint> measurements; each record merges every concentration series DTP ran for that line on this compound, and those series belong to different screening campaigns: campaign A on the uniform ten-fold grid -9.0,-8.0,-7.0,-6.0,-5.0 log10 M with 3-4 experiments per point (reported by 60 records), campaign B on the ten-fold grid -7.6,-6.6,-5.6,-4.6,-3.6 with 24-27 experiments per point (125 records), campaign C on a nine-point two-fold grid -6.31..-3.9 with 2 experiments per point (63 records), plus single extra concentrations measured once with Dispersion 0.0 (89 records). build_fixture.py keeps campaign A only: the 60 cell lines whose record reports all five campaign-A concentrations, those five measurements each, and nothing else -- 300 rows of cell_line, panel, concentration_log10m, endpoint_value (DTP EndPointValue on the growth-percent scale, 100 = growth equal to the untreated control), dispersion (DTP Dispersion across the replicates) and n_experiments (DTP NumOfExperiments). Campaign A is the only grid that is complete on a large contiguous block of lines, uniform in spacing, and replicated at every point (campaign B's 24-27 replicates against A's 3-4 would let replicate weight rather than chemistry drive a pooled estimate, and the 89 records with single-experiment Dispersion 0.0 points have no usable error); it is also the only campaign that brackets this compound's potency, since on campaign B's grid 32 of the 60 lines are already past 50 at the lowest concentration tested. No value is imputed, rescaled, rounded or altered within the kept block."
+    }
+  ]
+}
