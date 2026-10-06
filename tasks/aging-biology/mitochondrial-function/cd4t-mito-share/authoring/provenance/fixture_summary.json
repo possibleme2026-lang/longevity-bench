@@ -1,0 +1,8 @@
+{
+  "n_donors": 33,
+  "n_old": 25,
+  "n_probes": 47231,
+  "n_probes_without_annotation": 0,
+  "n_young": 8,
+  "overall_design": "CD4+ T cells from 8 younger (20-39 years old) and 25 older (70+ years old) healthy participants of the Baltimore Longitudinal Study on Aging (BLSA) were examined by gene expression for microarrays."
+}
