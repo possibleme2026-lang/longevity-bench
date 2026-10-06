@@ -40,6 +40,33 @@ python3 tools/verify_sources.py docs/sources/candidates-<group>.json \
     --json docs/sources/verified-<group>.json
 ```
 
+## A resolving DOI is not a download
+
+**Zenodo is null-routed from this machine.** `zenodo.org` resolves to `0.0.0.0`
+for A and `::` for AAAA, and both directions fail:
+
+```
+curl -4 https://zenodo.org/api/records/11099870   -> 000
+curl -6 https://zenodo.org/api/records/11099870   -> 000
+nslookup -type=A zenodo.org                       -> 0.0.0.0
+```
+
+`www.zenodo.org` does answer, with a real address, but only to redirect back to
+the bare domain — so it is not a workaround. `curl` reports `301` and zero bytes.
+
+The trap is that `tools/verify_sources.py` still marks those entries **OK**. It
+resolves the DOI, and Zenodo is DataCite-registered, so the DOI genuinely does
+resolve; the tool is right about what it measures. It just does not measure
+whether the payload can be fetched, and on this host it cannot.
+
+So five catalogue entries are verified and unusable: a resolving identifier is not
+a downloadable file. Before building on any entry, fetch one byte of it —
+`curl -sL -r 0-1 <url>` — and if that fails, the entry is not a source, however
+green the catalogue is. Reachable neighbours, measured at the same time:
+`figshare.com` 202, `datadryad.org` 200, `www.ebi.ac.uk` 200, `wwwn.cdc.gov` 200,
+`api.crossref.org` 302, `api.datacite.org` 301. `ftp.ncbi.nlm.nih.gov` returned
+503 under load and should be retried rather than written off.
+
 ## A status code is not evidence
 
 The verifier checks each `url` by **payload**, because CDC answers a request for
