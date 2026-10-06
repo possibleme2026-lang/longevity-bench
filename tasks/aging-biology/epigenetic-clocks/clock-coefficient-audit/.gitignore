@@ -1,0 +1,7 @@
+# Re-downloaded upstream bytes and scratch probes: run
+# authoring/provenance/fetch.py to recreate what build_fixture.py needs.
+authoring/scratch/
+# Candidate artifacts from authoring/evidence/measure_ablations.py. Never
+# committed: they are duplicates of the oracle's output and carry no canary.
+authoring/evidence/candidates/
+__pycache__/
