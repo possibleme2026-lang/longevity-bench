@@ -404,6 +404,28 @@ What this check does **not** prove: that a file labelled `real` truly descends f
 
 Negative controls: a tampered digest, a dropped entry, a `real` label absent from the catalogue, a `authored` file with no note, a placeholder marker, and an origin typo are each rejected.
 
+#### check-harness-tools
+
+`environment/Dockerfile` must install `tmux`.
+
+The agent harness runs the model inside a tmux session. Harbor checks `tmux -V` at trial setup and installs it if missing, but that step is explicitly best-effort and capped at `_TOOL_INSTALL_BUDGET_SEC = 240` — on a `python:*-slim` base it falls back to **compiling tmux from source**. With three trials building concurrently on this host, the fallback lost one trial in three, which died during `_setup_agent` with:
+
+```
+RuntimeError: Failed to start tmux session. Error: None
+```
+
+That trial produced no reward and no artifacts, and the failure surfaces as `exception_type: RuntimeError` at setup — indistinguishable, in a results table, from a model that did badly. A score silently missing one of three models is worse than a task that fails loudly, so the requirement is enforced at build time where the network and the budget are reliable.
+
+`asciinema` is checked alongside it but only as a **warning**: it is what harbor records the session with, and recording is optional.
+
+A task whose base image already ships tmux opts out with a comment anywhere in the Dockerfile:
+
+```dockerfile
+# harness-tools: provided by base image
+```
+
+Covered by `ci_checks/test-tasks/fail-static-harness-tools`, whose Dockerfile is a plausible slim image that never installs tmux.
+
 #### check-task-readme
 
 Two rules over a task's `README.md`, which is what Harbor Hub renders as the task's card (`harbor publish` sends the file as `readme`).

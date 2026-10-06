@@ -183,6 +183,7 @@ jobs:
             "Pytest version pin|check-pytest-version.sh"
             "Nproc usage|check-nproc.sh"
             "Compose host binds|check-compose-host-binds.sh"
+            "Harness tools|check-harness-tools.sh"
             "Binary reward|check-binary-reward.sh"
             "Data provenance|check-data-provenance.sh"
             "Task README|check-task-readme.sh"
