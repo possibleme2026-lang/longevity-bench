@@ -1,0 +1,9 @@
+{
+  "n_claims_falsified": 1,
+  "n_naive_claims": 19,
+  "n_placebo_pairs": 36,
+  "n_pleiotropy_flagged": 32,
+  "positive_control_beta": 0.17335344388955118,
+  "positive_control_ci_lower": 0.15442848433627065,
+  "positive_control_ci_upper": 0.1922784034428317
+}
