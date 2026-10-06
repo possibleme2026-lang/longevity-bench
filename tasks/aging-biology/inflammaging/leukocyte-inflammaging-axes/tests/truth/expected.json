@@ -1,0 +1,592 @@
+{
+ "absent_genes": [
+  "CD27",
+  "CD79A",
+  "FAS",
+  "GZMB",
+  "IRF7",
+  "NKG7",
+  "OAS1"
+ ],
+ "axis_mean_pearson_r": {
+  "adaptive_lymphoid": -0.09204664217676416,
+  "innate_inflammation": 0.1050908055838533,
+  "type_i_interferon": 0.11355793777394438
+ },
+ "down_genes_fdr_lt_0.05": [
+  "CCR7",
+  "LEF1",
+  "TCF7"
+ ],
+ "gene_stats": {
+  "AIM2": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.9353080850206621,
+   "mean_log2_cpm": 4.302857739784052,
+   "n_table_rows": 3,
+   "p_value": 0.8860813437037851,
+   "pearson_r": 0.02512478148860108
+  },
+  "ARG1": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.8915052859826093,
+   "mean_log2_cpm": 3.937733667104397,
+   "n_table_rows": 1,
+   "p_value": 0.5630559700942795,
+   "pearson_r": -0.1011749628867444
+  },
+  "CCR7": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.0025778879704249752,
+   "mean_log2_cpm": 6.675627803452889,
+   "n_table_rows": 2,
+   "p_value": 4.522610474429781e-05,
+   "pearson_r": -0.6328016912465635
+  },
+  "CD19": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.9353080850206621,
+   "mean_log2_cpm": 2.698625521160933,
+   "n_table_rows": 1,
+   "p_value": 0.8474583367167172,
+   "pearson_r": -0.03373097797789197
+  },
+  "CD28": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.25076181543934123,
+   "mean_log2_cpm": 6.224034836913039,
+   "n_table_rows": 1,
+   "p_value": 0.049002752424812904,
+   "pearson_r": -0.33522447782827847
+  },
+  "CD3D": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.9112973562868413,
+   "mean_log2_cpm": 4.784518920104848,
+   "n_table_rows": 1,
+   "p_value": 0.6874699354444592,
+   "pearson_r": -0.0704743563617766
+  },
+  "CD3E": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.9353080850206621,
+   "mean_log2_cpm": 5.853282745948203,
+   "n_table_rows": 3,
+   "p_value": 0.8411675802812599,
+   "pearson_r": -0.035139564296606515
+  },
+  "CD4": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.47058266682880284,
+   "mean_log2_cpm": 6.031860883294059,
+   "n_table_rows": 2,
+   "p_value": 0.18988423398355203,
+   "pearson_r": 0.22692373905525187
+  },
+  "CD40LG": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.9894565146953539,
+   "mean_log2_cpm": 3.002222608076214,
+   "n_table_rows": 1,
+   "p_value": 0.9803639019464551,
+   "pearson_r": -0.0043170749143835885
+  },
+  "CD8A": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.588209215968716,
+   "mean_log2_cpm": 4.849222159384115,
+   "n_table_rows": 1,
+   "p_value": 0.28894487801972013,
+   "pearson_r": 0.18440106966547123
+  },
+  "CSF3R": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.7248226111099227,
+   "mean_log2_cpm": 3.7919910692195717,
+   "n_table_rows": 2,
+   "p_value": 0.3814855847946962,
+   "pearson_r": 0.15260241571490973
+  },
+  "CXCL1": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.9353080850206621,
+   "mean_log2_cpm": 5.391257296743488,
+   "n_table_rows": 1,
+   "p_value": 0.8775048842051868,
+   "pearson_r": -0.02703016265300665
+  },
+  "CXCL8": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.9353080850206621,
+   "mean_log2_cpm": 8.905612600946474,
+   "n_table_rows": 1,
+   "p_value": 0.8688360143897104,
+   "pearson_r": 0.028959173647412986
+  },
+  "DDX58": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.926584513654407,
+   "mean_log2_cpm": 5.572409243517062,
+   "n_table_rows": 4,
+   "p_value": 0.7152582210665598,
+   "pearson_r": -0.06392134525481087
+  },
+  "FPR1": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.25076181543934123,
+   "mean_log2_cpm": 8.909041104759096,
+   "n_table_rows": 4,
+   "p_value": 0.051980960397778296,
+   "pearson_r": 0.3311676039785165
+  },
+  "GBP1": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.9026240421276223,
+   "mean_log2_cpm": 5.876054497549836,
+   "n_table_rows": 1,
+   "p_value": 0.6100223407963098,
+   "pearson_r": 0.08928276017705908
+  },
+  "GBP5": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.4334849333231909,
+   "mean_log2_cpm": 7.881594316956258,
+   "n_table_rows": 1,
+   "p_value": 0.15829622204805874,
+   "pearson_r": 0.24371064828136443
+  },
+  "GZMA": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.27451617858773736,
+   "mean_log2_cpm": 1.2994200896939705,
+   "n_table_rows": 2,
+   "p_value": 0.06260895301123835,
+   "pearson_r": -0.3180510738249537
+  },
+  "ICAM1": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.028182306267533964,
+   "mean_log2_cpm": 1.9671066409898523,
+   "n_table_rows": 3,
+   "p_value": 0.0024721321287310494,
+   "pearson_r": 0.4955139986513773
+  },
+  "IFI6": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.9350245112306926,
+   "mean_log2_cpm": 4.240575712518902,
+   "n_table_rows": 2,
+   "p_value": 0.7381772457084416,
+   "pearson_r": 0.058580559256064035
+  },
+  "IFIH1": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.5710151909713606,
+   "mean_log2_cpm": 5.723949604866624,
+   "n_table_rows": 2,
+   "p_value": 0.2704808799338024,
+   "pearson_r": 0.19148865972667156
+  },
+  "IFIT1": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.9112973562868413,
+   "mean_log2_cpm": 5.386533039345971,
+   "n_table_rows": 1,
+   "p_value": 0.6631211187070001,
+   "pearson_r": 0.0762945286429155
+  },
+  "IFIT3": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.9112973562868413,
+   "mean_log2_cpm": 5.82445211509775,
+   "n_table_rows": 2,
+   "p_value": 0.6847874603377689,
+   "pearson_r": 0.07111181147584929
+  },
+  "IGHD": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.4629590973547092,
+   "mean_log2_cpm": 2.742982319885471,
+   "n_table_rows": 1,
+   "p_value": 0.17868596740006318,
+   "pearson_r": -0.2326302050122761
+  },
+  "IL18": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.4334849333231909,
+   "mean_log2_cpm": 1.6522561021092481,
+   "n_table_rows": 1,
+   "p_value": 0.1597049754348598,
+   "pearson_r": 0.24291316086938095
+  },
+  "IL1B": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.8868367392775536,
+   "mean_log2_cpm": 5.613476610028713,
+   "n_table_rows": 1,
+   "p_value": 0.544548874994989,
+   "pearson_r": -0.1059839207744994
+  },
+  "IL1RN": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.48003475683911234,
+   "mean_log2_cpm": 5.093678930563581,
+   "n_table_rows": 3,
+   "p_value": 0.21054156001715452,
+   "pearson_r": 0.2169877556566671
+  },
+  "IL2RB": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.4334849333231909,
+   "mean_log2_cpm": 6.100615274786387,
+   "n_table_rows": 12,
+   "p_value": 0.1580613931571669,
+   "pearson_r": 0.24384408123857906
+  },
+  "IL7R": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.25076181543934123,
+   "mean_log2_cpm": 8.630147885206947,
+   "n_table_rows": 2,
+   "p_value": 0.052791961145124466,
+   "pearson_r": -0.33009508841383084
+  },
+  "ISG15": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.8086108475671135,
+   "mean_log2_cpm": 4.898425591098922,
+   "n_table_rows": 1,
+   "p_value": 0.4559607493907175,
+   "pearson_r": 0.13020574003987045
+  },
+  "KLRD1": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.8086108475671135,
+   "mean_log2_cpm": 7.5000053823799835,
+   "n_table_rows": 7,
+   "p_value": 0.482329277496173,
+   "pearson_r": 0.12276255042713378
+  },
+  "LCK": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.9026240421276223,
+   "mean_log2_cpm": 6.136403110314169,
+   "n_table_rows": 9,
+   "p_value": 0.6175848709294258,
+   "pearson_r": -0.08740558364103705
+  },
+  "LEF1": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.0030901411630661606,
+   "mean_log2_cpm": 8.423530645758026,
+   "n_table_rows": 4,
+   "p_value": 0.00010842600572161968,
+   "pearson_r": -0.6075945499111239
+  },
+  "MMP9": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.4115335992974434,
+   "mean_log2_cpm": 3.5890090219007766,
+   "n_table_rows": 1,
+   "p_value": 0.10829831560459037,
+   "pearson_r": 0.27616559806453567
+  },
+  "MPO": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.24219836038533393,
+   "mean_log2_cpm": 2.413978158773333,
+   "n_table_rows": 2,
+   "p_value": 0.03399275233478371,
+   "pearson_r": -0.3593543686771887
+  },
+  "MS4A1": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.9353080850206621,
+   "mean_log2_cpm": 5.350830178037895,
+   "n_table_rows": 1,
+   "p_value": 0.775735146012357,
+   "pearson_r": 0.049937261700169835
+  },
+  "MX1": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.8086108475671135,
+   "mean_log2_cpm": 6.866892366784318,
+   "n_table_rows": 3,
+   "p_value": 0.4740140877708378,
+   "pearson_r": 0.12508607175348713
+  },
+  "MX2": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.9353080850206621,
+   "mean_log2_cpm": 8.766454192835162,
+   "n_table_rows": 4,
+   "p_value": 0.7704997182344193,
+   "pearson_r": 0.05113471651493824
+  },
+  "NFKB1": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.9112973562868413,
+   "mean_log2_cpm": 7.589143554106029,
+   "n_table_rows": 4,
+   "p_value": 0.6736921171772298,
+   "pearson_r": -0.07375817196063117
+  },
+  "NLRP12": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.9353080850206621,
+   "mean_log2_cpm": 2.2063033430270718,
+   "n_table_rows": 5,
+   "p_value": 0.8034902995777342,
+   "pearson_r": -0.04362470788115567
+  },
+  "NLRP3": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.41791019639786703,
+   "mean_log2_cpm": 5.7927740372931975,
+   "n_table_rows": 2,
+   "p_value": 0.11860709725667781,
+   "pearson_r": 0.26867807807627087
+  },
+  "PRF1": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.24219836038533393,
+   "mean_log2_cpm": 8.15829922933673,
+   "n_table_rows": 1,
+   "p_value": 0.03041586308516816,
+   "pearson_r": 0.36636663132946423
+  },
+  "PTGS2": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.8086108475671135,
+   "mean_log2_cpm": 8.499315869842926,
+   "n_table_rows": 1,
+   "p_value": 0.4649880522582535,
+   "pearson_r": -0.12763254766657928
+  },
+  "PYCARD": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.9894565146953539,
+   "mean_log2_cpm": 4.773866793427136,
+   "n_table_rows": 1,
+   "p_value": 0.9894565146953538,
+   "pearson_r": -0.002317868681270533
+  },
+  "RSAD2": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.9353080850206621,
+   "mean_log2_cpm": 5.232660373990478,
+   "n_table_rows": 3,
+   "p_value": 0.8048590584355593,
+   "pearson_r": 0.04331485772832775
+  },
+  "S100A12": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.25076181543934123,
+   "mean_log2_cpm": 4.28608511976634,
+   "n_table_rows": 2,
+   "p_value": 0.0500801727217166,
+   "pearson_r": 0.33373464518691925
+  },
+  "S100A8": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.14991097199468295,
+   "mean_log2_cpm": 8.22676552190801,
+   "n_table_rows": 2,
+   "p_value": 0.015780102315229784,
+   "pearson_r": 0.40508250261314044
+  },
+  "S100A9": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.41791019639786703,
+   "mean_log2_cpm": 7.89098341996422,
+   "n_table_rows": 2,
+   "p_value": 0.12463988313620596,
+   "pearson_r": 0.26451994948850927
+  },
+  "SELL": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.028182306267533964,
+   "mean_log2_cpm": 9.356452909740721,
+   "n_table_rows": 1,
+   "p_value": 0.002367532227916684,
+   "pearson_r": 0.4973605650867484
+  },
+  "STAT1": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.3309756058022236,
+   "mean_log2_cpm": 8.871311942575419,
+   "n_table_rows": 2,
+   "p_value": 0.08129225405668651,
+   "pearson_r": 0.2987393657914627
+  },
+  "STAT2": {
+   "axis": "type_i_interferon",
+   "fdr_bh": 0.6974344222536064,
+   "mean_log2_cpm": 7.019441146872642,
+   "n_table_rows": 1,
+   "p_value": 0.3548350569360454,
+   "pearson_r": 0.16122481692807736
+  },
+  "TCF7": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.006846152837621375,
+   "mean_log2_cpm": 8.574249105999254,
+   "n_table_rows": 3,
+   "p_value": 0.0003603238335590197,
+   "pearson_r": -0.5690971526242865
+  },
+  "THEMIS": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.47602446770705464,
+   "mean_log2_cpm": 8.147882705248167,
+   "n_table_rows": 6,
+   "p_value": 0.20043135482402302,
+   "pearson_r": -0.22176149961062985
+  },
+  "TLR2": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.5054844571453582,
+   "mean_log2_cpm": 2.3617775199146176,
+   "n_table_rows": 1,
+   "p_value": 0.23057185764525107,
+   "pearson_r": 0.2079770510296759
+  },
+  "TNF": {
+   "axis": "innate_inflammation",
+   "fdr_bh": 0.8952299582875388,
+   "mean_log2_cpm": 2.475914367660151,
+   "n_table_rows": 1,
+   "p_value": 0.5811141834498059,
+   "pearson_r": -0.09655228044006896
+  },
+  "TRAT1": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.9894565146953539,
+   "mean_log2_cpm": 5.199980839295878,
+   "n_table_rows": 2,
+   "p_value": 0.9755316036130125,
+   "pearson_r": 0.005379761476432015
+  },
+  "ZAP70": {
+   "axis": "adaptive_lymphoid",
+   "fdr_bh": 0.4334849333231909,
+   "mean_log2_cpm": 7.489185639140585,
+   "n_table_rows": 3,
+   "p_value": 0.1583528512331419,
+   "pearson_r": -0.24367849220442367
+  }
+ },
+ "n_fdr_lt_0.05": 5,
+ "panel_size": 79,
+ "pooled_score_pearson_p": 0.5563982267045213,
+ "pooled_score_pearson_r": 0.10289632536686989,
+ "samples": [
+  "G30y_F1",
+  "G30y_F2",
+  "G30y_F3",
+  "G30y_F4",
+  "G30y_F5",
+  "G30y_M1",
+  "G30y_M2",
+  "G30y_M3",
+  "G30y_M4",
+  "G30y_M5",
+  "G30y_M6",
+  "G60y_F1",
+  "G60y_F2",
+  "G60y_F3",
+  "G60y_F4",
+  "G60y_F5",
+  "G60y_M1",
+  "G60y_M2",
+  "G60y_M3",
+  "G60y_M4",
+  "G60y_M5",
+  "G75y_F1",
+  "G75y_F2",
+  "G75y_F3",
+  "G75y_F4",
+  "G75y_F5",
+  "G75y_F6",
+  "G75y_F7",
+  "G75y_M1",
+  "G75y_M2",
+  "G75y_M3",
+  "G75y_M4",
+  "G75y_M5",
+  "G75y_M6",
+  "G75y_M7"
+ ],
+ "spec": {
+  "correlation": "Pearson across the 35 samples against age_years",
+  "cpm_denominator": "sum of counts over all rows of the matrix for that sample",
+  "fdr": "Benjamini-Hochberg across the tested panel genes",
+  "filter": "gene-level CPM >= 1 in at least 18 of the 35 samples",
+  "gene_expression": "sum of counts of all rows whose gene_name equals the symbol",
+  "pooled_score": "mean over tested genes of the gene-wise z-score of log2(CPM + 1), population sd",
+  "transform": "log2(CPM + 1)"
+ },
+ "tested_genes": [
+  "AIM2",
+  "ARG1",
+  "CCR7",
+  "CD19",
+  "CD28",
+  "CD3D",
+  "CD3E",
+  "CD4",
+  "CD40LG",
+  "CD8A",
+  "CSF3R",
+  "CXCL1",
+  "CXCL8",
+  "DDX58",
+  "FPR1",
+  "GBP1",
+  "GBP5",
+  "GZMA",
+  "ICAM1",
+  "IFI6",
+  "IFIH1",
+  "IFIT1",
+  "IFIT3",
+  "IGHD",
+  "IL18",
+  "IL1B",
+  "IL1RN",
+  "IL2RB",
+  "IL7R",
+  "ISG15",
+  "KLRD1",
+  "LCK",
+  "LEF1",
+  "MMP9",
+  "MPO",
+  "MS4A1",
+  "MX1",
+  "MX2",
+  "NFKB1",
+  "NLRP12",
+  "NLRP3",
+  "PRF1",
+  "PTGS2",
+  "PYCARD",
+  "RSAD2",
+  "S100A12",
+  "S100A8",
+  "S100A9",
+  "SELL",
+  "STAT1",
+  "STAT2",
+  "TCF7",
+  "THEMIS",
+  "TLR2",
+  "TNF",
+  "TRAT1",
+  "ZAP70"
+ ],
+ "up_genes_fdr_lt_0.05": [
+  "ICAM1",
+  "SELL"
+ ]
+}

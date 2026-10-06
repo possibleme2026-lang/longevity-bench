@@ -1,0 +1,52 @@
+{
+  "task": "leukocyte-inflammaging-axes",
+  "retrieved_utc": "2026-10-07T00:00:00Z",
+  "catalogue": "docs/sources/verified-clinical-aging.json",
+  "upstream": [
+    {
+      "file": "GSE262619_Raw_count.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE262nnn/GSE262619/suppl/GSE262619_Raw_count.txt.gz",
+      "source_label": "gse262619-peripheral-leukocyte-aging-clock",
+      "bytes": 6481253,
+      "sha256": "bb943c6989c3d4fc52a901ccc9d2b2f73fc3034d25a8b9db571d08f89f64049d",
+      "payload": "gzip; first decompressed line 'gene_id\\tgene_name\\tcount.G30y_F1'; 172,043 data rows x gene_id, gene_name and 35 raw-count columns"
+    },
+    {
+      "file": "GSE262619_series_matrix.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE262nnn/GSE262619/matrix/GSE262619_series_matrix.txt.gz",
+      "source_label": "gse262619-peripheral-leukocyte-aging-clock",
+      "bytes": 4018,
+      "sha256": "ed4676ba5a2162da380fe2bb99092a99332fea5c1d992bab1627d7ee608baeee",
+      "payload": "gzip; first decompressed line '!Series_title'; per-sample 'age (years): N' characteristic, 35 samples"
+    }
+  ],
+  "generator": "authoring/provenance/build_fixtures.py",
+  "rederive": "authoring/provenance/fetch.py",
+  "files": [
+    {
+      "path": "environment/data/leukocyte_counts.csv.gz",
+      "origin": "real",
+      "sha256": "fc214ec8683ffb5aa31a1bdaf7212772bdcf4f1d7ee7235ab0c20a16fefd5caa",
+      "bytes": 6560766,
+      "source_label": "gse262619-peripheral-leukocyte-aging-clock",
+      "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE262nnn/GSE262619/suppl/GSE262619_Raw_count.txt.gz",
+      "transform": "GEO series GSE262619 (whole-transcriptome sequencing of peripheral blood leukocytes from 35 healthy donors, 22-88 years, Beijing Hospital; PMID 40089807). The upstream tab-separated count table is re-serialised as comma-separated gzip with every cell verbatim: all 172,043 rows in upstream order, all 37 columns (gene_id, gene_name, then one count.G<group>_<sex><n> column per sample), every count the integer it is, gene_name left as an empty field on exactly the 35,770 rows where the upstream pipeline assigned no symbol (StringTie MSTRG novel transcripts), no row dropped, no value rounded, filtered, renormalised or reordered. The gzip is written with mtime=0 and compresslevel=6 so re-derivation is byte-identical. Read counts are the upstream DIANA-mAP/HISAT2 counts for hg38; nothing about them was altered here."
+    },
+    {
+      "path": "environment/data/sample_metadata.csv",
+      "origin": "real",
+      "sha256": "6a3043337b8a89debdff8e70d2e9ee891089398bbeff4a77d35d69af8cd0e40f",
+      "bytes": 479,
+      "source_label": "gse262619-peripheral-leukocyte-aging-clock",
+      "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE262nnn/GSE262619/matrix/GSE262619_series_matrix.txt.gz",
+      "transform": "35 rows, one per count-table sample column, columns sample_id,age_years,sex. sample_id is the GEO !Sample_title prefixed with 'G' (title '30y_F1' -> column 'count.G30y_F1'), age_years is the integer from that sample's 'age (years): N' characteristic (22-88, no topcode, no rounding), and sex is the F/M token of the same title -- the series matrix carries no sex characteristic, and the title's token is the upstream's own encoding of it. Verified in build_fixtures.py: the series-matrix sample order equals the count-table column order."
+    },
+    {
+      "path": "environment/data/panel_genes.csv",
+      "origin": "authored",
+      "sha256": "d5ffc0b70a5f605a3831628fad17366dc69ddc7e162e60cf9b9624567ad19c4b",
+      "bytes": 1936,
+      "note": "Hand-written marker panel: 79 immune/inflammation gene symbols, each assigned to one of three axes (innate_inflammation, adaptive_lymphoid, type_i_interferon). It is a specification of which genes the audit scores, assembled from standard immunosenescence and inflammaging marker families; it carries no measured values, no coefficient and nothing derived from the shipped counts, and it names both genes that rise and genes that fall with age."
+    }
+  ]
+}
