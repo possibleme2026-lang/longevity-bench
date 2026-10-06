@@ -40,32 +40,37 @@ python3 tools/verify_sources.py docs/sources/candidates-<group>.json \
     --json docs/sources/verified-<group>.json
 ```
 
-## A resolving DOI is not a download
+## One failed fetch is not a blocked host
 
-**Zenodo is null-routed from this machine.** `zenodo.org` resolves to `0.0.0.0`
-for A and `::` for AAAA, and both directions fail:
+A source that will not download may be a dead source or a bad five minutes, and
+these two look identical from a single attempt.
 
-```
-curl -4 https://zenodo.org/api/records/11099870   -> 000
-curl -6 https://zenodo.org/api/records/11099870   -> 000
-nslookup -type=A zenodo.org                       -> 0.0.0.0
-```
+An author reported that `zenodo.org` did not resolve and concluded that no Zenodo
+source could be fetched. I reproduced it — `curl -4` and `curl -6` both returned
+`000`, `nslookup -type=A` returned `0.0.0.0`, and `www.zenodo.org` answered only to
+redirect back to the bare domain — and wrote up Zenodo as null-routed from this
+machine. Then a different author shipped a task built on **two Zenodo archives**
+from `https://zenodo.org/api/records/13832454/files`, pinned by sha256 and size,
+having actually downloaded them. Re-measured at that point, the same URL returned
+`200` with a real payload from both `curl` and Python's `urllib`.
 
-`www.zenodo.org` does answer, with a real address, but only to redirect back to
-the bare domain — so it is not a workaround. `curl` reports `301` and zero bytes.
+The first measurement was true and the generalisation from it was false. `0.0.0.0`
+is what this resolver hands back when it fails, not a standing property of Zenodo.
+Nothing was wrong with the tooling or the catalogue.
 
-The trap is that `tools/verify_sources.py` still marks those entries **OK**. It
-resolves the DOI, and Zenodo is DataCite-registered, so the DOI genuinely does
-resolve; the tool is right about what it measures. It just does not measure
-whether the payload can be fetched, and on this host it cannot.
+The rule that survives: **fetch one byte of any source before building on it** —
+`curl -sL -r 0-1 <url>` — and on failure, re-measure before writing the source off,
+because a transient refusal and a dead identifier are indistinguishable once. Five
+catalogue entries were nearly discarded on the strength of one bad window.
 
-So five catalogue entries are verified and unusable: a resolving identifier is not
-a downloadable file. Before building on any entry, fetch one byte of it —
-`curl -sL -r 0-1 <url>` — and if that fails, the entry is not a source, however
-green the catalogue is. Reachable neighbours, measured at the same time:
-`figshare.com` 202, `datadryad.org` 200, `www.ebi.ac.uk` 200, `wwwn.cdc.gov` 200,
-`api.crossref.org` 302, `api.datacite.org` 301. `ftp.ncbi.nlm.nih.gov` returned
-503 under load and should be retried rather than written off.
+Reachable neighbours, measured while writing this: `figshare.com` 202,
+`datadryad.org` 200, `www.ebi.ac.uk` 200, `wwwn.cdc.gov` 200, `api.crossref.org`
+302, `api.datacite.org` 301, `zenodo.org` 200 on retry. `ftp.ncbi.nlm.nih.gov`
+returned 503 under load and should be retried rather than written off.
+
+This is also the reason `tools/verify_sources.py` can report `OK` for an entry you
+cannot fetch: it resolves the DOI, and a DOI that resolves is a real and different
+fact from a payload that downloads.
 
 ## A status code is not evidence
 
