@@ -1,0 +1,226 @@
+[
+  {
+    "label": "hannum-2013-whole-blood-450k",
+    "fields": [
+      "aging-biology/epigenetic-clocks"
+    ],
+    "geo": "GSE40279",
+    "pmid": "23177740",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE40nnn/GSE40279/",
+    "license": "Public domain (NCBI GEO)",
+    "verified": {
+      "geo": {
+        "ok": true,
+        "title": "Genome-wide Methylation Profiles Reveal Quantitative Views of Human Aging Rates",
+        "note": "GEO GSE40279"
+      },
+      "pmid": {
+        "ok": true,
+        "title": "Genome-wide methylation profiles reveal quantitative views of human aging rates.",
+        "note": "PMID 23177740"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  },
+  {
+    "label": "horvath-2013-pan-tissue-clock",
+    "fields": [
+      "aging-biology/epigenetic-clocks"
+    ],
+    "pmid": "24138928",
+    "doi": "10.1186/gb-2013-14-10-r115",
+    "url": "https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-10-r115",
+    "license": "CC BY 2.0",
+    "verified": {
+      "pmid": {
+        "ok": true,
+        "title": "DNA methylation age of human tissues and cell types.",
+        "note": "PMID 24138928"
+      },
+      "doi": {
+        "ok": true,
+        "title": "DNA methylation age of human tissues and cell types (2013)",
+        "note": "DOI 10.1186/gb-2013-14-10-r115"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  },
+  {
+    "label": "johansson-2013-lifespan-methylome",
+    "fields": [
+      "aging-biology/epigenetic-clocks"
+    ],
+    "geo": "GSE87571",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE87nnn/GSE87571/",
+    "license": "Public domain (NCBI GEO)",
+    "verified": {
+      "geo": {
+        "ok": true,
+        "title": "Continuous Aging of the Human DNA Methylome Throughout the Human Lifespan",
+        "note": "GEO GSE87571"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  },
+  {
+    "label": "tabula-muris-senis",
+    "fields": [
+      "aging-biology/cellular-senescence",
+      "aging-quantitative/omics-integration"
+    ],
+    "pmid": "32669714",
+    "doi": "10.1038/s41586-020-2496-1",
+    "url": "https://tabula-muris-senis.ds.czbiohub.org/",
+    "license": "CC BY 4.0",
+    "verified": {
+      "pmid": {
+        "ok": true,
+        "title": "A single-cell transcriptomic atlas characterizes ageing tissues in the mouse.",
+        "note": "PMID 32669714"
+      },
+      "doi": {
+        "ok": true,
+        "title": "A single-cell transcriptomic atlas characterizes ageing tissues in the mouse (2020)",
+        "note": "DOI 10.1038/s41586-020-2496-1"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  },
+  {
+    "label": "gtex-v8-regulatory-atlas",
+    "fields": [
+      "aging-quantitative/omics-integration"
+    ],
+    "pmid": "32913098",
+    "doi": "10.1126/science.aaz1776",
+    "url": "https://gtexportal.org/home/datasets",
+    "license": "GTEx open access (dbGaP for raw)",
+    "verified": {
+      "pmid": {
+        "ok": true,
+        "title": "The GTEx Consortium atlas of genetic regulatory effects across human tissues.",
+        "note": "PMID 32913098"
+      },
+      "doi": {
+        "ok": true,
+        "title": "The GTEx Consortium atlas of genetic regulatory effects across human tissues (2020)",
+        "note": "DOI 10.1126/science.aaz1776"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  },
+  {
+    "label": "lopez-otin-hallmarks-of-aging-2023",
+    "fields": [
+      "aging-biology/cellular-senescence"
+    ],
+    "pmid": "36599349",
+    "doi": "10.1016/j.cell.2022.11.001",
+    "url": "https://www.cell.com/cell/fulltext/S0092-8674(22)01377-0",
+    "license": "Publisher copyright (reference only)",
+    "verified": {
+      "pmid": {
+        "ok": true,
+        "title": "Hallmarks of aging: An expanding universe.",
+        "note": "PMID 36599349"
+      },
+      "doi": {
+        "ok": true,
+        "title": "Hallmarks of aging: An expanding universe (2023)",
+        "note": "DOI 10.1016/j.cell.2022.11.001"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  },
+  {
+    "label": "levine-phenoage-2018",
+    "fields": [
+      "aging-quantitative/biomarker-validation"
+    ],
+    "pmid": "29676998",
+    "doi": "10.18632/aging.101414",
+    "url": "https://www.aging-us.com/article/101414/text",
+    "license": "CC BY 3.0",
+    "verified": {
+      "pmid": {
+        "ok": true,
+        "title": "An epigenetic biomarker of aging for lifespan and healthspan.",
+        "note": "PMID 29676998"
+      },
+      "doi": {
+        "ok": true,
+        "title": "An epigenetic biomarker of aging for lifespan and healthspan (2018)",
+        "note": "DOI 10.18632/aging.101414"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  },
+  {
+    "label": "lu-grimage-2019",
+    "fields": [
+      "aging-quantitative/biomarker-validation"
+    ],
+    "doi": "10.18632/aging.101684",
+    "url": "https://www.aging-us.com/article/101684/text",
+    "license": "CC BY 3.0",
+    "verified": {
+      "doi": {
+        "ok": true,
+        "title": "DNA methylation GrimAge strongly predicts lifespan and healthspan (2019)",
+        "note": "DOI 10.18632/aging.101684"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  },
+  {
+    "label": "gse64553-fibroblast-aging-rotenone",
+    "fields": [
+      "aging-biology/mitochondrial-function"
+    ],
+    "geo": "GSE64553",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE64nnn/GSE64553/",
+    "license": "Public domain (NCBI GEO)",
+    "verified": {
+      "geo": {
+        "ok": true,
+        "title": "RNA-seq of human fibroblasts during normal aging and during aging with rotenone perturbation",
+        "note": "GEO GSE64553"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  },
+  {
+    "label": "gse84722-fibroblast-coding-noncoding",
+    "fields": [
+      "aging-biology/cellular-senescence"
+    ],
+    "geo": "GSE84722",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84722/",
+    "license": "Public domain (NCBI GEO)",
+    "verified": {
+      "geo": {
+        "ok": true,
+        "title": "Integrative classification of human coding and non-coding genes based on RNA metabolism profiles",
+        "note": "GEO GSE84722"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  },
+  {
+    "label": "gse111629-parkinson-methylation",
+    "fields": [
+      "aging-biology/epigenetic-clocks"
+    ],
+    "geo": "GSE111629",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE11nnn/GSE111629/",
+    "license": "Public domain (NCBI GEO)",
+    "verified": {
+      "geo": {
+        "ok": true,
+        "title": "Genome wide DNA methylation study of Parkinson's disease in whole blood samples",
+        "note": "GEO GSE111629"
+      }
+    },
+    "all_declared_identifiers_resolve": true
+  }
+]
