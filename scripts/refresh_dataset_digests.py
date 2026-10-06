@@ -98,6 +98,29 @@ def repair(text):
     return text
 
 
+def prune(text, keep):
+    """Drop any [[tasks]] block whose slug is no longer a task directory.
+
+    `harbor add` only ever appends and updates, so a renamed task leaves its old
+    entry behind permanently and this file ends up claiming more tasks than exist
+    on disk. That already happened once: a task authored as clock-version-concordance
+    was renamed to clock-coefficient-audit, and the stale entry survived a refresh
+    that reported success, so the count read 38 against 37 tasks. Silently
+    over-counting is worse than failing, so the stale block is removed here and
+    reported rather than left for someone to notice.
+    """
+    parts = text.split("[[tasks]]")
+    kept, dropped = [parts[0]], []
+    for block in parts[1:]:
+        name = re.search(r'name\s*=\s*"([^"]+)"', block)
+        slug = name.group(1).split("/")[-1] if name else None
+        if slug in keep:
+            kept.append(block)
+        else:
+            dropped.append(slug if slug else "<unnamed block>")
+    return "[[tasks]]".join(kept), dropped
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -125,6 +148,7 @@ def main():
         sys.exit(f"harbor add failed with {proc.returncode}")
 
     after_text = repair(DATASET.read_bytes().decode("utf-8"))
+    after_text, dropped = prune(after_text, {d.name for d in dirs})
     DATASET.write_bytes(after_text.encode("utf-8"))
     after = digest_map()
 
@@ -141,6 +165,8 @@ def main():
         print(f"  {slug:<44} {('none' if not was else was[7:19])} -> {after[slug][7:19]}")
     if not changed:
         print("  digests unchanged (already current)")
+    for slug in dropped:
+        print(f"  dropped stale entry {slug!r}: no such task directory")
     print(f"repaired tasks/dataset.toml ({len(after)} task entr(ies))")
     return 0
 
