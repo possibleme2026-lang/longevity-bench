@@ -1,0 +1,6 @@
+scenario,n_unweighted,weighted_adults,n_frail,weighted_frail_adults,weighted_mean_fi,hosp_rate_robust_pct,hosp_rate_frail_pct,rate_ratio_frail_vs_robust,n_reclassified,weighted_reclassified
+reference,15338,15338.0000,2649,2649.0000,0.1516,4.6679,24.4991,5.2484,0,0.0000
+cutpoint-021,15338,15338.0000,3737,3737.0000,0.1516,4.6679,22.2669,4.7702,1088,1088.0000
+complete-items,5015,5015.0000,801,801.0000,0.1534,4.7016,20.1250,4.2804,0,0.0000
+binary-items,15338,15338.0000,11,11.0000,0.0684,8.5110,27.2727,3.2044,8537,8537.0000
+missing-as-absent,15676,15676.0000,2399,2399.0000,0.1446,4.8387,24.5188,5.0672,284,284.0000
