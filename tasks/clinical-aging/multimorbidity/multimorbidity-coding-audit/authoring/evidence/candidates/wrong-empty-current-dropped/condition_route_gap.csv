@@ -1,0 +1,4 @@
+condition,ever_route_pct,current_route_pct,gap_pct,erosion_pct,n_ever,n_current
+HYPEV_A,100.0,84.6877,15.3123,15.3123,10152,8847
+CHLEV_A,100.0,80.5783,19.4217,19.4217,8724,7192
+ASEV_A,100.0,61.1074,38.8926,38.8926,3892,2444
