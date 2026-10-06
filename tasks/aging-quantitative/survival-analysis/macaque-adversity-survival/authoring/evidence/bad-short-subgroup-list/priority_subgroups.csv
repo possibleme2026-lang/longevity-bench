@@ -1,0 +1,5 @@
+subgroup,hr,hr_ci_low,hr_ci_high,p,n_exposed,n_events_exposed
+maternal_loss,1.340766,1.223728,1.468998,3.1238e-10,1455,613
+low_matriline_rank,1.237141,1.141576,1.340706,2.12363e-07,2300,970
+hurricane_exposed,1.058657,0.905818,1.237285,0.473657,468,170
+first_born,1.045960,0.943707,1.159293,0.39193,1136,441

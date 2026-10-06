@@ -1,0 +1,14 @@
+metric,value
+n_animals,6599
+n_events,2513
+n_censored,4086
+hr_ela_per_sd,1.167600
+hr_low_95,1.123247
+hr_high_95,1.213704
+hr_p,4.42618e-15
+hr_ela_sex_stratified,1.170598
+logrank_chi2,38.225770
+logrank_p,6.30147e-10
+ph_lr_chi2,9.963850
+ph_lr_p,0.00686084
+ph_decision,ph_violated

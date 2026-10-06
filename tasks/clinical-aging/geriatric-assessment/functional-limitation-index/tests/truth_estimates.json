@@ -1,0 +1,304 @@
+{
+  "age_association": [
+    {
+      "ci_high": 0.0026973027518080563,
+      "ci_low": 0.0019868134797462285,
+      "population": "all",
+      "se": 0.00018125059380327295,
+      "slope_per_year": 0.0023420581157771424
+    },
+    {
+      "ci_high": 0.0023135399639695464,
+      "ci_low": 0.0014899374904670444,
+      "population": "male",
+      "se": 0.00021010653256870363,
+      "slope_per_year": 0.0019017387272182954
+    },
+    {
+      "ci_high": 0.0031337271460683646,
+      "ci_low": 0.0022558809787387164,
+      "population": "female",
+      "se": 0.0002239444638406591,
+      "slope_per_year": 0.0026948040624035405
+    }
+  ],
+  "design": {
+    "n_psu": 30,
+    "n_strata": 15,
+    "sum_weights": 229151595.997209
+  },
+  "n_analysis_population": 5588,
+  "population_size": {
+    "adults_20plus_with_weight": 5588,
+    "adults_60plus_with_weight": 1785,
+    "unweighted_index_zero": 3808
+  },
+  "priority_strata": [
+    {
+      "age_band": "60-69",
+      "ci_high": 3106893.7168332925,
+      "ci_low": 1645623.4552207077,
+      "estimated_affected_adults": 2376258.586027,
+      "rank": 1,
+      "se": 372779.8758392752,
+      "sex": "female"
+    },
+    {
+      "age_band": "80+",
+      "ci_high": 2687491.7322230637,
+      "ci_low": 1445763.9469989366,
+      "estimated_affected_adults": 2066627.8396110001,
+      "rank": 2,
+      "se": 316773.1129292981,
+      "sex": "female"
+    },
+    {
+      "age_band": "70-79",
+      "ci_high": 2621379.3062317967,
+      "ci_low": 1289174.4531302035,
+      "estimated_affected_adults": 1955276.879681,
+      "rank": 3,
+      "se": 339854.42171638226,
+      "sex": "female"
+    },
+    {
+      "age_band": "60-69",
+      "ci_high": 2526755.954340098,
+      "ci_low": 1120597.4871499022,
+      "estimated_affected_adults": 1823676.720745,
+      "rank": 4,
+      "se": 358720.4862644913,
+      "sex": "male"
+    },
+    {
+      "age_band": "70-79",
+      "ci_high": 1432884.9626334864,
+      "ci_low": 703994.8525205139,
+      "estimated_affected_adults": 1068439.907577,
+      "rank": 5,
+      "se": 185944.77139946565,
+      "sex": "male"
+    },
+    {
+      "age_band": "80+",
+      "ci_high": 1571116.126210263,
+      "ci_low": 523179.0635437368,
+      "estimated_affected_adults": 1047147.594877,
+      "rank": 6,
+      "se": 267335.79569127806,
+      "sex": "male"
+    }
+  ],
+  "strata": [
+    {
+      "age_band": "20-39",
+      "any_difficulty_prevalence": 0.09584105044728719,
+      "any_difficulty_se": 0.011175531839278127,
+      "limitation_ci_high": 0.028330507748787617,
+      "limitation_ci_low": 0.007062353640432891,
+      "limitation_prevalence": 0.017696430694610254,
+      "limitation_se": 0.005425649215014973,
+      "mean_fli": 0.013414662442471545,
+      "mean_fli_se": 0.0027424211869382133,
+      "n_unweighted": 914,
+      "sex": "male",
+      "weighted_population": 41103539.99954
+    },
+    {
+      "age_band": "20-39",
+      "any_difficulty_prevalence": 0.11570961058270973,
+      "any_difficulty_se": 0.011640709833245246,
+      "limitation_ci_high": 0.01982432429781081,
+      "limitation_ci_low": 0.008581374342706886,
+      "limitation_prevalence": 0.014202849320258849,
+      "limitation_se": 0.002868152181312229,
+      "mean_fli": 0.015608890306369359,
+      "mean_fli_se": 0.0015640872812066591,
+      "n_unweighted": 966,
+      "sex": "female",
+      "weighted_population": 41912934.999520995
+    },
+    {
+      "age_band": "20-39",
+      "any_difficulty_prevalence": 0.10587218787512256,
+      "any_difficulty_se": 0.0076901737078911596,
+      "limitation_ci_high": 0.02114678019927819,
+      "limitation_ci_low": 0.010718438055001108,
+      "limitation_prevalence": 0.01593260912713965,
+      "limitation_se": 0.0026603402477123348,
+      "mean_fli": 0.014522473028680209,
+      "mean_fli_se": 0.0012299083037433508,
+      "n_unweighted": 1880,
+      "sex": "all",
+      "weighted_population": 83016474.999061
+    },
+    {
+      "age_band": "40-59",
+      "any_difficulty_prevalence": 0.16107204489176924,
+      "any_difficulty_se": 0.016755964697793755,
+      "limitation_ci_high": 0.07674844629929481,
+      "limitation_ci_low": 0.0352339197030012,
+      "limitation_prevalence": 0.055991183001148005,
+      "limitation_se": 0.010590635063642724,
+      "mean_fli": 0.03092395178944371,
+      "mean_fli_se": 0.004933619305292547,
+      "n_unweighted": 907,
+      "sex": "male",
+      "weighted_population": 41222903.99954
+    },
+    {
+      "age_band": "40-59",
+      "any_difficulty_prevalence": 0.26774823802965725,
+      "any_difficulty_se": 0.0219002117235375,
+      "limitation_ci_high": 0.12107886748672811,
+      "limitation_ci_low": 0.08876776788578666,
+      "limitation_prevalence": 0.10492331768625739,
+      "limitation_se": 0.008242778912216569,
+      "mean_fli": 0.05907216915191397,
+      "mean_fli_se": 0.006053636323760889,
+      "n_unweighted": 1016,
+      "sex": "female",
+      "weighted_population": 43435763.999492
+    },
+    {
+      "age_band": "40-59",
+      "any_difficulty_prevalence": 0.21580432522429832,
+      "any_difficulty_se": 0.017683504752623924,
+      "limitation_ci_high": 0.09804744208696385,
+      "limitation_ci_low": 0.0641460766397778,
+      "limitation_prevalence": 0.08109675936337082,
+      "limitation_se": 0.00864846642963741,
+      "mean_fli": 0.045365938124223286,
+      "mean_fli_se": 0.005194316836247832,
+      "n_unweighted": 1923,
+      "sex": "all",
+      "weighted_population": 84658667.999032
+    },
+    {
+      "age_band": "60-69",
+      "any_difficulty_prevalence": 0.4809375695644852,
+      "any_difficulty_se": 0.04350958765690027,
+      "limitation_ci_high": 0.15990655296845024,
+      "limitation_ci_low": 0.07165730119316133,
+      "limitation_prevalence": 0.11578192708080579,
+      "limitation_se": 0.022512977909642157,
+      "mean_fli": 0.08455854153443558,
+      "mean_fli_se": 0.011673402597014125,
+      "n_unweighted": 442,
+      "sex": "male",
+      "weighted_population": 15750961.887792999
+    },
+    {
+      "age_band": "60-69",
+      "any_difficulty_prevalence": 0.5946107011148077,
+      "any_difficulty_se": 0.0321955195154747,
+      "limitation_ci_high": 0.18649262507190623,
+      "limitation_ci_low": 0.08632065447353972,
+      "limitation_prevalence": 0.13640663977272297,
+      "limitation_se": 0.025554543702973682,
+      "mean_fli": 0.09126658857801351,
+      "mean_fli_se": 0.010405685266508815,
+      "n_unweighted": 476,
+      "sex": "female",
+      "weighted_population": 17420402.628392998
+    },
+    {
+      "age_band": "60-69",
+      "any_difficulty_prevalence": 0.5406345928410117,
+      "any_difficulty_se": 0.029838181931153167,
+      "limitation_ci_high": 0.1674324194803762,
+      "limitation_ci_low": 0.08579414313043457,
+      "limitation_prevalence": 0.1266132813054054,
+      "limitation_se": 0.020826473596936974,
+      "mean_fli": 0.0880813655741976,
+      "mean_fli_se": 0.009260062382512268,
+      "n_unweighted": 918,
+      "sex": "all",
+      "weighted_population": 33171364.516186
+    },
+    {
+      "age_band": "70-79",
+      "any_difficulty_prevalence": 0.565126802244788,
+      "any_difficulty_se": 0.03964065025568668,
+      "limitation_ci_high": 0.1718522577073316,
+      "limitation_ci_low": 0.09176401636578602,
+      "limitation_prevalence": 0.1318081370365588,
+      "limitation_se": 0.020431049236942975,
+      "mean_fli": 0.09135772004443347,
+      "mean_fli_se": 0.009013071975069873,
+      "n_unweighted": 253,
+      "sex": "male",
+      "weighted_population": 8106023.888955001
+    },
+    {
+      "age_band": "70-79",
+      "any_difficulty_prevalence": 0.6806261495192674,
+      "any_difficulty_se": 0.03322764892476606,
+      "limitation_ci_high": 0.2553261509298679,
+      "limitation_ci_low": 0.13571000567679845,
+      "limitation_prevalence": 0.19551807830333315,
+      "limitation_se": 0.030514883486785042,
+      "mean_fli": 0.11513610695056417,
+      "mean_fli_se": 0.011269437152962601,
+      "n_unweighted": 282,
+      "sex": "female",
+      "weighted_population": 10000491.497505
+    },
+    {
+      "age_band": "70-79",
+      "any_difficulty_prevalence": 0.6289187697069288,
+      "any_difficulty_se": 0.03136853952309141,
+      "limitation_ci_high": 0.20875490745252223,
+      "limitation_ci_low": 0.1252372188866106,
+      "limitation_prevalence": 0.16699606316956642,
+      "limitation_se": 0.021305924298785216,
+      "mean_fli": 0.10449086858260925,
+      "mean_fli_se": 0.008801321041509061,
+      "n_unweighted": 535,
+      "sex": "all",
+      "weighted_population": 18106515.38646
+    },
+    {
+      "age_band": "80+",
+      "any_difficulty_prevalence": 0.7449052532636884,
+      "any_difficulty_se": 0.03627042168322433,
+      "limitation_ci_high": 0.3700427380865665,
+      "limitation_ci_low": 0.1621529998054262,
+      "limitation_prevalence": 0.26609786894599635,
+      "limitation_se": 0.053034071013791095,
+      "mean_fli": 0.14445517641063424,
+      "mean_fli_se": 0.018966693300244156,
+      "n_unweighted": 153,
+      "sex": "male",
+      "weighted_population": 3935197.222829
+    },
+    {
+      "age_band": "80+",
+      "any_difficulty_prevalence": 0.8413492838922739,
+      "any_difficulty_se": 0.0446123060784466,
+      "limitation_ci_high": 0.41287007778336937,
+      "limitation_ci_low": 0.24703853421875097,
+      "limitation_prevalence": 0.3299543060010602,
+      "limitation_se": 0.04230474255462766,
+      "mean_fli": 0.21455541493418945,
+      "mean_fli_se": 0.024813250802739002,
+      "n_unweighted": 179,
+      "sex": "female",
+      "weighted_population": 6263375.873641
+    },
+    {
+      "age_band": "80+",
+      "any_difficulty_prevalence": 0.8041356190101338,
+      "any_difficulty_se": 0.0335214273020964,
+      "limitation_ci_high": 0.37177024602878905,
+      "limitation_ci_low": 0.23885937931865517,
+      "limitation_prevalence": 0.3053148126737221,
+      "limitation_se": 0.033906456383514666,
+      "mean_fli": 0.18750670318322626,
+      "mean_fli_se": 0.016853472389234573,
+      "n_unweighted": 332,
+      "sex": "all",
+      "weighted_population": 10198573.09647
+    }
+  ]
+}

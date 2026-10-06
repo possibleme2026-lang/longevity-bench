@@ -1,0 +1,7 @@
+# Re-downloaded by authoring/provenance/fetch.py and digest-checked against the
+# pins in that file. 6.5 MB of upstream XPT that is one command away, so it is
+# not committed.
+raw/
+
+__pycache__/
+.pytest_cache/

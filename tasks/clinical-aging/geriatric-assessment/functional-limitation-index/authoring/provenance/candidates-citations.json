@@ -1,0 +1,62 @@
+[
+  {
+    "label": "searle-2008-standard-procedure-frailty-index",
+    "fields": ["clinical-aging/geriatric-assessment"],
+    "doi": "10.1186/1471-2318-8-24",
+    "pmid": "18826625",
+    "license": "Open access, CC BY 2.0 (BMC Geriatrics)",
+    "note": "Deficit-accumulation standard procedure: candidate deficits mapped to the interval 0-1, index = proportion of deficits present, ~40 deficits used."
+  },
+  {
+    "label": "blodgett-2015-frailty-in-nhanes",
+    "fields": ["clinical-aging/geriatric-assessment"],
+    "doi": "10.1016/j.archger.2015.01.016",
+    "pmid": "25697060",
+    "license": "Publisher copyright; cited only, never redistributed",
+    "note": "46-item deficit-accumulation frailty index built in NHANES following a standard protocol; reports ADL and IADL disability alongside it."
+  },
+  {
+    "label": "frailty-index-025-cut-point-chinese-cohort",
+    "fields": ["clinical-aging/geriatric-assessment"],
+    "doi": "10.1007/s12603-015-0625-6",
+    "pmid": "27102796",
+    "license": "Publisher copyright; cited only, never redistributed",
+    "note": "Calls 0.25 the usual frailty-index cut-point."
+  },
+  {
+    "label": "nhanes-2013-2018-physical-functioning-limitation",
+    "fields": ["clinical-aging/geriatric-assessment"],
+    "doi": "10.1016/j.pmedr.2023.102413",
+    "pmid": "37753381",
+    "license": "Open access, CC BY (Preventive Medicine Reports)",
+    "note": "Defines a physical functioning limitation in NHANES 2013-2018 as difficulty with any ADL, IADL, lower-extremity mobility, or general physical activity item."
+  },
+  {
+    "label": "nhanes-2013-2014-pfq-h-codebook",
+    "fields": ["clinical-aging/geriatric-assessment"],
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/PFQ_H.htm",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "PFQ_H codebook: item wording, response codes, and the PFQ054/PFQ059A skip instructions."
+  },
+  {
+    "label": "nhanes-2013-2014-demo-h-codebook",
+    "fields": ["clinical-aging/geriatric-assessment"],
+    "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/DEMO_H.htm",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "DEMO_H codebook: RIDAGEYR topcoded at 80, WTMEC2YR, SDMVPSU, SDMVSTRA."
+  },
+  {
+    "label": "nhanes-analytic-guidelines",
+    "fields": ["clinical-aging/geriatric-assessment"],
+    "url": "https://wwwn.cdc.gov/nchs/nhanes/analyticguidelines.aspx",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "NHANES analytic guidelines: sample weights, strata and PSU."
+  },
+  {
+    "label": "nhanes-tutorial-weighting-module",
+    "fields": ["clinical-aging/geriatric-assessment"],
+    "url": "https://wwwn.cdc.gov/nchs/nhanes/tutorials/weighting.aspx",
+    "license": "Public domain (US CDC/NCHS)",
+    "note": "NHANES tutorial on weighting: when to use WTMEC2YR vs WTINT2YR and the 4-year weight rule."
+  }
+]

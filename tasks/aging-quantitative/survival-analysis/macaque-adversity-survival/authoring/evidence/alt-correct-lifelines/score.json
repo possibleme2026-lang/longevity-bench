@@ -1,0 +1,9 @@
+{
+  "built": true,
+  "expected": "pass",
+  "failures": [],
+  "n_tests": 18,
+  "reward": 1,
+  "skipped": [],
+  "why": "correct, with every Cox number from lifelines"
+}
